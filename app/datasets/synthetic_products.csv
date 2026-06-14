@@ -1,0 +1,1201 @@
+name,brand,type,gender,shape,frame_material,color,price,description,rating,reviews_count
+Oakley Square Sunglasses 1,Oakley,sunglasses,male,square,metal,brown,3786,"Коричневые мужские очки формы квадратные, металлическая оправа, UV400.",4.68,22194
+Oakley Rectangular Sunglasses 2,Oakley,sunglasses,unisex,rectangular,metal,black,3035,"Черные унисекс очки формы прямоугольные, металлическая оправа, UV400.",4.06,16579
+Ray-Ban Round Sunglasses 3,Ray-Ban,sunglasses,unisex,round,plastic,blue,5111,"Синие унисекс очки формы круглые, пластиковая оправа, UV400.",4.34,9135
+Ray-Ban Rectangular Sunglasses 4,Ray-Ban,sunglasses,male,rectangular,plastic,gold,4047,"Золотые мужские очки формы прямоугольные, пластиковая оправа, UV400.",4.06,25038
+Carrera Aviator Sunglasses 5,Carrera,sunglasses,male,aviator,metal,silver,7381,"Серебристые мужские очки формы авиаторы, металлическая оправа, UV400.",4.82,19802
+Vogue Rectangular Sunglasses 6,Vogue,sunglasses,male,rectangular,metal,blue,7701,"Синие мужские очки формы прямоугольные, металлическая оправа, UV400.",3.89,9626
+Carrera Round Sunglasses 7,Carrera,sunglasses,unisex,round,metal,black,12334,"Черные унисекс очки формы круглые, металлическая оправа, UV400.",4.07,9502
+Oakley Aviator Sunglasses 8,Oakley,sunglasses,male,aviator,plastic,silver,8928,"Серебристые мужские очки формы авиаторы, пластиковая оправа, UV400.",4.56,11974
+Polaroid Square Sunglasses 9,Polaroid,sunglasses,female,square,acetate,brown,5874,"Коричневые женские очки формы квадратные, ацетатная оправа, UV400.",4.64,22418
+Oakley Round Sunglasses 10,Oakley,sunglasses,unisex,round,acetate,blue,5510,"Синие унисекс очки формы круглые, ацетатная оправа, UV400.",4.0,12453
+Vogue Cat-Eye Sunglasses 11,Vogue,sunglasses,unisex,cat-eye,acetate,brown,6813,"Коричневые унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",4.81,25447
+Ray-Ban Aviator Sunglasses 12,Ray-Ban,sunglasses,male,aviator,plastic,gold,5886,"Золотые мужские очки формы авиаторы, пластиковая оправа, UV400.",3.88,29941
+Carrera Rectangular Sunglasses 13,Carrera,sunglasses,male,rectangular,acetate,silver,9017,"Серебристые мужские очки формы прямоугольные, ацетатная оправа, UV400.",3.97,4595
+SOJOS Cat-Eye Sunglasses 14,SOJOS,sunglasses,unisex,cat-eye,plastic,blue,13739,"Синие унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.5,29439
+Guess Round Sunglasses 15,Guess,sunglasses,female,round,acetate,brown,9585,"Коричневые женские очки формы круглые, ацетатная оправа, UV400.",3.91,1563
+Oakley Round Sunglasses 16,Oakley,sunglasses,male,round,acetate,silver,2540,"Серебристые мужские очки формы круглые, ацетатная оправа, UV400.",4.26,19546
+Prada Square Sunglasses 17,Prada,sunglasses,unisex,square,metal,blue,12645,"Синие унисекс очки формы квадратные, металлическая оправа, UV400.",4.66,22358
+Vogue Square Sunglasses 18,Vogue,sunglasses,unisex,square,plastic,black,8623,"Черные унисекс очки формы квадратные, пластиковая оправа, UV400.",3.99,126
+Vogue Round Sunglasses 19,Vogue,sunglasses,unisex,round,metal,blue,11744,"Синие унисекс очки формы круглые, металлическая оправа, UV400.",4.16,20957
+SOJOS Square Sunglasses 20,SOJOS,sunglasses,male,square,acetate,brown,14257,"Коричневые мужские очки формы квадратные, ацетатная оправа, UV400.",4.91,38
+Carrera Aviator Sunglasses 21,Carrera,sunglasses,female,aviator,plastic,black,14718,"Черные женские очки формы авиаторы, пластиковая оправа, UV400.",4.17,1918
+SOJOS Aviator Sunglasses 22,SOJOS,sunglasses,unisex,aviator,acetate,black,9462,"Черные унисекс очки формы авиаторы, ацетатная оправа, UV400.",4.78,24943
+Polaroid Rectangular Sunglasses 23,Polaroid,sunglasses,male,rectangular,metal,blue,5842,"Синие мужские очки формы прямоугольные, металлическая оправа, UV400.",4.43,19896
+Guess Cat-Eye Sunglasses 24,Guess,sunglasses,male,cat-eye,acetate,brown,6607,"Коричневые мужские очки формы кошачий глаз, ацетатная оправа, UV400.",4.28,22029
+Carrera Cat-Eye Sunglasses 25,Carrera,sunglasses,female,cat-eye,metal,silver,5561,"Серебристые женские очки формы кошачий глаз, металлическая оправа, UV400.",4.07,11098
+Ray-Ban Cat-Eye Sunglasses 26,Ray-Ban,sunglasses,unisex,cat-eye,acetate,brown,5108,"Коричневые унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",3.81,23214
+Ray-Ban Aviator Sunglasses 27,Ray-Ban,sunglasses,male,aviator,plastic,black,2660,"Черные мужские очки формы авиаторы, пластиковая оправа, UV400.",4.42,9145
+Prada Cat-Eye Sunglasses 28,Prada,sunglasses,male,cat-eye,acetate,brown,10855,"Коричневые мужские очки формы кошачий глаз, ацетатная оправа, UV400.",4.49,7982
+Prada Round Sunglasses 29,Prada,sunglasses,female,round,metal,black,12296,"Черные женские очки формы круглые, металлическая оправа, UV400.",4.32,13899
+Guess Aviator Sunglasses 30,Guess,sunglasses,female,aviator,metal,black,8096,"Черные женские очки формы авиаторы, металлическая оправа, UV400.",4.67,26253
+Oakley Round Sunglasses 31,Oakley,sunglasses,male,round,acetate,brown,8850,"Коричневые мужские очки формы круглые, ацетатная оправа, UV400.",3.97,6032
+Vogue Round Sunglasses 32,Vogue,sunglasses,female,round,plastic,black,14738,"Черные женские очки формы круглые, пластиковая оправа, UV400.",4.83,18053
+Oakley Cat-Eye Sunglasses 33,Oakley,sunglasses,male,cat-eye,metal,black,13846,"Черные мужские очки формы кошачий глаз, металлическая оправа, UV400.",4.82,5469
+Guess Rectangular Sunglasses 34,Guess,sunglasses,female,rectangular,plastic,brown,2460,"Коричневые женские очки формы прямоугольные, пластиковая оправа, UV400.",4.0,90
+Guess Rectangular Sunglasses 35,Guess,sunglasses,female,rectangular,plastic,gold,12912,"Золотые женские очки формы прямоугольные, пластиковая оправа, UV400.",4.95,25689
+Prada Round Sunglasses 36,Prada,sunglasses,male,round,metal,gold,2458,"Золотые мужские очки формы круглые, металлическая оправа, UV400.",4.5,17786
+Ray-Ban Square Sunglasses 37,Ray-Ban,sunglasses,unisex,square,metal,black,11071,"Черные унисекс очки формы квадратные, металлическая оправа, UV400.",4.37,27961
+Polaroid Cat-Eye Sunglasses 38,Polaroid,sunglasses,male,cat-eye,metal,black,2622,"Черные мужские очки формы кошачий глаз, металлическая оправа, UV400.",4.51,22145
+SOJOS Aviator Sunglasses 39,SOJOS,sunglasses,female,aviator,metal,blue,10985,"Синие женские очки формы авиаторы, металлическая оправа, UV400.",4.51,20315
+Oakley Cat-Eye Sunglasses 40,Oakley,sunglasses,female,cat-eye,acetate,blue,6683,"Синие женские очки формы кошачий глаз, ацетатная оправа, UV400.",4.92,6713
+Carrera Square Sunglasses 41,Carrera,sunglasses,male,square,metal,silver,12504,"Серебристые мужские очки формы квадратные, металлическая оправа, UV400.",4.57,15002
+Carrera Aviator Sunglasses 42,Carrera,sunglasses,male,aviator,acetate,silver,10724,"Серебристые мужские очки формы авиаторы, ацетатная оправа, UV400.",5.0,2420
+SOJOS Square Sunglasses 43,SOJOS,sunglasses,unisex,square,plastic,brown,2627,"Коричневые унисекс очки формы квадратные, пластиковая оправа, UV400.",4.86,12128
+Vogue Rectangular Sunglasses 44,Vogue,sunglasses,male,rectangular,acetate,blue,6456,"Синие мужские очки формы прямоугольные, ацетатная оправа, UV400.",4.53,26467
+Ray-Ban Cat-Eye Sunglasses 45,Ray-Ban,sunglasses,unisex,cat-eye,acetate,gold,3197,"Золотые унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",4.93,4420
+Vogue Aviator Sunglasses 46,Vogue,sunglasses,male,aviator,metal,blue,5962,"Синие мужские очки формы авиаторы, металлическая оправа, UV400.",4.14,6921
+Carrera Square Sunglasses 47,Carrera,sunglasses,male,square,plastic,blue,5614,"Синие мужские очки формы квадратные, пластиковая оправа, UV400.",4.89,27745
+Ray-Ban Rectangular Sunglasses 48,Ray-Ban,sunglasses,male,rectangular,metal,gold,1558,"Золотые мужские очки формы прямоугольные, металлическая оправа, UV400.",4.2,4306
+Vogue Rectangular Sunglasses 49,Vogue,sunglasses,male,rectangular,acetate,blue,8507,"Синие мужские очки формы прямоугольные, ацетатная оправа, UV400.",4.47,3685
+Oakley Round Sunglasses 50,Oakley,sunglasses,unisex,round,metal,blue,7549,"Синие унисекс очки формы круглые, металлическая оправа, UV400.",4.5,4872
+Guess Aviator Sunglasses 51,Guess,sunglasses,male,aviator,plastic,gold,14543,"Золотые мужские очки формы авиаторы, пластиковая оправа, UV400.",4.97,1327
+Carrera Round Sunglasses 52,Carrera,sunglasses,male,round,plastic,black,14281,"Черные мужские очки формы круглые, пластиковая оправа, UV400.",4.47,28682
+Guess Round Sunglasses 53,Guess,sunglasses,unisex,round,metal,brown,14605,"Коричневые унисекс очки формы круглые, металлическая оправа, UV400.",4.77,28902
+Guess Round Sunglasses 54,Guess,sunglasses,male,round,plastic,gold,14643,"Золотые мужские очки формы круглые, пластиковая оправа, UV400.",4.6,24106
+SOJOS Round Sunglasses 55,SOJOS,sunglasses,female,round,plastic,black,2134,"Черные женские очки формы круглые, пластиковая оправа, UV400.",4.83,7308
+SOJOS Square Sunglasses 56,SOJOS,sunglasses,female,square,metal,gold,5152,"Золотые женские очки формы квадратные, металлическая оправа, UV400.",3.83,6348
+Guess Square Sunglasses 57,Guess,sunglasses,female,square,plastic,black,7253,"Черные женские очки формы квадратные, пластиковая оправа, UV400.",4.57,13116
+Carrera Aviator Sunglasses 58,Carrera,sunglasses,male,aviator,metal,gold,11012,"Золотые мужские очки формы авиаторы, металлическая оправа, UV400.",4.96,8718
+Ray-Ban Cat-Eye Sunglasses 59,Ray-Ban,sunglasses,male,cat-eye,plastic,silver,13436,"Серебристые мужские очки формы кошачий глаз, пластиковая оправа, UV400.",4.74,14319
+Oakley Cat-Eye Sunglasses 60,Oakley,sunglasses,female,cat-eye,plastic,brown,2227,"Коричневые женские очки формы кошачий глаз, пластиковая оправа, UV400.",4.65,75
+SOJOS Rectangular Sunglasses 61,SOJOS,sunglasses,female,rectangular,acetate,black,6909,"Черные женские очки формы прямоугольные, ацетатная оправа, UV400.",4.55,21757
+Oakley Square Sunglasses 62,Oakley,sunglasses,unisex,square,plastic,blue,12426,"Синие унисекс очки формы квадратные, пластиковая оправа, UV400.",4.29,13205
+Vogue Round Sunglasses 63,Vogue,sunglasses,unisex,round,plastic,brown,12394,"Коричневые унисекс очки формы круглые, пластиковая оправа, UV400.",4.93,22214
+Polaroid Cat-Eye Sunglasses 64,Polaroid,sunglasses,unisex,cat-eye,plastic,gold,10477,"Золотые унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.8,9977
+Vogue Rectangular Sunglasses 65,Vogue,sunglasses,male,rectangular,acetate,blue,12226,"Синие мужские очки формы прямоугольные, ацетатная оправа, UV400.",4.19,14496
+Prada Round Sunglasses 66,Prada,sunglasses,unisex,round,plastic,blue,14504,"Синие унисекс очки формы круглые, пластиковая оправа, UV400.",4.88,26104
+Polaroid Aviator Sunglasses 67,Polaroid,sunglasses,unisex,aviator,acetate,gold,12376,"Золотые унисекс очки формы авиаторы, ацетатная оправа, UV400.",4.56,11003
+Oakley Square Sunglasses 68,Oakley,sunglasses,male,square,metal,brown,3914,"Коричневые мужские очки формы квадратные, металлическая оправа, UV400.",3.83,8043
+Prada Aviator Sunglasses 69,Prada,sunglasses,unisex,aviator,plastic,silver,11818,"Серебристые унисекс очки формы авиаторы, пластиковая оправа, UV400.",4.49,23558
+Guess Rectangular Sunglasses 70,Guess,sunglasses,female,rectangular,metal,brown,12248,"Коричневые женские очки формы прямоугольные, металлическая оправа, UV400.",4.63,29270
+Oakley Round Sunglasses 71,Oakley,sunglasses,female,round,acetate,brown,9986,"Коричневые женские очки формы круглые, ацетатная оправа, UV400.",4.36,18285
+SOJOS Rectangular Sunglasses 72,SOJOS,sunglasses,male,rectangular,plastic,brown,12437,"Коричневые мужские очки формы прямоугольные, пластиковая оправа, UV400.",4.44,18334
+Carrera Cat-Eye Sunglasses 73,Carrera,sunglasses,female,cat-eye,plastic,blue,10476,"Синие женские очки формы кошачий глаз, пластиковая оправа, UV400.",4.34,5235
+Prada Square Sunglasses 74,Prada,sunglasses,female,square,acetate,brown,6043,"Коричневые женские очки формы квадратные, ацетатная оправа, UV400.",4.72,17101
+Prada Round Sunglasses 75,Prada,sunglasses,unisex,round,plastic,gold,2769,"Золотые унисекс очки формы круглые, пластиковая оправа, UV400.",4.66,7703
+Vogue Square Sunglasses 76,Vogue,sunglasses,female,square,metal,blue,3767,"Синие женские очки формы квадратные, металлическая оправа, UV400.",3.98,12571
+Polaroid Round Sunglasses 77,Polaroid,sunglasses,unisex,round,plastic,black,8178,"Черные унисекс очки формы круглые, пластиковая оправа, UV400.",4.2,15287
+Guess Round Sunglasses 78,Guess,sunglasses,male,round,plastic,silver,14112,"Серебристые мужские очки формы круглые, пластиковая оправа, UV400.",4.5,22810
+Ray-Ban Rectangular Sunglasses 79,Ray-Ban,sunglasses,unisex,rectangular,metal,silver,7263,"Серебристые унисекс очки формы прямоугольные, металлическая оправа, UV400.",4.16,12799
+Guess Cat-Eye Sunglasses 80,Guess,sunglasses,unisex,cat-eye,metal,blue,9499,"Синие унисекс очки формы кошачий глаз, металлическая оправа, UV400.",4.06,14301
+Prada Rectangular Sunglasses 81,Prada,sunglasses,male,rectangular,acetate,gold,12627,"Золотые мужские очки формы прямоугольные, ацетатная оправа, UV400.",4.76,23749
+Polaroid Round Sunglasses 82,Polaroid,sunglasses,female,round,acetate,blue,1941,"Синие женские очки формы круглые, ацетатная оправа, UV400.",4.89,19415
+Ray-Ban Rectangular Sunglasses 83,Ray-Ban,sunglasses,male,rectangular,plastic,brown,4477,"Коричневые мужские очки формы прямоугольные, пластиковая оправа, UV400.",3.86,12442
+Carrera Rectangular Sunglasses 84,Carrera,sunglasses,male,rectangular,plastic,gold,13971,"Золотые мужские очки формы прямоугольные, пластиковая оправа, UV400.",4.86,9137
+Guess Aviator Sunglasses 85,Guess,sunglasses,female,aviator,metal,silver,13772,"Серебристые женские очки формы авиаторы, металлическая оправа, UV400.",4.45,11487
+SOJOS Aviator Sunglasses 86,SOJOS,sunglasses,unisex,aviator,metal,black,5551,"Черные унисекс очки формы авиаторы, металлическая оправа, UV400.",4.04,687
+Polaroid Round Sunglasses 87,Polaroid,sunglasses,male,round,acetate,silver,3374,"Серебристые мужские очки формы круглые, ацетатная оправа, UV400.",4.48,7162
+Prada Square Sunglasses 88,Prada,sunglasses,unisex,square,metal,gold,11426,"Золотые унисекс очки формы квадратные, металлическая оправа, UV400.",4.53,24528
+Oakley Square Sunglasses 89,Oakley,sunglasses,male,square,acetate,black,1920,"Черные мужские очки формы квадратные, ацетатная оправа, UV400.",4.91,18887
+Guess Round Sunglasses 90,Guess,sunglasses,female,round,acetate,black,12815,"Черные женские очки формы круглые, ацетатная оправа, UV400.",4.8,7977
+Oakley Square Sunglasses 91,Oakley,sunglasses,unisex,square,metal,blue,14545,"Синие унисекс очки формы квадратные, металлическая оправа, UV400.",4.98,25665
+Ray-Ban Cat-Eye Sunglasses 92,Ray-Ban,sunglasses,female,cat-eye,acetate,silver,7571,"Серебристые женские очки формы кошачий глаз, ацетатная оправа, UV400.",3.88,21238
+Carrera Rectangular Sunglasses 93,Carrera,sunglasses,male,rectangular,metal,silver,8602,"Серебристые мужские очки формы прямоугольные, металлическая оправа, UV400.",4.95,20846
+Prada Round Sunglasses 94,Prada,sunglasses,unisex,round,metal,silver,13522,"Серебристые унисекс очки формы круглые, металлическая оправа, UV400.",4.43,21334
+Vogue Cat-Eye Sunglasses 95,Vogue,sunglasses,unisex,cat-eye,plastic,silver,8636,"Серебристые унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.79,19434
+Vogue Round Sunglasses 96,Vogue,sunglasses,female,round,plastic,black,8885,"Черные женские очки формы круглые, пластиковая оправа, UV400.",4.09,15247
+Guess Aviator Sunglasses 97,Guess,sunglasses,female,aviator,plastic,silver,4479,"Серебристые женские очки формы авиаторы, пластиковая оправа, UV400.",4.39,11646
+Vogue Square Sunglasses 98,Vogue,sunglasses,female,square,acetate,blue,6026,"Синие женские очки формы квадратные, ацетатная оправа, UV400.",4.47,16948
+SOJOS Round Sunglasses 99,SOJOS,sunglasses,male,round,plastic,silver,10596,"Серебристые мужские очки формы круглые, пластиковая оправа, UV400.",4.71,22649
+Prada Rectangular Sunglasses 100,Prada,sunglasses,unisex,rectangular,metal,silver,3024,"Серебристые унисекс очки формы прямоугольные, металлическая оправа, UV400.",4.15,13271
+SOJOS Cat-Eye Sunglasses 101,SOJOS,sunglasses,female,cat-eye,plastic,gold,10568,"Золотые женские очки формы кошачий глаз, пластиковая оправа, UV400.",4.44,13962
+Carrera Rectangular Sunglasses 102,Carrera,sunglasses,female,rectangular,plastic,gold,5618,"Золотые женские очки формы прямоугольные, пластиковая оправа, UV400.",4.08,23655
+SOJOS Aviator Sunglasses 103,SOJOS,sunglasses,female,aviator,acetate,blue,4533,"Синие женские очки формы авиаторы, ацетатная оправа, UV400.",4.03,24222
+Prada Cat-Eye Sunglasses 104,Prada,sunglasses,female,cat-eye,acetate,blue,6136,"Синие женские очки формы кошачий глаз, ацетатная оправа, UV400.",4.98,27303
+SOJOS Round Sunglasses 105,SOJOS,sunglasses,female,round,metal,gold,6452,"Золотые женские очки формы круглые, металлическая оправа, UV400.",3.82,17522
+Polaroid Aviator Sunglasses 106,Polaroid,sunglasses,female,aviator,acetate,black,6286,"Черные женские очки формы авиаторы, ацетатная оправа, UV400.",4.64,4157
+Prada Aviator Sunglasses 107,Prada,sunglasses,male,aviator,plastic,blue,9190,"Синие мужские очки формы авиаторы, пластиковая оправа, UV400.",4.37,11184
+Polaroid Square Sunglasses 108,Polaroid,sunglasses,male,square,metal,silver,14969,"Серебристые мужские очки формы квадратные, металлическая оправа, UV400.",3.88,16133
+Oakley Aviator Sunglasses 109,Oakley,sunglasses,unisex,aviator,metal,brown,14789,"Коричневые унисекс очки формы авиаторы, металлическая оправа, UV400.",4.48,9976
+Oakley Aviator Sunglasses 110,Oakley,sunglasses,male,aviator,plastic,blue,11433,"Синие мужские очки формы авиаторы, пластиковая оправа, UV400.",4.52,20284
+SOJOS Rectangular Sunglasses 111,SOJOS,sunglasses,unisex,rectangular,plastic,silver,6371,"Серебристые унисекс очки формы прямоугольные, пластиковая оправа, UV400.",4.83,14071
+Vogue Cat-Eye Sunglasses 112,Vogue,sunglasses,unisex,cat-eye,acetate,black,13625,"Черные унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",3.92,25013
+SOJOS Round Sunglasses 113,SOJOS,sunglasses,unisex,round,acetate,gold,2830,"Золотые унисекс очки формы круглые, ацетатная оправа, UV400.",3.99,5715
+Oakley Aviator Sunglasses 114,Oakley,sunglasses,male,aviator,plastic,silver,12794,"Серебристые мужские очки формы авиаторы, пластиковая оправа, UV400.",4.51,9563
+Ray-Ban Square Sunglasses 115,Ray-Ban,sunglasses,male,square,acetate,gold,8938,"Золотые мужские очки формы квадратные, ацетатная оправа, UV400.",3.89,7668
+Vogue Cat-Eye Sunglasses 116,Vogue,sunglasses,unisex,cat-eye,plastic,brown,3380,"Коричневые унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.45,21241
+Polaroid Round Sunglasses 117,Polaroid,sunglasses,female,round,metal,black,4218,"Черные женские очки формы круглые, металлическая оправа, UV400.",4.75,19518
+Vogue Aviator Sunglasses 118,Vogue,sunglasses,female,aviator,acetate,silver,6482,"Серебристые женские очки формы авиаторы, ацетатная оправа, UV400.",4.64,8940
+Prada Aviator Sunglasses 119,Prada,sunglasses,female,aviator,metal,blue,8578,"Синие женские очки формы авиаторы, металлическая оправа, UV400.",4.68,19802
+Vogue Aviator Sunglasses 120,Vogue,sunglasses,male,aviator,acetate,brown,10924,"Коричневые мужские очки формы авиаторы, ацетатная оправа, UV400.",4.5,699
+Vogue Aviator Sunglasses 121,Vogue,sunglasses,unisex,aviator,plastic,brown,10002,"Коричневые унисекс очки формы авиаторы, пластиковая оправа, UV400.",4.58,9134
+Polaroid Rectangular Sunglasses 122,Polaroid,sunglasses,unisex,rectangular,metal,silver,9200,"Серебристые унисекс очки формы прямоугольные, металлическая оправа, UV400.",4.22,10941
+Carrera Aviator Sunglasses 123,Carrera,sunglasses,unisex,aviator,plastic,brown,8244,"Коричневые унисекс очки формы авиаторы, пластиковая оправа, UV400.",4.63,9464
+Guess Aviator Sunglasses 124,Guess,sunglasses,unisex,aviator,metal,silver,6653,"Серебристые унисекс очки формы авиаторы, металлическая оправа, UV400.",4.1,3818
+Guess Aviator Sunglasses 125,Guess,sunglasses,unisex,aviator,plastic,blue,8270,"Синие унисекс очки формы авиаторы, пластиковая оправа, UV400.",3.87,17008
+Carrera Rectangular Sunglasses 126,Carrera,sunglasses,unisex,rectangular,metal,silver,4835,"Серебристые унисекс очки формы прямоугольные, металлическая оправа, UV400.",4.12,4313
+Vogue Rectangular Sunglasses 127,Vogue,sunglasses,female,rectangular,metal,black,11822,"Черные женские очки формы прямоугольные, металлическая оправа, UV400.",4.53,7861
+Polaroid Cat-Eye Sunglasses 128,Polaroid,sunglasses,female,cat-eye,acetate,black,8184,"Черные женские очки формы кошачий глаз, ацетатная оправа, UV400.",3.91,27591
+Oakley Aviator Sunglasses 129,Oakley,sunglasses,female,aviator,plastic,brown,13240,"Коричневые женские очки формы авиаторы, пластиковая оправа, UV400.",4.15,23134
+Vogue Rectangular Sunglasses 130,Vogue,sunglasses,female,rectangular,metal,silver,8983,"Серебристые женские очки формы прямоугольные, металлическая оправа, UV400.",4.46,12589
+SOJOS Cat-Eye Sunglasses 131,SOJOS,sunglasses,unisex,cat-eye,metal,brown,6026,"Коричневые унисекс очки формы кошачий глаз, металлическая оправа, UV400.",4.73,28017
+Guess Cat-Eye Sunglasses 132,Guess,sunglasses,female,cat-eye,metal,gold,6134,"Золотые женские очки формы кошачий глаз, металлическая оправа, UV400.",4.67,27462
+Prada Rectangular Sunglasses 133,Prada,sunglasses,male,rectangular,plastic,blue,7154,"Синие мужские очки формы прямоугольные, пластиковая оправа, UV400.",4.2,25017
+Guess Square Sunglasses 134,Guess,sunglasses,female,square,acetate,brown,5412,"Коричневые женские очки формы квадратные, ацетатная оправа, UV400.",4.49,7673
+Guess Square Sunglasses 135,Guess,sunglasses,male,square,acetate,silver,14794,"Серебристые мужские очки формы квадратные, ацетатная оправа, UV400.",4.26,21767
+Polaroid Aviator Sunglasses 136,Polaroid,sunglasses,female,aviator,acetate,brown,11169,"Коричневые женские очки формы авиаторы, ацетатная оправа, UV400.",4.2,3308
+Prada Cat-Eye Sunglasses 137,Prada,sunglasses,male,cat-eye,metal,silver,13336,"Серебристые мужские очки формы кошачий глаз, металлическая оправа, UV400.",3.97,28558
+Polaroid Rectangular Sunglasses 138,Polaroid,sunglasses,male,rectangular,plastic,gold,11711,"Золотые мужские очки формы прямоугольные, пластиковая оправа, UV400.",4.63,21313
+Oakley Cat-Eye Sunglasses 139,Oakley,sunglasses,female,cat-eye,plastic,silver,11769,"Серебристые женские очки формы кошачий глаз, пластиковая оправа, UV400.",4.66,24904
+Prada Aviator Sunglasses 140,Prada,sunglasses,unisex,aviator,metal,blue,5346,"Синие унисекс очки формы авиаторы, металлическая оправа, UV400.",4.56,9436
+SOJOS Aviator Sunglasses 141,SOJOS,sunglasses,unisex,aviator,metal,silver,13957,"Серебристые унисекс очки формы авиаторы, металлическая оправа, UV400.",4.56,28612
+Oakley Round Sunglasses 142,Oakley,sunglasses,female,round,metal,gold,2253,"Золотые женские очки формы круглые, металлическая оправа, UV400.",4.19,1858
+Vogue Square Sunglasses 143,Vogue,sunglasses,female,square,metal,silver,5500,"Серебристые женские очки формы квадратные, металлическая оправа, UV400.",4.44,18564
+Polaroid Round Sunglasses 144,Polaroid,sunglasses,male,round,acetate,black,7767,"Черные мужские очки формы круглые, ацетатная оправа, UV400.",4.54,7911
+Prada Round Sunglasses 145,Prada,sunglasses,unisex,round,plastic,brown,11951,"Коричневые унисекс очки формы круглые, пластиковая оправа, UV400.",4.1,8386
+Ray-Ban Square Sunglasses 146,Ray-Ban,sunglasses,female,square,metal,blue,2710,"Синие женские очки формы квадратные, металлическая оправа, UV400.",4.33,11343
+Vogue Rectangular Sunglasses 147,Vogue,sunglasses,unisex,rectangular,plastic,gold,6449,"Золотые унисекс очки формы прямоугольные, пластиковая оправа, UV400.",4.04,12625
+Prada Round Sunglasses 148,Prada,sunglasses,male,round,acetate,silver,7381,"Серебристые мужские очки формы круглые, ацетатная оправа, UV400.",4.49,22933
+Vogue Rectangular Sunglasses 149,Vogue,sunglasses,male,rectangular,metal,gold,10772,"Золотые мужские очки формы прямоугольные, металлическая оправа, UV400.",4.84,25523
+Ray-Ban Rectangular Sunglasses 150,Ray-Ban,sunglasses,unisex,rectangular,metal,gold,11446,"Золотые унисекс очки формы прямоугольные, металлическая оправа, UV400.",4.76,7196
+SOJOS Square Sunglasses 151,SOJOS,sunglasses,unisex,square,acetate,brown,3091,"Коричневые унисекс очки формы квадратные, ацетатная оправа, UV400.",4.88,21199
+Ray-Ban Rectangular Sunglasses 152,Ray-Ban,sunglasses,female,rectangular,acetate,black,7477,"Черные женские очки формы прямоугольные, ацетатная оправа, UV400.",4.68,2973
+Vogue Rectangular Sunglasses 153,Vogue,sunglasses,female,rectangular,metal,brown,3665,"Коричневые женские очки формы прямоугольные, металлическая оправа, UV400.",4.74,28739
+Carrera Cat-Eye Sunglasses 154,Carrera,sunglasses,unisex,cat-eye,metal,gold,5710,"Золотые унисекс очки формы кошачий глаз, металлическая оправа, UV400.",4.9,15809
+Vogue Square Sunglasses 155,Vogue,sunglasses,unisex,square,plastic,black,2733,"Черные унисекс очки формы квадратные, пластиковая оправа, UV400.",3.97,7412
+Guess Square Sunglasses 156,Guess,sunglasses,unisex,square,plastic,black,1728,"Черные унисекс очки формы квадратные, пластиковая оправа, UV400.",4.12,4069
+Prada Square Sunglasses 157,Prada,sunglasses,female,square,plastic,blue,14974,"Синие женские очки формы квадратные, пластиковая оправа, UV400.",4.57,12192
+Oakley Round Sunglasses 158,Oakley,sunglasses,unisex,round,metal,silver,11650,"Серебристые унисекс очки формы круглые, металлическая оправа, UV400.",4.86,18416
+Carrera Round Sunglasses 159,Carrera,sunglasses,unisex,round,acetate,black,14998,"Черные унисекс очки формы круглые, ацетатная оправа, UV400.",4.36,22992
+Vogue Rectangular Sunglasses 160,Vogue,sunglasses,unisex,rectangular,metal,black,2242,"Черные унисекс очки формы прямоугольные, металлическая оправа, UV400.",4.94,9993
+Prada Aviator Sunglasses 161,Prada,sunglasses,male,aviator,acetate,brown,3722,"Коричневые мужские очки формы авиаторы, ацетатная оправа, UV400.",4.27,12177
+Guess Round Sunglasses 162,Guess,sunglasses,unisex,round,acetate,silver,3122,"Серебристые унисекс очки формы круглые, ацетатная оправа, UV400.",4.8,20193
+Guess Aviator Sunglasses 163,Guess,sunglasses,female,aviator,metal,gold,8764,"Золотые женские очки формы авиаторы, металлическая оправа, UV400.",4.33,7756
+Carrera Square Sunglasses 164,Carrera,sunglasses,male,square,acetate,blue,7376,"Синие мужские очки формы квадратные, ацетатная оправа, UV400.",3.87,9060
+SOJOS Rectangular Sunglasses 165,SOJOS,sunglasses,male,rectangular,acetate,black,4975,"Черные мужские очки формы прямоугольные, ацетатная оправа, UV400.",4.57,19587
+Ray-Ban Square Sunglasses 166,Ray-Ban,sunglasses,male,square,metal,brown,14393,"Коричневые мужские очки формы квадратные, металлическая оправа, UV400.",4.48,2268
+SOJOS Round Sunglasses 167,SOJOS,sunglasses,unisex,round,plastic,brown,14187,"Коричневые унисекс очки формы круглые, пластиковая оправа, UV400.",3.98,29528
+Ray-Ban Round Sunglasses 168,Ray-Ban,sunglasses,female,round,acetate,brown,5606,"Коричневые женские очки формы круглые, ацетатная оправа, UV400.",4.76,3622
+Ray-Ban Aviator Sunglasses 169,Ray-Ban,sunglasses,male,aviator,metal,gold,11147,"Золотые мужские очки формы авиаторы, металлическая оправа, UV400.",4.19,5729
+Vogue Round Sunglasses 170,Vogue,sunglasses,male,round,acetate,silver,3362,"Серебристые мужские очки формы круглые, ацетатная оправа, UV400.",4.69,15625
+Prada Cat-Eye Sunglasses 171,Prada,sunglasses,female,cat-eye,metal,blue,8905,"Синие женские очки формы кошачий глаз, металлическая оправа, UV400.",4.4,20175
+Ray-Ban Cat-Eye Sunglasses 172,Ray-Ban,sunglasses,unisex,cat-eye,plastic,gold,12040,"Золотые унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.96,2013
+Prada Rectangular Sunglasses 173,Prada,sunglasses,female,rectangular,plastic,black,13171,"Черные женские очки формы прямоугольные, пластиковая оправа, UV400.",4.89,2428
+Oakley Cat-Eye Sunglasses 174,Oakley,sunglasses,female,cat-eye,metal,brown,3567,"Коричневые женские очки формы кошачий глаз, металлическая оправа, UV400.",4.13,20764
+Carrera Cat-Eye Sunglasses 175,Carrera,sunglasses,female,cat-eye,plastic,blue,8933,"Синие женские очки формы кошачий глаз, пластиковая оправа, UV400.",4.41,14116
+Oakley Aviator Sunglasses 176,Oakley,sunglasses,unisex,aviator,acetate,blue,5022,"Синие унисекс очки формы авиаторы, ацетатная оправа, UV400.",4.32,29120
+SOJOS Square Sunglasses 177,SOJOS,sunglasses,female,square,plastic,silver,8315,"Серебристые женские очки формы квадратные, пластиковая оправа, UV400.",4.68,10261
+Guess Square Sunglasses 178,Guess,sunglasses,female,square,metal,gold,12752,"Золотые женские очки формы квадратные, металлическая оправа, UV400.",4.91,2219
+Oakley Aviator Sunglasses 179,Oakley,sunglasses,male,aviator,metal,silver,13699,"Серебристые мужские очки формы авиаторы, металлическая оправа, UV400.",4.69,26620
+Polaroid Aviator Sunglasses 180,Polaroid,sunglasses,unisex,aviator,acetate,blue,10702,"Синие унисекс очки формы авиаторы, ацетатная оправа, UV400.",4.2,4025
+Guess Rectangular Sunglasses 181,Guess,sunglasses,female,rectangular,plastic,black,11337,"Черные женские очки формы прямоугольные, пластиковая оправа, UV400.",4.17,3414
+SOJOS Rectangular Sunglasses 182,SOJOS,sunglasses,male,rectangular,metal,brown,7236,"Коричневые мужские очки формы прямоугольные, металлическая оправа, UV400.",4.81,12064
+Oakley Cat-Eye Sunglasses 183,Oakley,sunglasses,female,cat-eye,plastic,brown,10690,"Коричневые женские очки формы кошачий глаз, пластиковая оправа, UV400.",4.97,26838
+Ray-Ban Square Sunglasses 184,Ray-Ban,sunglasses,unisex,square,metal,black,5977,"Черные унисекс очки формы квадратные, металлическая оправа, UV400.",4.64,10144
+Carrera Aviator Sunglasses 185,Carrera,sunglasses,female,aviator,metal,brown,10778,"Коричневые женские очки формы авиаторы, металлическая оправа, UV400.",4.59,2300
+Polaroid Aviator Sunglasses 186,Polaroid,sunglasses,unisex,aviator,acetate,black,10191,"Черные унисекс очки формы авиаторы, ацетатная оправа, UV400.",4.06,13777
+Prada Round Sunglasses 187,Prada,sunglasses,female,round,plastic,gold,13322,"Золотые женские очки формы круглые, пластиковая оправа, UV400.",4.19,18618
+Oakley Round Sunglasses 188,Oakley,sunglasses,male,round,acetate,brown,2315,"Коричневые мужские очки формы круглые, ацетатная оправа, UV400.",4.61,8936
+Prada Rectangular Sunglasses 189,Prada,sunglasses,unisex,rectangular,acetate,silver,8742,"Серебристые унисекс очки формы прямоугольные, ацетатная оправа, UV400.",4.3,7083
+Oakley Rectangular Sunglasses 190,Oakley,sunglasses,female,rectangular,plastic,black,12611,"Черные женские очки формы прямоугольные, пластиковая оправа, UV400.",4.61,15965
+Vogue Round Sunglasses 191,Vogue,sunglasses,male,round,acetate,silver,2397,"Серебристые мужские очки формы круглые, ацетатная оправа, UV400.",3.81,9896
+SOJOS Square Sunglasses 192,SOJOS,sunglasses,male,square,plastic,gold,3465,"Золотые мужские очки формы квадратные, пластиковая оправа, UV400.",3.81,24498
+Guess Round Sunglasses 193,Guess,sunglasses,male,round,acetate,silver,13028,"Серебристые мужские очки формы круглые, ацетатная оправа, UV400.",4.08,18328
+Carrera Rectangular Sunglasses 194,Carrera,sunglasses,male,rectangular,plastic,black,1807,"Черные мужские очки формы прямоугольные, пластиковая оправа, UV400.",4.35,2571
+Carrera Rectangular Sunglasses 195,Carrera,sunglasses,unisex,rectangular,plastic,blue,13124,"Синие унисекс очки формы прямоугольные, пластиковая оправа, UV400.",4.57,9506
+Oakley Aviator Sunglasses 196,Oakley,sunglasses,female,aviator,metal,gold,14628,"Золотые женские очки формы авиаторы, металлическая оправа, UV400.",4.94,15096
+Carrera Rectangular Sunglasses 197,Carrera,sunglasses,male,rectangular,metal,black,8638,"Черные мужские очки формы прямоугольные, металлическая оправа, UV400.",4.51,17189
+Oakley Square Sunglasses 198,Oakley,sunglasses,female,square,metal,gold,6956,"Золотые женские очки формы квадратные, металлическая оправа, UV400.",4.73,2522
+Oakley Cat-Eye Sunglasses 199,Oakley,sunglasses,unisex,cat-eye,plastic,brown,7252,"Коричневые унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.67,26855
+Polaroid Aviator Sunglasses 200,Polaroid,sunglasses,male,aviator,plastic,brown,4732,"Коричневые мужские очки формы авиаторы, пластиковая оправа, UV400.",4.01,5029
+Oakley Rectangular Sunglasses 201,Oakley,sunglasses,male,rectangular,acetate,silver,13949,"Серебристые мужские очки формы прямоугольные, ацетатная оправа, UV400.",4.5,22339
+Carrera Square Sunglasses 202,Carrera,sunglasses,unisex,square,plastic,brown,2618,"Коричневые унисекс очки формы квадратные, пластиковая оправа, UV400.",4.36,20709
+Vogue Cat-Eye Sunglasses 203,Vogue,sunglasses,female,cat-eye,plastic,black,9812,"Черные женские очки формы кошачий глаз, пластиковая оправа, UV400.",3.89,15150
+Prada Aviator Sunglasses 204,Prada,sunglasses,male,aviator,plastic,gold,2757,"Золотые мужские очки формы авиаторы, пластиковая оправа, UV400.",4.57,28046
+Oakley Cat-Eye Sunglasses 205,Oakley,sunglasses,unisex,cat-eye,plastic,blue,9081,"Синие унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.5,25966
+Ray-Ban Cat-Eye Sunglasses 206,Ray-Ban,sunglasses,female,cat-eye,plastic,brown,11412,"Коричневые женские очки формы кошачий глаз, пластиковая оправа, UV400.",4.37,4963
+Ray-Ban Aviator Sunglasses 207,Ray-Ban,sunglasses,female,aviator,acetate,gold,2881,"Золотые женские очки формы авиаторы, ацетатная оправа, UV400.",4.41,5674
+Ray-Ban Rectangular Sunglasses 208,Ray-Ban,sunglasses,male,rectangular,acetate,silver,10064,"Серебристые мужские очки формы прямоугольные, ацетатная оправа, UV400.",4.53,11944
+Carrera Rectangular Sunglasses 209,Carrera,sunglasses,female,rectangular,plastic,silver,12623,"Серебристые женские очки формы прямоугольные, пластиковая оправа, UV400.",4.52,25881
+Carrera Square Sunglasses 210,Carrera,sunglasses,male,square,acetate,black,12614,"Черные мужские очки формы квадратные, ацетатная оправа, UV400.",4.26,8277
+Polaroid Aviator Sunglasses 211,Polaroid,sunglasses,female,aviator,acetate,blue,3817,"Синие женские очки формы авиаторы, ацетатная оправа, UV400.",4.9,10185
+Guess Cat-Eye Sunglasses 212,Guess,sunglasses,male,cat-eye,plastic,black,10657,"Черные мужские очки формы кошачий глаз, пластиковая оправа, UV400.",4.25,25961
+Carrera Cat-Eye Sunglasses 213,Carrera,sunglasses,male,cat-eye,acetate,black,12484,"Черные мужские очки формы кошачий глаз, ацетатная оправа, UV400.",4.31,11876
+Ray-Ban Square Sunglasses 214,Ray-Ban,sunglasses,female,square,metal,brown,7098,"Коричневые женские очки формы квадратные, металлическая оправа, UV400.",4.94,15954
+SOJOS Round Sunglasses 215,SOJOS,sunglasses,male,round,metal,brown,6346,"Коричневые мужские очки формы круглые, металлическая оправа, UV400.",4.81,3334
+Ray-Ban Square Sunglasses 216,Ray-Ban,sunglasses,unisex,square,metal,blue,11285,"Синие унисекс очки формы квадратные, металлическая оправа, UV400.",4.25,5336
+Polaroid Cat-Eye Sunglasses 217,Polaroid,sunglasses,unisex,cat-eye,acetate,brown,8670,"Коричневые унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",3.85,11957
+SOJOS Cat-Eye Sunglasses 218,SOJOS,sunglasses,female,cat-eye,acetate,gold,14341,"Золотые женские очки формы кошачий глаз, ацетатная оправа, UV400.",4.34,17518
+SOJOS Rectangular Sunglasses 219,SOJOS,sunglasses,female,rectangular,plastic,brown,12613,"Коричневые женские очки формы прямоугольные, пластиковая оправа, UV400.",4.94,14457
+Prada Rectangular Sunglasses 220,Prada,sunglasses,female,rectangular,acetate,blue,8359,"Синие женские очки формы прямоугольные, ацетатная оправа, UV400.",4.96,26787
+SOJOS Round Sunglasses 221,SOJOS,sunglasses,unisex,round,metal,gold,12005,"Золотые унисекс очки формы круглые, металлическая оправа, UV400.",4.38,12183
+Oakley Cat-Eye Sunglasses 222,Oakley,sunglasses,unisex,cat-eye,plastic,black,2874,"Черные унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.72,8958
+Prada Round Sunglasses 223,Prada,sunglasses,unisex,round,metal,silver,5137,"Серебристые унисекс очки формы круглые, металлическая оправа, UV400.",4.78,29007
+Carrera Rectangular Sunglasses 224,Carrera,sunglasses,male,rectangular,plastic,black,9724,"Черные мужские очки формы прямоугольные, пластиковая оправа, UV400.",4.25,12673
+Oakley Round Sunglasses 225,Oakley,sunglasses,female,round,plastic,black,3123,"Черные женские очки формы круглые, пластиковая оправа, UV400.",4.81,21317
+Carrera Round Sunglasses 226,Carrera,sunglasses,male,round,plastic,black,9240,"Черные мужские очки формы круглые, пластиковая оправа, UV400.",4.64,4567
+Prada Cat-Eye Sunglasses 227,Prada,sunglasses,female,cat-eye,metal,black,1811,"Черные женские очки формы кошачий глаз, металлическая оправа, UV400.",4.11,27380
+Polaroid Cat-Eye Sunglasses 228,Polaroid,sunglasses,unisex,cat-eye,plastic,blue,3321,"Синие унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.73,7806
+Vogue Aviator Sunglasses 229,Vogue,sunglasses,male,aviator,plastic,brown,11968,"Коричневые мужские очки формы авиаторы, пластиковая оправа, UV400.",4.75,14998
+Oakley Rectangular Sunglasses 230,Oakley,sunglasses,male,rectangular,acetate,blue,1769,"Синие мужские очки формы прямоугольные, ацетатная оправа, UV400.",4.56,18863
+SOJOS Round Sunglasses 231,SOJOS,sunglasses,unisex,round,plastic,gold,1525,"Золотые унисекс очки формы круглые, пластиковая оправа, UV400.",4.54,7902
+Guess Aviator Sunglasses 232,Guess,sunglasses,male,aviator,plastic,blue,2608,"Синие мужские очки формы авиаторы, пластиковая оправа, UV400.",4.94,17848
+Ray-Ban Rectangular Sunglasses 233,Ray-Ban,sunglasses,female,rectangular,acetate,black,7838,"Черные женские очки формы прямоугольные, ацетатная оправа, UV400.",4.98,8331
+Ray-Ban Aviator Sunglasses 234,Ray-Ban,sunglasses,female,aviator,metal,gold,13508,"Золотые женские очки формы авиаторы, металлическая оправа, UV400.",4.59,3416
+Carrera Aviator Sunglasses 235,Carrera,sunglasses,male,aviator,acetate,gold,7046,"Золотые мужские очки формы авиаторы, ацетатная оправа, UV400.",4.78,5757
+Prada Rectangular Sunglasses 236,Prada,sunglasses,unisex,rectangular,metal,brown,2533,"Коричневые унисекс очки формы прямоугольные, металлическая оправа, UV400.",4.66,15017
+Ray-Ban Round Sunglasses 237,Ray-Ban,sunglasses,female,round,metal,black,2186,"Черные женские очки формы круглые, металлическая оправа, UV400.",4.18,10180
+Guess Rectangular Sunglasses 238,Guess,sunglasses,unisex,rectangular,metal,gold,13841,"Золотые унисекс очки формы прямоугольные, металлическая оправа, UV400.",4.58,9395
+Carrera Square Sunglasses 239,Carrera,sunglasses,male,square,metal,gold,14596,"Золотые мужские очки формы квадратные, металлическая оправа, UV400.",4.24,29166
+Guess Rectangular Sunglasses 240,Guess,sunglasses,unisex,rectangular,plastic,silver,4560,"Серебристые унисекс очки формы прямоугольные, пластиковая оправа, UV400.",4.4,16322
+Carrera Square Sunglasses 241,Carrera,sunglasses,unisex,square,acetate,black,8455,"Черные унисекс очки формы квадратные, ацетатная оправа, UV400.",3.89,19761
+Polaroid Square Sunglasses 242,Polaroid,sunglasses,unisex,square,metal,gold,2811,"Золотые унисекс очки формы квадратные, металлическая оправа, UV400.",4.19,9707
+Vogue Cat-Eye Sunglasses 243,Vogue,sunglasses,female,cat-eye,metal,silver,12801,"Серебристые женские очки формы кошачий глаз, металлическая оправа, UV400.",4.33,14671
+Ray-Ban Square Sunglasses 244,Ray-Ban,sunglasses,unisex,square,plastic,blue,5998,"Синие унисекс очки формы квадратные, пластиковая оправа, UV400.",4.57,25955
+Ray-Ban Rectangular Sunglasses 245,Ray-Ban,sunglasses,male,rectangular,acetate,gold,14625,"Золотые мужские очки формы прямоугольные, ацетатная оправа, UV400.",4.7,5262
+Ray-Ban Cat-Eye Sunglasses 246,Ray-Ban,sunglasses,male,cat-eye,metal,silver,3568,"Серебристые мужские очки формы кошачий глаз, металлическая оправа, UV400.",3.88,25530
+Carrera Rectangular Sunglasses 247,Carrera,sunglasses,female,rectangular,metal,blue,11413,"Синие женские очки формы прямоугольные, металлическая оправа, UV400.",3.98,14763
+Carrera Rectangular Sunglasses 248,Carrera,sunglasses,female,rectangular,acetate,black,3755,"Черные женские очки формы прямоугольные, ацетатная оправа, UV400.",4.44,13062
+Carrera Square Sunglasses 249,Carrera,sunglasses,unisex,square,metal,brown,1924,"Коричневые унисекс очки формы квадратные, металлическая оправа, UV400.",4.68,16372
+Guess Aviator Sunglasses 250,Guess,sunglasses,unisex,aviator,plastic,gold,13034,"Золотые унисекс очки формы авиаторы, пластиковая оправа, UV400.",4.34,20069
+Vogue Rectangular Sunglasses 251,Vogue,sunglasses,unisex,rectangular,metal,brown,3723,"Коричневые унисекс очки формы прямоугольные, металлическая оправа, UV400.",4.82,14832
+Polaroid Rectangular Sunglasses 252,Polaroid,sunglasses,unisex,rectangular,acetate,black,6736,"Черные унисекс очки формы прямоугольные, ацетатная оправа, UV400.",4.6,23270
+Oakley Cat-Eye Sunglasses 253,Oakley,sunglasses,unisex,cat-eye,plastic,gold,4080,"Золотые унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.65,22964
+Polaroid Cat-Eye Sunglasses 254,Polaroid,sunglasses,female,cat-eye,metal,brown,4792,"Коричневые женские очки формы кошачий глаз, металлическая оправа, UV400.",4.75,7777
+Prada Square Sunglasses 255,Prada,sunglasses,male,square,acetate,blue,7544,"Синие мужские очки формы квадратные, ацетатная оправа, UV400.",4.36,18096
+Polaroid Aviator Sunglasses 256,Polaroid,sunglasses,unisex,aviator,plastic,black,8023,"Черные унисекс очки формы авиаторы, пластиковая оправа, UV400.",5.0,23575
+Prada Rectangular Sunglasses 257,Prada,sunglasses,unisex,rectangular,acetate,silver,2708,"Серебристые унисекс очки формы прямоугольные, ацетатная оправа, UV400.",3.95,10408
+Oakley Rectangular Sunglasses 258,Oakley,sunglasses,female,rectangular,plastic,blue,3602,"Синие женские очки формы прямоугольные, пластиковая оправа, UV400.",4.85,25587
+Polaroid Rectangular Sunglasses 259,Polaroid,sunglasses,male,rectangular,metal,blue,3534,"Синие мужские очки формы прямоугольные, металлическая оправа, UV400.",4.42,9985
+Polaroid Square Sunglasses 260,Polaroid,sunglasses,male,square,plastic,brown,10001,"Коричневые мужские очки формы квадратные, пластиковая оправа, UV400.",4.87,27739
+Oakley Round Sunglasses 261,Oakley,sunglasses,female,round,plastic,blue,3550,"Синие женские очки формы круглые, пластиковая оправа, UV400.",4.55,20153
+Oakley Round Sunglasses 262,Oakley,sunglasses,unisex,round,acetate,blue,4026,"Синие унисекс очки формы круглые, ацетатная оправа, UV400.",4.01,20482
+Carrera Aviator Sunglasses 263,Carrera,sunglasses,unisex,aviator,metal,black,2244,"Черные унисекс очки формы авиаторы, металлическая оправа, UV400.",4.94,25284
+Vogue Round Sunglasses 264,Vogue,sunglasses,unisex,round,plastic,blue,11627,"Синие унисекс очки формы круглые, пластиковая оправа, UV400.",4.57,16339
+Vogue Square Sunglasses 265,Vogue,sunglasses,unisex,square,metal,silver,14684,"Серебристые унисекс очки формы квадратные, металлическая оправа, UV400.",4.77,13326
+Vogue Aviator Sunglasses 266,Vogue,sunglasses,female,aviator,metal,black,8702,"Черные женские очки формы авиаторы, металлическая оправа, UV400.",4.3,15238
+SOJOS Cat-Eye Sunglasses 267,SOJOS,sunglasses,female,cat-eye,plastic,brown,13269,"Коричневые женские очки формы кошачий глаз, пластиковая оправа, UV400.",4.18,28225
+Carrera Round Sunglasses 268,Carrera,sunglasses,female,round,acetate,gold,10702,"Золотые женские очки формы круглые, ацетатная оправа, UV400.",3.93,7941
+Prada Square Sunglasses 269,Prada,sunglasses,male,square,metal,silver,3808,"Серебристые мужские очки формы квадратные, металлическая оправа, UV400.",3.92,9529
+Guess Rectangular Sunglasses 270,Guess,sunglasses,unisex,rectangular,metal,brown,14828,"Коричневые унисекс очки формы прямоугольные, металлическая оправа, UV400.",4.19,18949
+Carrera Round Sunglasses 271,Carrera,sunglasses,male,round,acetate,silver,9148,"Серебристые мужские очки формы круглые, ацетатная оправа, UV400.",4.4,10130
+Prada Aviator Sunglasses 272,Prada,sunglasses,male,aviator,acetate,silver,8991,"Серебристые мужские очки формы авиаторы, ацетатная оправа, UV400.",4.96,7069
+Carrera Aviator Sunglasses 273,Carrera,sunglasses,male,aviator,plastic,gold,11289,"Золотые мужские очки формы авиаторы, пластиковая оправа, UV400.",4.86,21458
+Prada Cat-Eye Sunglasses 274,Prada,sunglasses,female,cat-eye,metal,black,8560,"Черные женские очки формы кошачий глаз, металлическая оправа, UV400.",3.96,8686
+Carrera Square Sunglasses 275,Carrera,sunglasses,female,square,plastic,black,2338,"Черные женские очки формы квадратные, пластиковая оправа, UV400.",4.48,6398
+Carrera Square Sunglasses 276,Carrera,sunglasses,unisex,square,plastic,black,9761,"Черные унисекс очки формы квадратные, пластиковая оправа, UV400.",4.34,18037
+Vogue Cat-Eye Sunglasses 277,Vogue,sunglasses,unisex,cat-eye,metal,black,3084,"Черные унисекс очки формы кошачий глаз, металлическая оправа, UV400.",4.27,26067
+Carrera Square Sunglasses 278,Carrera,sunglasses,unisex,square,metal,brown,11370,"Коричневые унисекс очки формы квадратные, металлическая оправа, UV400.",4.41,16406
+Ray-Ban Aviator Sunglasses 279,Ray-Ban,sunglasses,male,aviator,acetate,brown,6956,"Коричневые мужские очки формы авиаторы, ацетатная оправа, UV400.",4.76,17037
+Prada Cat-Eye Sunglasses 280,Prada,sunglasses,male,cat-eye,metal,blue,6873,"Синие мужские очки формы кошачий глаз, металлическая оправа, UV400.",4.92,10457
+Polaroid Cat-Eye Sunglasses 281,Polaroid,sunglasses,female,cat-eye,acetate,gold,7011,"Золотые женские очки формы кошачий глаз, ацетатная оправа, UV400.",4.41,16722
+Prada Cat-Eye Sunglasses 282,Prada,sunglasses,unisex,cat-eye,plastic,gold,14865,"Золотые унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",3.82,10874
+Oakley Cat-Eye Sunglasses 283,Oakley,sunglasses,female,cat-eye,acetate,gold,12772,"Золотые женские очки формы кошачий глаз, ацетатная оправа, UV400.",4.56,19579
+Prada Cat-Eye Sunglasses 284,Prada,sunglasses,female,cat-eye,metal,blue,13319,"Синие женские очки формы кошачий глаз, металлическая оправа, UV400.",3.86,15763
+Polaroid Cat-Eye Sunglasses 285,Polaroid,sunglasses,unisex,cat-eye,metal,silver,14962,"Серебристые унисекс очки формы кошачий глаз, металлическая оправа, UV400.",4.62,1054
+Oakley Aviator Sunglasses 286,Oakley,sunglasses,male,aviator,plastic,silver,8361,"Серебристые мужские очки формы авиаторы, пластиковая оправа, UV400.",3.98,22646
+SOJOS Cat-Eye Sunglasses 287,SOJOS,sunglasses,female,cat-eye,plastic,blue,13555,"Синие женские очки формы кошачий глаз, пластиковая оправа, UV400.",4.67,23146
+Polaroid Round Sunglasses 288,Polaroid,sunglasses,unisex,round,plastic,blue,12349,"Синие унисекс очки формы круглые, пластиковая оправа, UV400.",4.37,12367
+Carrera Rectangular Sunglasses 289,Carrera,sunglasses,male,rectangular,plastic,blue,10450,"Синие мужские очки формы прямоугольные, пластиковая оправа, UV400.",4.23,25316
+Vogue Rectangular Sunglasses 290,Vogue,sunglasses,unisex,rectangular,metal,brown,6071,"Коричневые унисекс очки формы прямоугольные, металлическая оправа, UV400.",4.47,7388
+Vogue Round Sunglasses 291,Vogue,sunglasses,female,round,plastic,silver,9361,"Серебристые женские очки формы круглые, пластиковая оправа, UV400.",4.22,26083
+Vogue Aviator Sunglasses 292,Vogue,sunglasses,female,aviator,acetate,blue,10399,"Синие женские очки формы авиаторы, ацетатная оправа, UV400.",4.26,12948
+Carrera Square Sunglasses 293,Carrera,sunglasses,male,square,plastic,black,13200,"Черные мужские очки формы квадратные, пластиковая оправа, UV400.",3.89,14515
+Vogue Rectangular Sunglasses 294,Vogue,sunglasses,unisex,rectangular,metal,brown,10324,"Коричневые унисекс очки формы прямоугольные, металлическая оправа, UV400.",4.13,18436
+Vogue Aviator Sunglasses 295,Vogue,sunglasses,male,aviator,acetate,blue,11114,"Синие мужские очки формы авиаторы, ацетатная оправа, UV400.",4.09,1683
+SOJOS Round Sunglasses 296,SOJOS,sunglasses,unisex,round,metal,black,8271,"Черные унисекс очки формы круглые, металлическая оправа, UV400.",4.2,15499
+Oakley Round Sunglasses 297,Oakley,sunglasses,unisex,round,acetate,black,4087,"Черные унисекс очки формы круглые, ацетатная оправа, UV400.",4.29,28877
+Prada Round Sunglasses 298,Prada,sunglasses,female,round,plastic,gold,6176,"Золотые женские очки формы круглые, пластиковая оправа, UV400.",4.58,29771
+Oakley Cat-Eye Sunglasses 299,Oakley,sunglasses,unisex,cat-eye,acetate,brown,13602,"Коричневые унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",4.67,1242
+Polaroid Round Sunglasses 300,Polaroid,sunglasses,female,round,plastic,black,14409,"Черные женские очки формы круглые, пластиковая оправа, UV400.",4.39,24563
+Vogue Aviator Sunglasses 301,Vogue,sunglasses,male,aviator,acetate,gold,11375,"Золотые мужские очки формы авиаторы, ацетатная оправа, UV400.",3.93,10998
+Vogue Cat-Eye Sunglasses 302,Vogue,sunglasses,female,cat-eye,plastic,blue,3698,"Синие женские очки формы кошачий глаз, пластиковая оправа, UV400.",4.82,15356
+Vogue Aviator Sunglasses 303,Vogue,sunglasses,male,aviator,metal,gold,13478,"Золотые мужские очки формы авиаторы, металлическая оправа, UV400.",4.35,8450
+Polaroid Square Sunglasses 304,Polaroid,sunglasses,male,square,acetate,gold,12549,"Золотые мужские очки формы квадратные, ацетатная оправа, UV400.",4.71,5770
+Guess Cat-Eye Sunglasses 305,Guess,sunglasses,female,cat-eye,metal,gold,8067,"Золотые женские очки формы кошачий глаз, металлическая оправа, UV400.",4.6,6074
+Polaroid Square Sunglasses 306,Polaroid,sunglasses,female,square,metal,brown,5772,"Коричневые женские очки формы квадратные, металлическая оправа, UV400.",4.26,14658
+Vogue Square Sunglasses 307,Vogue,sunglasses,female,square,acetate,blue,10886,"Синие женские очки формы квадратные, ацетатная оправа, UV400.",3.81,21439
+Carrera Round Sunglasses 308,Carrera,sunglasses,unisex,round,acetate,black,3436,"Черные унисекс очки формы круглые, ацетатная оправа, UV400.",4.36,5253
+Guess Cat-Eye Sunglasses 309,Guess,sunglasses,unisex,cat-eye,acetate,gold,3423,"Золотые унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",4.57,9687
+Carrera Round Sunglasses 310,Carrera,sunglasses,unisex,round,metal,brown,9334,"Коричневые унисекс очки формы круглые, металлическая оправа, UV400.",3.98,24521
+Carrera Cat-Eye Sunglasses 311,Carrera,sunglasses,female,cat-eye,acetate,silver,14639,"Серебристые женские очки формы кошачий глаз, ацетатная оправа, UV400.",4.6,7176
+SOJOS Cat-Eye Sunglasses 312,SOJOS,sunglasses,unisex,cat-eye,acetate,black,8819,"Черные унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",4.43,11874
+Oakley Aviator Sunglasses 313,Oakley,sunglasses,unisex,aviator,acetate,black,9781,"Черные унисекс очки формы авиаторы, ацетатная оправа, UV400.",4.04,17605
+Polaroid Square Sunglasses 314,Polaroid,sunglasses,male,square,plastic,blue,3404,"Синие мужские очки формы квадратные, пластиковая оправа, UV400.",4.62,23511
+Prada Cat-Eye Sunglasses 315,Prada,sunglasses,male,cat-eye,metal,silver,8929,"Серебристые мужские очки формы кошачий глаз, металлическая оправа, UV400.",3.96,13632
+Prada Aviator Sunglasses 316,Prada,sunglasses,unisex,aviator,plastic,blue,12522,"Синие унисекс очки формы авиаторы, пластиковая оправа, UV400.",4.77,23720
+Ray-Ban Square Sunglasses 317,Ray-Ban,sunglasses,female,square,acetate,black,5070,"Черные женские очки формы квадратные, ацетатная оправа, UV400.",4.49,1504
+Guess Aviator Sunglasses 318,Guess,sunglasses,female,aviator,metal,blue,2630,"Синие женские очки формы авиаторы, металлическая оправа, UV400.",4.98,15488
+Ray-Ban Rectangular Sunglasses 319,Ray-Ban,sunglasses,female,rectangular,metal,brown,14047,"Коричневые женские очки формы прямоугольные, металлическая оправа, UV400.",4.57,23917
+Guess Rectangular Sunglasses 320,Guess,sunglasses,female,rectangular,plastic,silver,7654,"Серебристые женские очки формы прямоугольные, пластиковая оправа, UV400.",3.9,21705
+Polaroid Square Sunglasses 321,Polaroid,sunglasses,unisex,square,metal,black,10302,"Черные унисекс очки формы квадратные, металлическая оправа, UV400.",4.27,4192
+SOJOS Aviator Sunglasses 322,SOJOS,sunglasses,male,aviator,plastic,gold,12534,"Золотые мужские очки формы авиаторы, пластиковая оправа, UV400.",4.66,13917
+Guess Round Sunglasses 323,Guess,sunglasses,male,round,plastic,silver,4041,"Серебристые мужские очки формы круглые, пластиковая оправа, UV400.",4.13,28698
+Oakley Rectangular Sunglasses 324,Oakley,sunglasses,male,rectangular,metal,blue,5443,"Синие мужские очки формы прямоугольные, металлическая оправа, UV400.",4.05,3326
+Ray-Ban Cat-Eye Sunglasses 325,Ray-Ban,sunglasses,female,cat-eye,metal,black,13633,"Черные женские очки формы кошачий глаз, металлическая оправа, UV400.",3.85,14403
+SOJOS Round Sunglasses 326,SOJOS,sunglasses,unisex,round,metal,black,9755,"Черные унисекс очки формы круглые, металлическая оправа, UV400.",4.99,7693
+Carrera Cat-Eye Sunglasses 327,Carrera,sunglasses,unisex,cat-eye,metal,gold,6444,"Золотые унисекс очки формы кошачий глаз, металлическая оправа, UV400.",4.85,21653
+SOJOS Square Sunglasses 328,SOJOS,sunglasses,female,square,metal,gold,10621,"Золотые женские очки формы квадратные, металлическая оправа, UV400.",4.94,28846
+Polaroid Rectangular Sunglasses 329,Polaroid,sunglasses,unisex,rectangular,plastic,blue,2268,"Синие унисекс очки формы прямоугольные, пластиковая оправа, UV400.",4.97,21100
+Guess Square Sunglasses 330,Guess,sunglasses,unisex,square,plastic,silver,3944,"Серебристые унисекс очки формы квадратные, пластиковая оправа, UV400.",4.16,6045
+Prada Round Sunglasses 331,Prada,sunglasses,male,round,acetate,gold,3865,"Золотые мужские очки формы круглые, ацетатная оправа, UV400.",4.77,29994
+Ray-Ban Rectangular Sunglasses 332,Ray-Ban,sunglasses,unisex,rectangular,acetate,silver,10183,"Серебристые унисекс очки формы прямоугольные, ацетатная оправа, UV400.",3.96,7977
+Vogue Square Sunglasses 333,Vogue,sunglasses,male,square,plastic,black,7579,"Черные мужские очки формы квадратные, пластиковая оправа, UV400.",3.91,23763
+SOJOS Square Sunglasses 334,SOJOS,sunglasses,male,square,acetate,silver,11411,"Серебристые мужские очки формы квадратные, ацетатная оправа, UV400.",4.52,28646
+Oakley Cat-Eye Sunglasses 335,Oakley,sunglasses,male,cat-eye,metal,blue,9354,"Синие мужские очки формы кошачий глаз, металлическая оправа, UV400.",4.05,29741
+Carrera Aviator Sunglasses 336,Carrera,sunglasses,female,aviator,metal,brown,13648,"Коричневые женские очки формы авиаторы, металлическая оправа, UV400.",3.94,24737
+Prada Cat-Eye Sunglasses 337,Prada,sunglasses,male,cat-eye,plastic,brown,5421,"Коричневые мужские очки формы кошачий глаз, пластиковая оправа, UV400.",4.46,25432
+Vogue Rectangular Sunglasses 338,Vogue,sunglasses,female,rectangular,acetate,blue,7386,"Синие женские очки формы прямоугольные, ацетатная оправа, UV400.",4.17,11804
+Prada Aviator Sunglasses 339,Prada,sunglasses,female,aviator,plastic,silver,4828,"Серебристые женские очки формы авиаторы, пластиковая оправа, UV400.",4.24,13583
+Ray-Ban Round Sunglasses 340,Ray-Ban,sunglasses,unisex,round,metal,brown,5772,"Коричневые унисекс очки формы круглые, металлическая оправа, UV400.",4.46,19157
+Guess Round Sunglasses 341,Guess,sunglasses,female,round,plastic,brown,5268,"Коричневые женские очки формы круглые, пластиковая оправа, UV400.",4.26,27327
+SOJOS Cat-Eye Sunglasses 342,SOJOS,sunglasses,female,cat-eye,plastic,gold,14006,"Золотые женские очки формы кошачий глаз, пластиковая оправа, UV400.",4.79,23729
+Prada Round Sunglasses 343,Prada,sunglasses,female,round,metal,gold,3793,"Золотые женские очки формы круглые, металлическая оправа, UV400.",4.66,16021
+Polaroid Aviator Sunglasses 344,Polaroid,sunglasses,unisex,aviator,metal,blue,2717,"Синие унисекс очки формы авиаторы, металлическая оправа, UV400.",4.93,21916
+Ray-Ban Rectangular Sunglasses 345,Ray-Ban,sunglasses,male,rectangular,acetate,brown,5291,"Коричневые мужские очки формы прямоугольные, ацетатная оправа, UV400.",3.88,4968
+Ray-Ban Cat-Eye Sunglasses 346,Ray-Ban,sunglasses,male,cat-eye,plastic,silver,2490,"Серебристые мужские очки формы кошачий глаз, пластиковая оправа, UV400.",4.54,21868
+Prada Rectangular Sunglasses 347,Prada,sunglasses,unisex,rectangular,metal,black,10219,"Черные унисекс очки формы прямоугольные, металлическая оправа, UV400.",4.46,408
+Ray-Ban Square Sunglasses 348,Ray-Ban,sunglasses,unisex,square,plastic,blue,1780,"Синие унисекс очки формы квадратные, пластиковая оправа, UV400.",4.4,22887
+Guess Aviator Sunglasses 349,Guess,sunglasses,male,aviator,acetate,black,3939,"Черные мужские очки формы авиаторы, ацетатная оправа, UV400.",4.09,20328
+Vogue Square Sunglasses 350,Vogue,sunglasses,female,square,metal,silver,7612,"Серебристые женские очки формы квадратные, металлическая оправа, UV400.",4.95,15060
+SOJOS Round Sunglasses 351,SOJOS,sunglasses,unisex,round,acetate,gold,2820,"Золотые унисекс очки формы круглые, ацетатная оправа, UV400.",4.58,28142
+Ray-Ban Rectangular Sunglasses 352,Ray-Ban,sunglasses,male,rectangular,plastic,silver,10555,"Серебристые мужские очки формы прямоугольные, пластиковая оправа, UV400.",4.37,20884
+Ray-Ban Round Sunglasses 353,Ray-Ban,sunglasses,unisex,round,plastic,black,8609,"Черные унисекс очки формы круглые, пластиковая оправа, UV400.",4.57,10875
+Oakley Aviator Sunglasses 354,Oakley,sunglasses,unisex,aviator,metal,brown,12842,"Коричневые унисекс очки формы авиаторы, металлическая оправа, UV400.",4.87,15601
+Vogue Aviator Sunglasses 355,Vogue,sunglasses,male,aviator,acetate,gold,10732,"Золотые мужские очки формы авиаторы, ацетатная оправа, UV400.",4.59,5897
+Carrera Round Sunglasses 356,Carrera,sunglasses,male,round,metal,blue,13824,"Синие мужские очки формы круглые, металлическая оправа, UV400.",4.78,26919
+Guess Square Sunglasses 357,Guess,sunglasses,male,square,acetate,brown,5439,"Коричневые мужские очки формы квадратные, ацетатная оправа, UV400.",4.48,27854
+Guess Cat-Eye Sunglasses 358,Guess,sunglasses,unisex,cat-eye,plastic,gold,13879,"Золотые унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.69,25923
+Oakley Square Sunglasses 359,Oakley,sunglasses,unisex,square,metal,black,8661,"Черные унисекс очки формы квадратные, металлическая оправа, UV400.",4.08,2510
+Carrera Cat-Eye Sunglasses 360,Carrera,sunglasses,unisex,cat-eye,plastic,blue,14173,"Синие унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.19,20798
+Vogue Rectangular Sunglasses 361,Vogue,sunglasses,female,rectangular,plastic,brown,10560,"Коричневые женские очки формы прямоугольные, пластиковая оправа, UV400.",4.93,14170
+Polaroid Cat-Eye Sunglasses 362,Polaroid,sunglasses,unisex,cat-eye,metal,silver,14151,"Серебристые унисекс очки формы кошачий глаз, металлическая оправа, UV400.",4.54,26170
+SOJOS Aviator Sunglasses 363,SOJOS,sunglasses,unisex,aviator,plastic,black,4026,"Черные унисекс очки формы авиаторы, пластиковая оправа, UV400.",4.26,25706
+Polaroid Rectangular Sunglasses 364,Polaroid,sunglasses,unisex,rectangular,plastic,gold,3245,"Золотые унисекс очки формы прямоугольные, пластиковая оправа, UV400.",3.91,10121
+Prada Square Sunglasses 365,Prada,sunglasses,female,square,metal,black,2930,"Черные женские очки формы квадратные, металлическая оправа, UV400.",4.02,14727
+Guess Aviator Sunglasses 366,Guess,sunglasses,male,aviator,plastic,black,10580,"Черные мужские очки формы авиаторы, пластиковая оправа, UV400.",3.91,19616
+Carrera Aviator Sunglasses 367,Carrera,sunglasses,female,aviator,plastic,gold,7853,"Золотые женские очки формы авиаторы, пластиковая оправа, UV400.",4.74,23771
+SOJOS Cat-Eye Sunglasses 368,SOJOS,sunglasses,unisex,cat-eye,acetate,brown,7737,"Коричневые унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",4.0,8831
+Vogue Rectangular Sunglasses 369,Vogue,sunglasses,female,rectangular,metal,brown,4239,"Коричневые женские очки формы прямоугольные, металлическая оправа, UV400.",4.32,13818
+Vogue Aviator Sunglasses 370,Vogue,sunglasses,female,aviator,plastic,gold,5540,"Золотые женские очки формы авиаторы, пластиковая оправа, UV400.",4.67,16266
+SOJOS Aviator Sunglasses 371,SOJOS,sunglasses,female,aviator,plastic,brown,1610,"Коричневые женские очки формы авиаторы, пластиковая оправа, UV400.",4.94,10906
+Guess Rectangular Sunglasses 372,Guess,sunglasses,female,rectangular,plastic,gold,14860,"Золотые женские очки формы прямоугольные, пластиковая оправа, UV400.",4.79,21353
+Polaroid Square Sunglasses 373,Polaroid,sunglasses,female,square,acetate,blue,4790,"Синие женские очки формы квадратные, ацетатная оправа, UV400.",4.37,5840
+Guess Square Sunglasses 374,Guess,sunglasses,female,square,acetate,silver,14311,"Серебристые женские очки формы квадратные, ацетатная оправа, UV400.",4.09,12342
+Vogue Square Sunglasses 375,Vogue,sunglasses,female,square,acetate,black,4773,"Черные женские очки формы квадратные, ацетатная оправа, UV400.",4.51,17899
+Polaroid Cat-Eye Sunglasses 376,Polaroid,sunglasses,unisex,cat-eye,acetate,black,9063,"Черные унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",4.93,6889
+Prada Aviator Sunglasses 377,Prada,sunglasses,female,aviator,acetate,silver,9680,"Серебристые женские очки формы авиаторы, ацетатная оправа, UV400.",3.97,9943
+SOJOS Round Sunglasses 378,SOJOS,sunglasses,female,round,plastic,silver,2711,"Серебристые женские очки формы круглые, пластиковая оправа, UV400.",4.34,19613
+Prada Rectangular Sunglasses 379,Prada,sunglasses,unisex,rectangular,acetate,blue,12832,"Синие унисекс очки формы прямоугольные, ацетатная оправа, UV400.",4.3,1224
+Carrera Cat-Eye Sunglasses 380,Carrera,sunglasses,unisex,cat-eye,acetate,blue,2892,"Синие унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",3.93,8154
+Carrera Cat-Eye Sunglasses 381,Carrera,sunglasses,male,cat-eye,acetate,black,12068,"Черные мужские очки формы кошачий глаз, ацетатная оправа, UV400.",4.61,13114
+Carrera Aviator Sunglasses 382,Carrera,sunglasses,female,aviator,metal,black,5739,"Черные женские очки формы авиаторы, металлическая оправа, UV400.",4.07,24492
+SOJOS Square Sunglasses 383,SOJOS,sunglasses,female,square,plastic,silver,14154,"Серебристые женские очки формы квадратные, пластиковая оправа, UV400.",4.62,22644
+Polaroid Aviator Sunglasses 384,Polaroid,sunglasses,female,aviator,metal,silver,6340,"Серебристые женские очки формы авиаторы, металлическая оправа, UV400.",4.3,2833
+Oakley Round Sunglasses 385,Oakley,sunglasses,unisex,round,plastic,gold,7120,"Золотые унисекс очки формы круглые, пластиковая оправа, UV400.",4.35,6798
+Prada Rectangular Sunglasses 386,Prada,sunglasses,female,rectangular,plastic,black,13329,"Черные женские очки формы прямоугольные, пластиковая оправа, UV400.",4.64,10470
+Oakley Aviator Sunglasses 387,Oakley,sunglasses,female,aviator,metal,black,7120,"Черные женские очки формы авиаторы, металлическая оправа, UV400.",4.58,22208
+Polaroid Round Sunglasses 388,Polaroid,sunglasses,unisex,round,metal,blue,10542,"Синие унисекс очки формы круглые, металлическая оправа, UV400.",3.99,18365
+Guess Round Sunglasses 389,Guess,sunglasses,female,round,acetate,silver,4522,"Серебристые женские очки формы круглые, ацетатная оправа, UV400.",4.02,21558
+Guess Aviator Sunglasses 390,Guess,sunglasses,female,aviator,metal,blue,8865,"Синие женские очки формы авиаторы, металлическая оправа, UV400.",4.51,12761
+Ray-Ban Round Sunglasses 391,Ray-Ban,sunglasses,unisex,round,plastic,brown,13826,"Коричневые унисекс очки формы круглые, пластиковая оправа, UV400.",4.64,26103
+Oakley Aviator Sunglasses 392,Oakley,sunglasses,unisex,aviator,metal,blue,7493,"Синие унисекс очки формы авиаторы, металлическая оправа, UV400.",4.19,15013
+Oakley Rectangular Sunglasses 393,Oakley,sunglasses,female,rectangular,acetate,blue,6634,"Синие женские очки формы прямоугольные, ацетатная оправа, UV400.",4.52,20051
+Guess Aviator Sunglasses 394,Guess,sunglasses,unisex,aviator,plastic,gold,9001,"Золотые унисекс очки формы авиаторы, пластиковая оправа, UV400.",4.54,26684
+Vogue Cat-Eye Sunglasses 395,Vogue,sunglasses,unisex,cat-eye,acetate,black,3694,"Черные унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",4.18,7837
+Vogue Round Sunglasses 396,Vogue,sunglasses,male,round,acetate,gold,3816,"Золотые мужские очки формы круглые, ацетатная оправа, UV400.",4.41,13724
+Polaroid Rectangular Sunglasses 397,Polaroid,sunglasses,unisex,rectangular,metal,silver,9473,"Серебристые унисекс очки формы прямоугольные, металлическая оправа, UV400.",4.56,22742
+Polaroid Round Sunglasses 398,Polaroid,sunglasses,unisex,round,plastic,silver,3798,"Серебристые унисекс очки формы круглые, пластиковая оправа, UV400.",4.02,27610
+Prada Aviator Sunglasses 399,Prada,sunglasses,unisex,aviator,metal,gold,9439,"Золотые унисекс очки формы авиаторы, металлическая оправа, UV400.",3.96,26732
+Guess Cat-Eye Sunglasses 400,Guess,sunglasses,unisex,cat-eye,plastic,silver,12718,"Серебристые унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.39,23289
+Prada Round Sunglasses 401,Prada,sunglasses,female,round,acetate,black,2005,"Черные женские очки формы круглые, ацетатная оправа, UV400.",4.76,7246
+Vogue Square Sunglasses 402,Vogue,sunglasses,male,square,acetate,brown,6229,"Коричневые мужские очки формы квадратные, ацетатная оправа, UV400.",4.0,15005
+Prada Cat-Eye Sunglasses 403,Prada,sunglasses,unisex,cat-eye,acetate,black,3371,"Черные унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",4.12,17816
+Carrera Aviator Sunglasses 404,Carrera,sunglasses,unisex,aviator,acetate,silver,5080,"Серебристые унисекс очки формы авиаторы, ацетатная оправа, UV400.",4.99,3375
+SOJOS Aviator Sunglasses 405,SOJOS,sunglasses,female,aviator,plastic,silver,7211,"Серебристые женские очки формы авиаторы, пластиковая оправа, UV400.",4.83,2870
+Prada Round Sunglasses 406,Prada,sunglasses,male,round,acetate,brown,11132,"Коричневые мужские очки формы круглые, ацетатная оправа, UV400.",4.63,28234
+Guess Cat-Eye Sunglasses 407,Guess,sunglasses,male,cat-eye,metal,brown,14828,"Коричневые мужские очки формы кошачий глаз, металлическая оправа, UV400.",4.05,1965
+Carrera Square Sunglasses 408,Carrera,sunglasses,unisex,square,acetate,blue,4258,"Синие унисекс очки формы квадратные, ацетатная оправа, UV400.",4.19,23090
+Vogue Cat-Eye Sunglasses 409,Vogue,sunglasses,female,cat-eye,acetate,gold,12629,"Золотые женские очки формы кошачий глаз, ацетатная оправа, UV400.",4.78,4462
+Guess Square Sunglasses 410,Guess,sunglasses,male,square,acetate,brown,3674,"Коричневые мужские очки формы квадратные, ацетатная оправа, UV400.",4.1,23330
+Carrera Rectangular Sunglasses 411,Carrera,sunglasses,male,rectangular,metal,silver,10960,"Серебристые мужские очки формы прямоугольные, металлическая оправа, UV400.",4.56,20592
+Guess Rectangular Sunglasses 412,Guess,sunglasses,female,rectangular,acetate,black,14518,"Черные женские очки формы прямоугольные, ацетатная оправа, UV400.",4.86,3070
+Guess Square Sunglasses 413,Guess,sunglasses,unisex,square,plastic,gold,9496,"Золотые унисекс очки формы квадратные, пластиковая оправа, UV400.",4.19,101
+Oakley Rectangular Sunglasses 414,Oakley,sunglasses,unisex,rectangular,metal,gold,14536,"Золотые унисекс очки формы прямоугольные, металлическая оправа, UV400.",4.44,7157
+Guess Rectangular Sunglasses 415,Guess,sunglasses,male,rectangular,plastic,gold,6146,"Золотые мужские очки формы прямоугольные, пластиковая оправа, UV400.",4.21,18957
+Polaroid Rectangular Sunglasses 416,Polaroid,sunglasses,unisex,rectangular,acetate,gold,13988,"Золотые унисекс очки формы прямоугольные, ацетатная оправа, UV400.",3.86,3282
+Prada Aviator Sunglasses 417,Prada,sunglasses,male,aviator,plastic,brown,8979,"Коричневые мужские очки формы авиаторы, пластиковая оправа, UV400.",3.8,14038
+SOJOS Round Sunglasses 418,SOJOS,sunglasses,unisex,round,metal,gold,5989,"Золотые унисекс очки формы круглые, металлическая оправа, UV400.",3.91,11830
+Vogue Square Sunglasses 419,Vogue,sunglasses,male,square,metal,brown,7993,"Коричневые мужские очки формы квадратные, металлическая оправа, UV400.",4.55,23809
+SOJOS Aviator Sunglasses 420,SOJOS,sunglasses,female,aviator,metal,black,4996,"Черные женские очки формы авиаторы, металлическая оправа, UV400.",4.37,4368
+SOJOS Rectangular Sunglasses 421,SOJOS,sunglasses,unisex,rectangular,metal,black,12896,"Черные унисекс очки формы прямоугольные, металлическая оправа, UV400.",4.21,3971
+Guess Round Sunglasses 422,Guess,sunglasses,unisex,round,metal,silver,5251,"Серебристые унисекс очки формы круглые, металлическая оправа, UV400.",4.26,23965
+Oakley Square Sunglasses 423,Oakley,sunglasses,male,square,plastic,gold,3746,"Золотые мужские очки формы квадратные, пластиковая оправа, UV400.",4.26,26672
+Polaroid Round Sunglasses 424,Polaroid,sunglasses,unisex,round,acetate,black,10728,"Черные унисекс очки формы круглые, ацетатная оправа, UV400.",3.81,21319
+Polaroid Square Sunglasses 425,Polaroid,sunglasses,female,square,acetate,brown,13759,"Коричневые женские очки формы квадратные, ацетатная оправа, UV400.",3.98,13510
+Prada Aviator Sunglasses 426,Prada,sunglasses,male,aviator,metal,black,13828,"Черные мужские очки формы авиаторы, металлическая оправа, UV400.",3.95,23940
+Guess Rectangular Sunglasses 427,Guess,sunglasses,female,rectangular,metal,gold,5559,"Золотые женские очки формы прямоугольные, металлическая оправа, UV400.",4.13,2780
+SOJOS Cat-Eye Sunglasses 428,SOJOS,sunglasses,unisex,cat-eye,acetate,blue,11454,"Синие унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",4.14,22645
+Ray-Ban Square Sunglasses 429,Ray-Ban,sunglasses,unisex,square,acetate,brown,11443,"Коричневые унисекс очки формы квадратные, ацетатная оправа, UV400.",4.41,24525
+Guess Aviator Sunglasses 430,Guess,sunglasses,female,aviator,plastic,brown,7822,"Коричневые женские очки формы авиаторы, пластиковая оправа, UV400.",3.94,16390
+Oakley Aviator Sunglasses 431,Oakley,sunglasses,unisex,aviator,plastic,gold,3662,"Золотые унисекс очки формы авиаторы, пластиковая оправа, UV400.",4.26,27511
+Guess Cat-Eye Sunglasses 432,Guess,sunglasses,female,cat-eye,plastic,brown,14121,"Коричневые женские очки формы кошачий глаз, пластиковая оправа, UV400.",3.89,19266
+Oakley Square Sunglasses 433,Oakley,sunglasses,male,square,metal,brown,2490,"Коричневые мужские очки формы квадратные, металлическая оправа, UV400.",4.94,13060
+Vogue Cat-Eye Sunglasses 434,Vogue,sunglasses,unisex,cat-eye,plastic,silver,12998,"Серебристые унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.28,21009
+Polaroid Aviator Sunglasses 435,Polaroid,sunglasses,female,aviator,metal,gold,9877,"Золотые женские очки формы авиаторы, металлическая оправа, UV400.",4.91,26498
+Polaroid Square Sunglasses 436,Polaroid,sunglasses,unisex,square,acetate,silver,11892,"Серебристые унисекс очки формы квадратные, ацетатная оправа, UV400.",4.72,21313
+Oakley Rectangular Sunglasses 437,Oakley,sunglasses,female,rectangular,metal,brown,5505,"Коричневые женские очки формы прямоугольные, металлическая оправа, UV400.",3.9,14257
+Oakley Cat-Eye Sunglasses 438,Oakley,sunglasses,female,cat-eye,metal,blue,6567,"Синие женские очки формы кошачий глаз, металлическая оправа, UV400.",4.6,21583
+Polaroid Aviator Sunglasses 439,Polaroid,sunglasses,male,aviator,acetate,brown,1685,"Коричневые мужские очки формы авиаторы, ацетатная оправа, UV400.",4.0,11380
+Vogue Square Sunglasses 440,Vogue,sunglasses,male,square,acetate,brown,14297,"Коричневые мужские очки формы квадратные, ацетатная оправа, UV400.",4.85,24036
+Oakley Square Sunglasses 441,Oakley,sunglasses,male,square,plastic,silver,10082,"Серебристые мужские очки формы квадратные, пластиковая оправа, UV400.",3.88,23361
+Oakley Rectangular Sunglasses 442,Oakley,sunglasses,female,rectangular,plastic,blue,2408,"Синие женские очки формы прямоугольные, пластиковая оправа, UV400.",4.4,18595
+Polaroid Round Sunglasses 443,Polaroid,sunglasses,female,round,metal,gold,10902,"Золотые женские очки формы круглые, металлическая оправа, UV400.",4.61,3799
+SOJOS Cat-Eye Sunglasses 444,SOJOS,sunglasses,unisex,cat-eye,metal,black,1701,"Черные унисекс очки формы кошачий глаз, металлическая оправа, UV400.",4.09,15478
+Carrera Round Sunglasses 445,Carrera,sunglasses,female,round,metal,brown,10558,"Коричневые женские очки формы круглые, металлическая оправа, UV400.",4.76,23417
+Guess Square Sunglasses 446,Guess,sunglasses,male,square,plastic,brown,13301,"Коричневые мужские очки формы квадратные, пластиковая оправа, UV400.",4.18,27086
+Oakley Square Sunglasses 447,Oakley,sunglasses,unisex,square,acetate,black,12531,"Черные унисекс очки формы квадратные, ацетатная оправа, UV400.",4.88,5896
+SOJOS Aviator Sunglasses 448,SOJOS,sunglasses,unisex,aviator,metal,silver,9120,"Серебристые унисекс очки формы авиаторы, металлическая оправа, UV400.",4.84,25366
+Vogue Aviator Sunglasses 449,Vogue,sunglasses,female,aviator,plastic,blue,1630,"Синие женские очки формы авиаторы, пластиковая оправа, UV400.",4.24,9574
+Vogue Cat-Eye Sunglasses 450,Vogue,sunglasses,unisex,cat-eye,plastic,brown,7533,"Коричневые унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.51,16186
+SOJOS Cat-Eye Sunglasses 451,SOJOS,sunglasses,unisex,cat-eye,metal,brown,1604,"Коричневые унисекс очки формы кошачий глаз, металлическая оправа, UV400.",4.92,803
+SOJOS Square Sunglasses 452,SOJOS,sunglasses,unisex,square,plastic,black,1523,"Черные унисекс очки формы квадратные, пластиковая оправа, UV400.",4.71,12349
+Vogue Round Sunglasses 453,Vogue,sunglasses,male,round,metal,blue,8378,"Синие мужские очки формы круглые, металлическая оправа, UV400.",4.39,1982
+Polaroid Square Sunglasses 454,Polaroid,sunglasses,unisex,square,metal,black,5292,"Черные унисекс очки формы квадратные, металлическая оправа, UV400.",4.88,17051
+Guess Square Sunglasses 455,Guess,sunglasses,unisex,square,acetate,silver,2891,"Серебристые унисекс очки формы квадратные, ацетатная оправа, UV400.",4.5,16581
+Polaroid Rectangular Sunglasses 456,Polaroid,sunglasses,unisex,rectangular,acetate,black,10803,"Черные унисекс очки формы прямоугольные, ацетатная оправа, UV400.",3.87,21726
+Polaroid Square Sunglasses 457,Polaroid,sunglasses,male,square,plastic,gold,14620,"Золотые мужские очки формы квадратные, пластиковая оправа, UV400.",4.27,27279
+Carrera Rectangular Sunglasses 458,Carrera,sunglasses,female,rectangular,metal,gold,2723,"Золотые женские очки формы прямоугольные, металлическая оправа, UV400.",4.93,4480
+Oakley Aviator Sunglasses 459,Oakley,sunglasses,male,aviator,plastic,brown,9135,"Коричневые мужские очки формы авиаторы, пластиковая оправа, UV400.",4.18,3976
+Carrera Rectangular Sunglasses 460,Carrera,sunglasses,male,rectangular,plastic,gold,5841,"Золотые мужские очки формы прямоугольные, пластиковая оправа, UV400.",4.82,2982
+Polaroid Square Sunglasses 461,Polaroid,sunglasses,unisex,square,metal,blue,5022,"Синие унисекс очки формы квадратные, металлическая оправа, UV400.",4.8,10761
+Polaroid Round Sunglasses 462,Polaroid,sunglasses,male,round,plastic,gold,9912,"Золотые мужские очки формы круглые, пластиковая оправа, UV400.",3.86,9812
+Vogue Aviator Sunglasses 463,Vogue,sunglasses,male,aviator,plastic,silver,10608,"Серебристые мужские очки формы авиаторы, пластиковая оправа, UV400.",4.7,8207
+Oakley Aviator Sunglasses 464,Oakley,sunglasses,female,aviator,metal,brown,1695,"Коричневые женские очки формы авиаторы, металлическая оправа, UV400.",3.87,25610
+SOJOS Round Sunglasses 465,SOJOS,sunglasses,male,round,plastic,silver,12744,"Серебристые мужские очки формы круглые, пластиковая оправа, UV400.",4.56,21145
+Oakley Cat-Eye Sunglasses 466,Oakley,sunglasses,unisex,cat-eye,metal,gold,1857,"Золотые унисекс очки формы кошачий глаз, металлическая оправа, UV400.",5.0,6499
+Prada Aviator Sunglasses 467,Prada,sunglasses,male,aviator,metal,gold,2199,"Золотые мужские очки формы авиаторы, металлическая оправа, UV400.",4.93,1679
+Polaroid Rectangular Sunglasses 468,Polaroid,sunglasses,unisex,rectangular,plastic,silver,1983,"Серебристые унисекс очки формы прямоугольные, пластиковая оправа, UV400.",4.26,14000
+Polaroid Round Sunglasses 469,Polaroid,sunglasses,female,round,plastic,brown,6085,"Коричневые женские очки формы круглые, пластиковая оправа, UV400.",4.34,4890
+Ray-Ban Cat-Eye Sunglasses 470,Ray-Ban,sunglasses,unisex,cat-eye,metal,blue,12105,"Синие унисекс очки формы кошачий глаз, металлическая оправа, UV400.",4.15,13520
+Prada Aviator Sunglasses 471,Prada,sunglasses,male,aviator,plastic,gold,3748,"Золотые мужские очки формы авиаторы, пластиковая оправа, UV400.",4.3,21078
+SOJOS Cat-Eye Sunglasses 472,SOJOS,sunglasses,unisex,cat-eye,plastic,black,14310,"Черные унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.66,15738
+Prada Cat-Eye Sunglasses 473,Prada,sunglasses,female,cat-eye,plastic,blue,7863,"Синие женские очки формы кошачий глаз, пластиковая оправа, UV400.",4.12,874
+Carrera Round Sunglasses 474,Carrera,sunglasses,unisex,round,plastic,black,2459,"Черные унисекс очки формы круглые, пластиковая оправа, UV400.",4.77,15476
+Carrera Round Sunglasses 475,Carrera,sunglasses,unisex,round,metal,brown,5560,"Коричневые унисекс очки формы круглые, металлическая оправа, UV400.",4.59,8753
+Ray-Ban Cat-Eye Sunglasses 476,Ray-Ban,sunglasses,male,cat-eye,plastic,silver,4346,"Серебристые мужские очки формы кошачий глаз, пластиковая оправа, UV400.",4.01,19435
+Carrera Square Sunglasses 477,Carrera,sunglasses,unisex,square,metal,blue,13025,"Синие унисекс очки формы квадратные, металлическая оправа, UV400.",4.64,18620
+Polaroid Round Sunglasses 478,Polaroid,sunglasses,unisex,round,acetate,silver,6563,"Серебристые унисекс очки формы круглые, ацетатная оправа, UV400.",4.01,1263
+Oakley Round Sunglasses 479,Oakley,sunglasses,male,round,metal,blue,1826,"Синие мужские очки формы круглые, металлическая оправа, UV400.",4.43,42
+Carrera Round Sunglasses 480,Carrera,sunglasses,unisex,round,plastic,brown,13246,"Коричневые унисекс очки формы круглые, пластиковая оправа, UV400.",4.01,26313
+Carrera Aviator Sunglasses 481,Carrera,sunglasses,male,aviator,acetate,brown,13045,"Коричневые мужские очки формы авиаторы, ацетатная оправа, UV400.",4.9,25394
+Oakley Square Sunglasses 482,Oakley,sunglasses,unisex,square,plastic,black,13043,"Черные унисекс очки формы квадратные, пластиковая оправа, UV400.",4.93,12982
+Oakley Square Sunglasses 483,Oakley,sunglasses,female,square,metal,gold,4080,"Золотые женские очки формы квадратные, металлическая оправа, UV400.",4.68,14335
+Prada Square Sunglasses 484,Prada,sunglasses,unisex,square,acetate,brown,10707,"Коричневые унисекс очки формы квадратные, ацетатная оправа, UV400.",4.63,20130
+Carrera Cat-Eye Sunglasses 485,Carrera,sunglasses,male,cat-eye,plastic,brown,6526,"Коричневые мужские очки формы кошачий глаз, пластиковая оправа, UV400.",4.68,9670
+Polaroid Aviator Sunglasses 486,Polaroid,sunglasses,male,aviator,plastic,blue,14129,"Синие мужские очки формы авиаторы, пластиковая оправа, UV400.",4.96,1081
+Polaroid Square Sunglasses 487,Polaroid,sunglasses,unisex,square,metal,blue,11979,"Синие унисекс очки формы квадратные, металлическая оправа, UV400.",4.48,16278
+Polaroid Aviator Sunglasses 488,Polaroid,sunglasses,female,aviator,plastic,brown,6734,"Коричневые женские очки формы авиаторы, пластиковая оправа, UV400.",4.0,29030
+Oakley Square Sunglasses 489,Oakley,sunglasses,unisex,square,metal,silver,5845,"Серебристые унисекс очки формы квадратные, металлическая оправа, UV400.",4.05,22733
+Oakley Square Sunglasses 490,Oakley,sunglasses,female,square,acetate,black,1520,"Черные женские очки формы квадратные, ацетатная оправа, UV400.",3.86,14379
+Guess Rectangular Sunglasses 491,Guess,sunglasses,male,rectangular,plastic,silver,7254,"Серебристые мужские очки формы прямоугольные, пластиковая оправа, UV400.",4.46,3343
+Prada Round Sunglasses 492,Prada,sunglasses,unisex,round,plastic,brown,2707,"Коричневые унисекс очки формы круглые, пластиковая оправа, UV400.",4.76,1114
+Vogue Square Sunglasses 493,Vogue,sunglasses,male,square,metal,gold,2715,"Золотые мужские очки формы квадратные, металлическая оправа, UV400.",4.21,29115
+Guess Aviator Sunglasses 494,Guess,sunglasses,male,aviator,metal,blue,7036,"Синие мужские очки формы авиаторы, металлическая оправа, UV400.",4.51,20127
+Prada Aviator Sunglasses 495,Prada,sunglasses,unisex,aviator,acetate,silver,4203,"Серебристые унисекс очки формы авиаторы, ацетатная оправа, UV400.",4.53,14247
+Polaroid Aviator Sunglasses 496,Polaroid,sunglasses,male,aviator,metal,gold,4612,"Золотые мужские очки формы авиаторы, металлическая оправа, UV400.",4.29,18177
+Vogue Square Sunglasses 497,Vogue,sunglasses,unisex,square,metal,gold,3071,"Золотые унисекс очки формы квадратные, металлическая оправа, UV400.",3.86,18755
+Prada Aviator Sunglasses 498,Prada,sunglasses,male,aviator,metal,gold,8505,"Золотые мужские очки формы авиаторы, металлическая оправа, UV400.",3.91,27017
+Prada Aviator Sunglasses 499,Prada,sunglasses,male,aviator,metal,black,4298,"Черные мужские очки формы авиаторы, металлическая оправа, UV400.",4.57,2704
+Prada Square Sunglasses 500,Prada,sunglasses,male,square,plastic,silver,9513,"Серебристые мужские очки формы квадратные, пластиковая оправа, UV400.",4.87,8703
+Oakley Cat-Eye Sunglasses 501,Oakley,sunglasses,unisex,cat-eye,metal,silver,7578,"Серебристые унисекс очки формы кошачий глаз, металлическая оправа, UV400.",4.86,12124
+Polaroid Aviator Sunglasses 502,Polaroid,sunglasses,female,aviator,plastic,gold,9119,"Золотые женские очки формы авиаторы, пластиковая оправа, UV400.",4.12,27449
+Vogue Aviator Sunglasses 503,Vogue,sunglasses,unisex,aviator,acetate,brown,12435,"Коричневые унисекс очки формы авиаторы, ацетатная оправа, UV400.",3.92,21913
+Carrera Rectangular Sunglasses 504,Carrera,sunglasses,unisex,rectangular,metal,blue,10570,"Синие унисекс очки формы прямоугольные, металлическая оправа, UV400.",3.87,12704
+Guess Rectangular Sunglasses 505,Guess,sunglasses,unisex,rectangular,metal,blue,9303,"Синие унисекс очки формы прямоугольные, металлическая оправа, UV400.",4.16,12956
+Ray-Ban Cat-Eye Sunglasses 506,Ray-Ban,sunglasses,unisex,cat-eye,acetate,blue,12600,"Синие унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",4.98,4851
+Oakley Round Sunglasses 507,Oakley,sunglasses,female,round,metal,brown,14745,"Коричневые женские очки формы круглые, металлическая оправа, UV400.",4.03,1418
+Guess Rectangular Sunglasses 508,Guess,sunglasses,male,rectangular,acetate,brown,3922,"Коричневые мужские очки формы прямоугольные, ацетатная оправа, UV400.",4.8,8470
+Carrera Aviator Sunglasses 509,Carrera,sunglasses,unisex,aviator,plastic,black,10615,"Черные унисекс очки формы авиаторы, пластиковая оправа, UV400.",4.28,10706
+Vogue Rectangular Sunglasses 510,Vogue,sunglasses,unisex,rectangular,acetate,black,11708,"Черные унисекс очки формы прямоугольные, ацетатная оправа, UV400.",4.51,25634
+Guess Rectangular Sunglasses 511,Guess,sunglasses,male,rectangular,metal,brown,10783,"Коричневые мужские очки формы прямоугольные, металлическая оправа, UV400.",4.51,24870
+Oakley Cat-Eye Sunglasses 512,Oakley,sunglasses,male,cat-eye,plastic,black,10275,"Черные мужские очки формы кошачий глаз, пластиковая оправа, UV400.",4.86,28786
+Guess Rectangular Sunglasses 513,Guess,sunglasses,female,rectangular,acetate,silver,11477,"Серебристые женские очки формы прямоугольные, ацетатная оправа, UV400.",4.37,5662
+Vogue Round Sunglasses 514,Vogue,sunglasses,female,round,acetate,blue,12654,"Синие женские очки формы круглые, ацетатная оправа, UV400.",4.63,1290
+Guess Round Sunglasses 515,Guess,sunglasses,female,round,acetate,black,9285,"Черные женские очки формы круглые, ацетатная оправа, UV400.",4.91,29413
+Carrera Square Sunglasses 516,Carrera,sunglasses,male,square,plastic,gold,6093,"Золотые мужские очки формы квадратные, пластиковая оправа, UV400.",4.81,28142
+Oakley Round Sunglasses 517,Oakley,sunglasses,male,round,acetate,gold,8759,"Золотые мужские очки формы круглые, ацетатная оправа, UV400.",4.73,10534
+Vogue Rectangular Sunglasses 518,Vogue,sunglasses,unisex,rectangular,acetate,blue,2962,"Синие унисекс очки формы прямоугольные, ацетатная оправа, UV400.",4.03,6946
+Guess Rectangular Sunglasses 519,Guess,sunglasses,unisex,rectangular,plastic,blue,14951,"Синие унисекс очки формы прямоугольные, пластиковая оправа, UV400.",3.87,25955
+Polaroid Square Sunglasses 520,Polaroid,sunglasses,male,square,plastic,blue,3722,"Синие мужские очки формы квадратные, пластиковая оправа, UV400.",4.74,17199
+Ray-Ban Round Sunglasses 521,Ray-Ban,sunglasses,male,round,metal,brown,5587,"Коричневые мужские очки формы круглые, металлическая оправа, UV400.",3.84,1676
+Carrera Round Sunglasses 522,Carrera,sunglasses,unisex,round,plastic,gold,14992,"Золотые унисекс очки формы круглые, пластиковая оправа, UV400.",4.36,13027
+Oakley Aviator Sunglasses 523,Oakley,sunglasses,unisex,aviator,plastic,brown,9508,"Коричневые унисекс очки формы авиаторы, пластиковая оправа, UV400.",4.51,5839
+Prada Cat-Eye Sunglasses 524,Prada,sunglasses,unisex,cat-eye,plastic,gold,4179,"Золотые унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.81,8495
+Oakley Aviator Sunglasses 525,Oakley,sunglasses,female,aviator,metal,silver,4169,"Серебристые женские очки формы авиаторы, металлическая оправа, UV400.",4.82,25573
+SOJOS Round Sunglasses 526,SOJOS,sunglasses,male,round,plastic,brown,12175,"Коричневые мужские очки формы круглые, пластиковая оправа, UV400.",4.29,677
+Ray-Ban Round Sunglasses 527,Ray-Ban,sunglasses,female,round,acetate,brown,14621,"Коричневые женские очки формы круглые, ацетатная оправа, UV400.",3.81,8290
+Vogue Square Sunglasses 528,Vogue,sunglasses,unisex,square,plastic,silver,7213,"Серебристые унисекс очки формы квадратные, пластиковая оправа, UV400.",4.35,7170
+Prada Cat-Eye Sunglasses 529,Prada,sunglasses,female,cat-eye,plastic,blue,11076,"Синие женские очки формы кошачий глаз, пластиковая оправа, UV400.",3.92,16781
+Carrera Cat-Eye Sunglasses 530,Carrera,sunglasses,unisex,cat-eye,plastic,blue,6390,"Синие унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.62,15805
+Oakley Square Sunglasses 531,Oakley,sunglasses,female,square,plastic,gold,5778,"Золотые женские очки формы квадратные, пластиковая оправа, UV400.",4.59,29261
+Vogue Round Sunglasses 532,Vogue,sunglasses,male,round,metal,blue,2430,"Синие мужские очки формы круглые, металлическая оправа, UV400.",4.77,26311
+Guess Square Sunglasses 533,Guess,sunglasses,unisex,square,acetate,brown,1917,"Коричневые унисекс очки формы квадратные, ацетатная оправа, UV400.",4.59,9706
+Vogue Rectangular Sunglasses 534,Vogue,sunglasses,female,rectangular,acetate,silver,2078,"Серебристые женские очки формы прямоугольные, ацетатная оправа, UV400.",4.5,18764
+SOJOS Round Sunglasses 535,SOJOS,sunglasses,female,round,acetate,blue,14359,"Синие женские очки формы круглые, ацетатная оправа, UV400.",4.37,22035
+Carrera Square Sunglasses 536,Carrera,sunglasses,unisex,square,acetate,brown,10646,"Коричневые унисекс очки формы квадратные, ацетатная оправа, UV400.",4.02,3218
+Prada Square Sunglasses 537,Prada,sunglasses,male,square,metal,blue,12636,"Синие мужские очки формы квадратные, металлическая оправа, UV400.",4.88,21464
+Oakley Square Sunglasses 538,Oakley,sunglasses,male,square,acetate,brown,6531,"Коричневые мужские очки формы квадратные, ацетатная оправа, UV400.",4.3,29080
+Carrera Square Sunglasses 539,Carrera,sunglasses,female,square,plastic,blue,9098,"Синие женские очки формы квадратные, пластиковая оправа, UV400.",4.82,15438
+Ray-Ban Cat-Eye Sunglasses 540,Ray-Ban,sunglasses,unisex,cat-eye,acetate,blue,2666,"Синие унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",4.37,6394
+Oakley Rectangular Sunglasses 541,Oakley,sunglasses,unisex,rectangular,plastic,blue,8268,"Синие унисекс очки формы прямоугольные, пластиковая оправа, UV400.",3.86,28011
+Polaroid Round Sunglasses 542,Polaroid,sunglasses,male,round,plastic,gold,10829,"Золотые мужские очки формы круглые, пластиковая оправа, UV400.",4.87,15013
+Polaroid Round Sunglasses 543,Polaroid,sunglasses,female,round,plastic,black,6949,"Черные женские очки формы круглые, пластиковая оправа, UV400.",4.56,5814
+Carrera Aviator Sunglasses 544,Carrera,sunglasses,unisex,aviator,plastic,black,5981,"Черные унисекс очки формы авиаторы, пластиковая оправа, UV400.",4.05,25367
+Polaroid Round Sunglasses 545,Polaroid,sunglasses,unisex,round,metal,silver,3620,"Серебристые унисекс очки формы круглые, металлическая оправа, UV400.",4.54,20778
+Guess Rectangular Sunglasses 546,Guess,sunglasses,female,rectangular,plastic,silver,1576,"Серебристые женские очки формы прямоугольные, пластиковая оправа, UV400.",3.85,6554
+Carrera Square Sunglasses 547,Carrera,sunglasses,male,square,metal,blue,1793,"Синие мужские очки формы квадратные, металлическая оправа, UV400.",4.61,20555
+SOJOS Square Sunglasses 548,SOJOS,sunglasses,male,square,metal,gold,3182,"Золотые мужские очки формы квадратные, металлическая оправа, UV400.",4.26,19309
+Vogue Aviator Sunglasses 549,Vogue,sunglasses,male,aviator,plastic,black,6264,"Черные мужские очки формы авиаторы, пластиковая оправа, UV400.",4.35,17068
+Carrera Round Sunglasses 550,Carrera,sunglasses,female,round,plastic,gold,7385,"Золотые женские очки формы круглые, пластиковая оправа, UV400.",4.7,5422
+Guess Round Sunglasses 551,Guess,sunglasses,male,round,acetate,brown,3649,"Коричневые мужские очки формы круглые, ацетатная оправа, UV400.",4.05,738
+Polaroid Square Sunglasses 552,Polaroid,sunglasses,male,square,plastic,black,11991,"Черные мужские очки формы квадратные, пластиковая оправа, UV400.",4.11,17542
+Ray-Ban Aviator Sunglasses 553,Ray-Ban,sunglasses,unisex,aviator,acetate,black,1823,"Черные унисекс очки формы авиаторы, ацетатная оправа, UV400.",3.86,3814
+Guess Rectangular Sunglasses 554,Guess,sunglasses,female,rectangular,acetate,black,5640,"Черные женские очки формы прямоугольные, ацетатная оправа, UV400.",4.37,5037
+SOJOS Aviator Sunglasses 555,SOJOS,sunglasses,unisex,aviator,plastic,gold,12340,"Золотые унисекс очки формы авиаторы, пластиковая оправа, UV400.",3.92,17069
+Vogue Cat-Eye Sunglasses 556,Vogue,sunglasses,unisex,cat-eye,plastic,brown,3218,"Коричневые унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.41,20260
+Oakley Aviator Sunglasses 557,Oakley,sunglasses,female,aviator,plastic,black,4754,"Черные женские очки формы авиаторы, пластиковая оправа, UV400.",4.53,25512
+Vogue Round Sunglasses 558,Vogue,sunglasses,unisex,round,acetate,gold,8213,"Золотые унисекс очки формы круглые, ацетатная оправа, UV400.",4.15,1311
+Prada Rectangular Sunglasses 559,Prada,sunglasses,male,rectangular,metal,gold,1544,"Золотые мужские очки формы прямоугольные, металлическая оправа, UV400.",3.82,2936
+Oakley Rectangular Sunglasses 560,Oakley,sunglasses,unisex,rectangular,metal,brown,14271,"Коричневые унисекс очки формы прямоугольные, металлическая оправа, UV400.",4.41,23729
+Oakley Round Sunglasses 561,Oakley,sunglasses,female,round,plastic,silver,5827,"Серебристые женские очки формы круглые, пластиковая оправа, UV400.",4.36,3290
+Polaroid Square Sunglasses 562,Polaroid,sunglasses,male,square,acetate,gold,6623,"Золотые мужские очки формы квадратные, ацетатная оправа, UV400.",4.31,3817
+Oakley Aviator Sunglasses 563,Oakley,sunglasses,male,aviator,acetate,brown,12103,"Коричневые мужские очки формы авиаторы, ацетатная оправа, UV400.",4.0,11735
+Prada Square Sunglasses 564,Prada,sunglasses,unisex,square,plastic,black,14852,"Черные унисекс очки формы квадратные, пластиковая оправа, UV400.",4.21,3750
+Guess Rectangular Sunglasses 565,Guess,sunglasses,female,rectangular,plastic,gold,12803,"Золотые женские очки формы прямоугольные, пластиковая оправа, UV400.",4.82,26231
+Guess Round Sunglasses 566,Guess,sunglasses,unisex,round,metal,black,12906,"Черные унисекс очки формы круглые, металлическая оправа, UV400.",4.67,27687
+Polaroid Rectangular Sunglasses 567,Polaroid,sunglasses,male,rectangular,plastic,blue,14644,"Синие мужские очки формы прямоугольные, пластиковая оправа, UV400.",4.48,14377
+Polaroid Rectangular Sunglasses 568,Polaroid,sunglasses,unisex,rectangular,acetate,gold,1972,"Золотые унисекс очки формы прямоугольные, ацетатная оправа, UV400.",4.84,28854
+Polaroid Rectangular Sunglasses 569,Polaroid,sunglasses,female,rectangular,plastic,black,8720,"Черные женские очки формы прямоугольные, пластиковая оправа, UV400.",3.86,8592
+Carrera Cat-Eye Sunglasses 570,Carrera,sunglasses,male,cat-eye,acetate,blue,10757,"Синие мужские очки формы кошачий глаз, ацетатная оправа, UV400.",4.07,21969
+Carrera Cat-Eye Sunglasses 571,Carrera,sunglasses,unisex,cat-eye,metal,blue,8591,"Синие унисекс очки формы кошачий глаз, металлическая оправа, UV400.",4.59,8165
+Prada Rectangular Sunglasses 572,Prada,sunglasses,female,rectangular,acetate,brown,11541,"Коричневые женские очки формы прямоугольные, ацетатная оправа, UV400.",3.87,21102
+Polaroid Rectangular Sunglasses 573,Polaroid,sunglasses,unisex,rectangular,metal,silver,2726,"Серебристые унисекс очки формы прямоугольные, металлическая оправа, UV400.",4.7,10526
+SOJOS Square Sunglasses 574,SOJOS,sunglasses,female,square,acetate,black,5148,"Черные женские очки формы квадратные, ацетатная оправа, UV400.",4.46,12427
+Guess Aviator Sunglasses 575,Guess,sunglasses,male,aviator,plastic,silver,14627,"Серебристые мужские очки формы авиаторы, пластиковая оправа, UV400.",4.49,2904
+Prada Square Sunglasses 576,Prada,sunglasses,female,square,plastic,black,13709,"Черные женские очки формы квадратные, пластиковая оправа, UV400.",4.58,3383
+Guess Aviator Sunglasses 577,Guess,sunglasses,female,aviator,acetate,blue,1502,"Синие женские очки формы авиаторы, ацетатная оправа, UV400.",4.79,25965
+Vogue Cat-Eye Sunglasses 578,Vogue,sunglasses,unisex,cat-eye,acetate,brown,12501,"Коричневые унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",4.35,11189
+Carrera Round Sunglasses 579,Carrera,sunglasses,male,round,plastic,silver,10677,"Серебристые мужские очки формы круглые, пластиковая оправа, UV400.",4.72,19679
+Prada Square Sunglasses 580,Prada,sunglasses,unisex,square,metal,silver,3096,"Серебристые унисекс очки формы квадратные, металлическая оправа, UV400.",4.71,7286
+Ray-Ban Square Sunglasses 581,Ray-Ban,sunglasses,female,square,acetate,gold,10052,"Золотые женские очки формы квадратные, ацетатная оправа, UV400.",4.25,3503
+Ray-Ban Rectangular Sunglasses 582,Ray-Ban,sunglasses,male,rectangular,acetate,brown,13665,"Коричневые мужские очки формы прямоугольные, ацетатная оправа, UV400.",4.67,3524
+Vogue Round Sunglasses 583,Vogue,sunglasses,unisex,round,metal,brown,7937,"Коричневые унисекс очки формы круглые, металлическая оправа, UV400.",4.06,27038
+SOJOS Square Sunglasses 584,SOJOS,sunglasses,unisex,square,plastic,black,2261,"Черные унисекс очки формы квадратные, пластиковая оправа, UV400.",4.91,27462
+Oakley Rectangular Sunglasses 585,Oakley,sunglasses,female,rectangular,acetate,blue,3705,"Синие женские очки формы прямоугольные, ацетатная оправа, UV400.",4.96,162
+Ray-Ban Rectangular Sunglasses 586,Ray-Ban,sunglasses,unisex,rectangular,plastic,blue,9828,"Синие унисекс очки формы прямоугольные, пластиковая оправа, UV400.",4.74,29844
+Polaroid Cat-Eye Sunglasses 587,Polaroid,sunglasses,unisex,cat-eye,acetate,brown,14856,"Коричневые унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",3.95,12714
+Carrera Rectangular Sunglasses 588,Carrera,sunglasses,unisex,rectangular,acetate,silver,12846,"Серебристые унисекс очки формы прямоугольные, ацетатная оправа, UV400.",4.71,8985
+Guess Square Sunglasses 589,Guess,sunglasses,female,square,metal,silver,3763,"Серебристые женские очки формы квадратные, металлическая оправа, UV400.",4.3,22958
+Vogue Cat-Eye Sunglasses 590,Vogue,sunglasses,unisex,cat-eye,acetate,gold,13572,"Золотые унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",4.92,20748
+SOJOS Round Sunglasses 591,SOJOS,sunglasses,male,round,acetate,blue,6260,"Синие мужские очки формы круглые, ацетатная оправа, UV400.",4.62,22052
+Polaroid Round Sunglasses 592,Polaroid,sunglasses,unisex,round,acetate,blue,12875,"Синие унисекс очки формы круглые, ацетатная оправа, UV400.",4.56,23296
+Oakley Cat-Eye Sunglasses 593,Oakley,sunglasses,female,cat-eye,acetate,silver,10849,"Серебристые женские очки формы кошачий глаз, ацетатная оправа, UV400.",4.93,23289
+Guess Cat-Eye Sunglasses 594,Guess,sunglasses,unisex,cat-eye,plastic,gold,14743,"Золотые унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",3.82,3508
+Ray-Ban Round Sunglasses 595,Ray-Ban,sunglasses,female,round,acetate,black,2427,"Черные женские очки формы круглые, ацетатная оправа, UV400.",4.04,24602
+Polaroid Square Sunglasses 596,Polaroid,sunglasses,female,square,metal,brown,12814,"Коричневые женские очки формы квадратные, металлическая оправа, UV400.",4.74,6704
+Ray-Ban Rectangular Sunglasses 597,Ray-Ban,sunglasses,female,rectangular,acetate,black,12567,"Черные женские очки формы прямоугольные, ацетатная оправа, UV400.",4.69,28359
+SOJOS Cat-Eye Sunglasses 598,SOJOS,sunglasses,unisex,cat-eye,metal,silver,9870,"Серебристые унисекс очки формы кошачий глаз, металлическая оправа, UV400.",4.74,26195
+Vogue Aviator Sunglasses 599,Vogue,sunglasses,unisex,aviator,plastic,silver,8325,"Серебристые унисекс очки формы авиаторы, пластиковая оправа, UV400.",4.95,22470
+Carrera Aviator Sunglasses 600,Carrera,sunglasses,unisex,aviator,acetate,black,5617,"Черные унисекс очки формы авиаторы, ацетатная оправа, UV400.",4.04,28490
+Prada Square Sunglasses 601,Prada,sunglasses,male,square,acetate,blue,13598,"Синие мужские очки формы квадратные, ацетатная оправа, UV400.",4.52,25452
+SOJOS Rectangular Sunglasses 602,SOJOS,sunglasses,female,rectangular,acetate,brown,2720,"Коричневые женские очки формы прямоугольные, ацетатная оправа, UV400.",4.02,5714
+Oakley Aviator Sunglasses 603,Oakley,sunglasses,female,aviator,plastic,silver,10619,"Серебристые женские очки формы авиаторы, пластиковая оправа, UV400.",4.12,5293
+Vogue Square Sunglasses 604,Vogue,sunglasses,male,square,acetate,silver,4036,"Серебристые мужские очки формы квадратные, ацетатная оправа, UV400.",3.85,10591
+Ray-Ban Cat-Eye Sunglasses 605,Ray-Ban,sunglasses,unisex,cat-eye,plastic,gold,14441,"Золотые унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.49,11753
+Oakley Square Sunglasses 606,Oakley,sunglasses,unisex,square,metal,blue,4512,"Синие унисекс очки формы квадратные, металлическая оправа, UV400.",4.42,25784
+Polaroid Cat-Eye Sunglasses 607,Polaroid,sunglasses,female,cat-eye,plastic,blue,3006,"Синие женские очки формы кошачий глаз, пластиковая оправа, UV400.",4.22,28967
+SOJOS Square Sunglasses 608,SOJOS,sunglasses,unisex,square,plastic,gold,6309,"Золотые унисекс очки формы квадратные, пластиковая оправа, UV400.",4.06,24683
+Prada Aviator Sunglasses 609,Prada,sunglasses,unisex,aviator,acetate,black,7168,"Черные унисекс очки формы авиаторы, ацетатная оправа, UV400.",4.33,29658
+SOJOS Square Sunglasses 610,SOJOS,sunglasses,male,square,metal,silver,7822,"Серебристые мужские очки формы квадратные, металлическая оправа, UV400.",4.11,23743
+Vogue Cat-Eye Sunglasses 611,Vogue,sunglasses,male,cat-eye,acetate,gold,14653,"Золотые мужские очки формы кошачий глаз, ацетатная оправа, UV400.",4.41,15971
+Ray-Ban Round Sunglasses 612,Ray-Ban,sunglasses,female,round,acetate,gold,2849,"Золотые женские очки формы круглые, ацетатная оправа, UV400.",4.94,5505
+Ray-Ban Aviator Sunglasses 613,Ray-Ban,sunglasses,unisex,aviator,acetate,brown,11813,"Коричневые унисекс очки формы авиаторы, ацетатная оправа, UV400.",4.73,28362
+Guess Round Sunglasses 614,Guess,sunglasses,male,round,acetate,blue,13646,"Синие мужские очки формы круглые, ацетатная оправа, UV400.",4.73,21206
+Oakley Round Sunglasses 615,Oakley,sunglasses,unisex,round,plastic,black,13245,"Черные унисекс очки формы круглые, пластиковая оправа, UV400.",4.2,2887
+Oakley Round Sunglasses 616,Oakley,sunglasses,male,round,acetate,gold,2654,"Золотые мужские очки формы круглые, ацетатная оправа, UV400.",4.49,7479
+Vogue Rectangular Sunglasses 617,Vogue,sunglasses,female,rectangular,acetate,silver,8126,"Серебристые женские очки формы прямоугольные, ацетатная оправа, UV400.",4.32,573
+Guess Aviator Sunglasses 618,Guess,sunglasses,unisex,aviator,metal,blue,12009,"Синие унисекс очки формы авиаторы, металлическая оправа, UV400.",4.66,2092
+Ray-Ban Aviator Sunglasses 619,Ray-Ban,sunglasses,unisex,aviator,acetate,gold,3238,"Золотые унисекс очки формы авиаторы, ацетатная оправа, UV400.",4.15,22494
+Vogue Aviator Sunglasses 620,Vogue,sunglasses,unisex,aviator,plastic,gold,7749,"Золотые унисекс очки формы авиаторы, пластиковая оправа, UV400.",4.27,21670
+Ray-Ban Round Sunglasses 621,Ray-Ban,sunglasses,female,round,metal,blue,3734,"Синие женские очки формы круглые, металлическая оправа, UV400.",4.7,26128
+Vogue Round Sunglasses 622,Vogue,sunglasses,unisex,round,acetate,gold,14525,"Золотые унисекс очки формы круглые, ацетатная оправа, UV400.",4.84,21251
+Carrera Cat-Eye Sunglasses 623,Carrera,sunglasses,male,cat-eye,metal,blue,3519,"Синие мужские очки формы кошачий глаз, металлическая оправа, UV400.",3.85,18786
+Guess Cat-Eye Sunglasses 624,Guess,sunglasses,unisex,cat-eye,plastic,black,4941,"Черные унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.7,29627
+Carrera Rectangular Sunglasses 625,Carrera,sunglasses,male,rectangular,metal,blue,4137,"Синие мужские очки формы прямоугольные, металлическая оправа, UV400.",4.02,20234
+Vogue Aviator Sunglasses 626,Vogue,sunglasses,male,aviator,acetate,brown,14601,"Коричневые мужские очки формы авиаторы, ацетатная оправа, UV400.",4.48,1802
+Prada Cat-Eye Sunglasses 627,Prada,sunglasses,unisex,cat-eye,plastic,black,12504,"Черные унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",3.88,3237
+SOJOS Cat-Eye Sunglasses 628,SOJOS,sunglasses,unisex,cat-eye,plastic,silver,7351,"Серебристые унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",3.95,21498
+SOJOS Square Sunglasses 629,SOJOS,sunglasses,male,square,metal,blue,4670,"Синие мужские очки формы квадратные, металлическая оправа, UV400.",4.18,14786
+Carrera Square Sunglasses 630,Carrera,sunglasses,unisex,square,metal,blue,10766,"Синие унисекс очки формы квадратные, металлическая оправа, UV400.",4.48,26486
+Carrera Round Sunglasses 631,Carrera,sunglasses,female,round,plastic,black,5533,"Черные женские очки формы круглые, пластиковая оправа, UV400.",4.74,23357
+Guess Square Sunglasses 632,Guess,sunglasses,female,square,acetate,brown,13509,"Коричневые женские очки формы квадратные, ацетатная оправа, UV400.",4.2,15747
+Prada Square Sunglasses 633,Prada,sunglasses,female,square,plastic,gold,10538,"Золотые женские очки формы квадратные, пластиковая оправа, UV400.",3.93,21173
+Oakley Round Sunglasses 634,Oakley,sunglasses,female,round,metal,blue,5812,"Синие женские очки формы круглые, металлическая оправа, UV400.",4.68,20553
+Oakley Aviator Sunglasses 635,Oakley,sunglasses,unisex,aviator,acetate,black,11848,"Черные унисекс очки формы авиаторы, ацетатная оправа, UV400.",3.84,19087
+Guess Round Sunglasses 636,Guess,sunglasses,unisex,round,acetate,black,5769,"Черные унисекс очки формы круглые, ацетатная оправа, UV400.",4.45,17704
+Prada Round Sunglasses 637,Prada,sunglasses,unisex,round,plastic,gold,5158,"Золотые унисекс очки формы круглые, пластиковая оправа, UV400.",4.87,19340
+Vogue Rectangular Sunglasses 638,Vogue,sunglasses,male,rectangular,acetate,blue,2983,"Синие мужские очки формы прямоугольные, ацетатная оправа, UV400.",4.28,16475
+Ray-Ban Round Sunglasses 639,Ray-Ban,sunglasses,unisex,round,acetate,blue,4217,"Синие унисекс очки формы круглые, ацетатная оправа, UV400.",4.71,4619
+Prada Round Sunglasses 640,Prada,sunglasses,male,round,acetate,blue,12303,"Синие мужские очки формы круглые, ацетатная оправа, UV400.",4.85,4810
+Prada Aviator Sunglasses 641,Prada,sunglasses,female,aviator,plastic,brown,5296,"Коричневые женские очки формы авиаторы, пластиковая оправа, UV400.",3.88,12125
+SOJOS Round Sunglasses 642,SOJOS,sunglasses,male,round,plastic,blue,7858,"Синие мужские очки формы круглые, пластиковая оправа, UV400.",4.36,14917
+Ray-Ban Square Sunglasses 643,Ray-Ban,sunglasses,male,square,acetate,black,10042,"Черные мужские очки формы квадратные, ацетатная оправа, UV400.",4.56,8981
+Vogue Cat-Eye Sunglasses 644,Vogue,sunglasses,unisex,cat-eye,metal,blue,7671,"Синие унисекс очки формы кошачий глаз, металлическая оправа, UV400.",4.58,11990
+Oakley Square Sunglasses 645,Oakley,sunglasses,unisex,square,metal,silver,9960,"Серебристые унисекс очки формы квадратные, металлическая оправа, UV400.",4.29,26799
+Carrera Rectangular Sunglasses 646,Carrera,sunglasses,female,rectangular,metal,blue,9722,"Синие женские очки формы прямоугольные, металлическая оправа, UV400.",4.86,14434
+Polaroid Aviator Sunglasses 647,Polaroid,sunglasses,male,aviator,acetate,blue,6100,"Синие мужские очки формы авиаторы, ацетатная оправа, UV400.",4.05,6144
+Polaroid Cat-Eye Sunglasses 648,Polaroid,sunglasses,female,cat-eye,acetate,black,5273,"Черные женские очки формы кошачий глаз, ацетатная оправа, UV400.",4.3,10840
+Oakley Rectangular Sunglasses 649,Oakley,sunglasses,female,rectangular,metal,silver,11179,"Серебристые женские очки формы прямоугольные, металлическая оправа, UV400.",3.99,27327
+Guess Round Sunglasses 650,Guess,sunglasses,male,round,metal,black,10896,"Черные мужские очки формы круглые, металлическая оправа, UV400.",4.51,4434
+Ray-Ban Round Sunglasses 651,Ray-Ban,sunglasses,unisex,round,metal,black,5731,"Черные унисекс очки формы круглые, металлическая оправа, UV400.",4.91,16949
+Guess Cat-Eye Sunglasses 652,Guess,sunglasses,unisex,cat-eye,acetate,black,13427,"Черные унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",4.59,9308
+Oakley Rectangular Sunglasses 653,Oakley,sunglasses,male,rectangular,plastic,blue,9391,"Синие мужские очки формы прямоугольные, пластиковая оправа, UV400.",4.0,27229
+Guess Round Sunglasses 654,Guess,sunglasses,unisex,round,metal,blue,11710,"Синие унисекс очки формы круглые, металлическая оправа, UV400.",4.59,8687
+Polaroid Square Sunglasses 655,Polaroid,sunglasses,unisex,square,acetate,silver,11176,"Серебристые унисекс очки формы квадратные, ацетатная оправа, UV400.",3.88,12413
+Guess Aviator Sunglasses 656,Guess,sunglasses,male,aviator,metal,black,10064,"Черные мужские очки формы авиаторы, металлическая оправа, UV400.",4.83,16546
+Guess Cat-Eye Sunglasses 657,Guess,sunglasses,male,cat-eye,metal,black,9296,"Черные мужские очки формы кошачий глаз, металлическая оправа, UV400.",4.88,19674
+Ray-Ban Cat-Eye Sunglasses 658,Ray-Ban,sunglasses,unisex,cat-eye,metal,black,9401,"Черные унисекс очки формы кошачий глаз, металлическая оправа, UV400.",4.59,29576
+Ray-Ban Rectangular Sunglasses 659,Ray-Ban,sunglasses,unisex,rectangular,plastic,blue,7568,"Синие унисекс очки формы прямоугольные, пластиковая оправа, UV400.",4.85,22880
+Guess Rectangular Sunglasses 660,Guess,sunglasses,male,rectangular,plastic,silver,11150,"Серебристые мужские очки формы прямоугольные, пластиковая оправа, UV400.",4.77,29768
+Oakley Round Sunglasses 661,Oakley,sunglasses,female,round,plastic,gold,14047,"Золотые женские очки формы круглые, пластиковая оправа, UV400.",4.08,28169
+Oakley Cat-Eye Sunglasses 662,Oakley,sunglasses,female,cat-eye,plastic,blue,5723,"Синие женские очки формы кошачий глаз, пластиковая оправа, UV400.",4.03,23257
+Ray-Ban Cat-Eye Sunglasses 663,Ray-Ban,sunglasses,unisex,cat-eye,acetate,black,1617,"Черные унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",4.25,6751
+Carrera Square Sunglasses 664,Carrera,sunglasses,female,square,metal,black,8480,"Черные женские очки формы квадратные, металлическая оправа, UV400.",4.58,8331
+Vogue Rectangular Sunglasses 665,Vogue,sunglasses,unisex,rectangular,plastic,blue,11525,"Синие унисекс очки формы прямоугольные, пластиковая оправа, UV400.",4.13,22322
+Guess Rectangular Sunglasses 666,Guess,sunglasses,male,rectangular,acetate,blue,9404,"Синие мужские очки формы прямоугольные, ацетатная оправа, UV400.",4.01,18340
+Prada Square Sunglasses 667,Prada,sunglasses,female,square,plastic,blue,14184,"Синие женские очки формы квадратные, пластиковая оправа, UV400.",4.65,24130
+Polaroid Aviator Sunglasses 668,Polaroid,sunglasses,unisex,aviator,plastic,brown,14330,"Коричневые унисекс очки формы авиаторы, пластиковая оправа, UV400.",4.64,5321
+Oakley Cat-Eye Sunglasses 669,Oakley,sunglasses,male,cat-eye,plastic,silver,14621,"Серебристые мужские очки формы кошачий глаз, пластиковая оправа, UV400.",4.46,22861
+Ray-Ban Rectangular Sunglasses 670,Ray-Ban,sunglasses,male,rectangular,metal,black,14988,"Черные мужские очки формы прямоугольные, металлическая оправа, UV400.",3.97,19688
+Guess Aviator Sunglasses 671,Guess,sunglasses,male,aviator,metal,gold,7575,"Золотые мужские очки формы авиаторы, металлическая оправа, UV400.",3.9,1257
+Guess Cat-Eye Sunglasses 672,Guess,sunglasses,female,cat-eye,plastic,blue,13158,"Синие женские очки формы кошачий глаз, пластиковая оправа, UV400.",4.96,1902
+Polaroid Rectangular Sunglasses 673,Polaroid,sunglasses,unisex,rectangular,metal,silver,4804,"Серебристые унисекс очки формы прямоугольные, металлическая оправа, UV400.",4.82,26362
+Vogue Aviator Sunglasses 674,Vogue,sunglasses,male,aviator,acetate,blue,9951,"Синие мужские очки формы авиаторы, ацетатная оправа, UV400.",4.64,20178
+Polaroid Aviator Sunglasses 675,Polaroid,sunglasses,unisex,aviator,metal,gold,12231,"Золотые унисекс очки формы авиаторы, металлическая оправа, UV400.",3.8,5179
+Oakley Rectangular Sunglasses 676,Oakley,sunglasses,female,rectangular,acetate,gold,7974,"Золотые женские очки формы прямоугольные, ацетатная оправа, UV400.",4.29,6583
+Ray-Ban Aviator Sunglasses 677,Ray-Ban,sunglasses,unisex,aviator,acetate,black,6161,"Черные унисекс очки формы авиаторы, ацетатная оправа, UV400.",4.67,18341
+Carrera Square Sunglasses 678,Carrera,sunglasses,female,square,acetate,brown,4687,"Коричневые женские очки формы квадратные, ацетатная оправа, UV400.",4.35,13256
+Ray-Ban Round Sunglasses 679,Ray-Ban,sunglasses,female,round,acetate,silver,3244,"Серебристые женские очки формы круглые, ацетатная оправа, UV400.",4.47,16507
+Vogue Aviator Sunglasses 680,Vogue,sunglasses,female,aviator,plastic,blue,10313,"Синие женские очки формы авиаторы, пластиковая оправа, UV400.",4.78,18858
+Vogue Rectangular Sunglasses 681,Vogue,sunglasses,unisex,rectangular,acetate,silver,9423,"Серебристые унисекс очки формы прямоугольные, ацетатная оправа, UV400.",4.72,24840
+Carrera Rectangular Sunglasses 682,Carrera,sunglasses,female,rectangular,metal,blue,9396,"Синие женские очки формы прямоугольные, металлическая оправа, UV400.",3.94,2233
+Guess Round Sunglasses 683,Guess,sunglasses,unisex,round,plastic,brown,8257,"Коричневые унисекс очки формы круглые, пластиковая оправа, UV400.",4.95,16944
+Ray-Ban Square Sunglasses 684,Ray-Ban,sunglasses,unisex,square,plastic,brown,3023,"Коричневые унисекс очки формы квадратные, пластиковая оправа, UV400.",4.28,24556
+Carrera Cat-Eye Sunglasses 685,Carrera,sunglasses,male,cat-eye,plastic,brown,6642,"Коричневые мужские очки формы кошачий глаз, пластиковая оправа, UV400.",4.22,29324
+Vogue Round Sunglasses 686,Vogue,sunglasses,male,round,acetate,silver,4771,"Серебристые мужские очки формы круглые, ацетатная оправа, UV400.",4.08,7951
+Vogue Round Sunglasses 687,Vogue,sunglasses,male,round,metal,brown,11635,"Коричневые мужские очки формы круглые, металлическая оправа, UV400.",4.23,25544
+Oakley Aviator Sunglasses 688,Oakley,sunglasses,male,aviator,acetate,silver,1608,"Серебристые мужские очки формы авиаторы, ацетатная оправа, UV400.",4.72,17763
+Ray-Ban Square Sunglasses 689,Ray-Ban,sunglasses,female,square,plastic,blue,9566,"Синие женские очки формы квадратные, пластиковая оправа, UV400.",4.88,28888
+Vogue Round Sunglasses 690,Vogue,sunglasses,female,round,plastic,blue,8018,"Синие женские очки формы круглые, пластиковая оправа, UV400.",4.07,18916
+Polaroid Cat-Eye Sunglasses 691,Polaroid,sunglasses,male,cat-eye,plastic,silver,10359,"Серебристые мужские очки формы кошачий глаз, пластиковая оправа, UV400.",3.84,11399
+Guess Round Sunglasses 692,Guess,sunglasses,unisex,round,metal,silver,12940,"Серебристые унисекс очки формы круглые, металлическая оправа, UV400.",4.42,10363
+Ray-Ban Round Sunglasses 693,Ray-Ban,sunglasses,male,round,acetate,silver,3150,"Серебристые мужские очки формы круглые, ацетатная оправа, UV400.",4.19,20099
+Vogue Cat-Eye Sunglasses 694,Vogue,sunglasses,male,cat-eye,metal,gold,5913,"Золотые мужские очки формы кошачий глаз, металлическая оправа, UV400.",4.37,20109
+Carrera Round Sunglasses 695,Carrera,sunglasses,female,round,plastic,silver,4949,"Серебристые женские очки формы круглые, пластиковая оправа, UV400.",4.3,24667
+Carrera Rectangular Sunglasses 696,Carrera,sunglasses,female,rectangular,plastic,gold,4447,"Золотые женские очки формы прямоугольные, пластиковая оправа, UV400.",4.49,18890
+SOJOS Square Sunglasses 697,SOJOS,sunglasses,male,square,acetate,brown,8581,"Коричневые мужские очки формы квадратные, ацетатная оправа, UV400.",4.83,6444
+Polaroid Round Sunglasses 698,Polaroid,sunglasses,unisex,round,metal,silver,4393,"Серебристые унисекс очки формы круглые, металлическая оправа, UV400.",4.31,4426
+Carrera Square Sunglasses 699,Carrera,sunglasses,female,square,acetate,gold,10803,"Золотые женские очки формы квадратные, ацетатная оправа, UV400.",3.86,3263
+Polaroid Round Sunglasses 700,Polaroid,sunglasses,male,round,plastic,gold,11819,"Золотые мужские очки формы круглые, пластиковая оправа, UV400.",3.92,24418
+Carrera Square Sunglasses 701,Carrera,sunglasses,female,square,acetate,gold,10633,"Золотые женские очки формы квадратные, ацетатная оправа, UV400.",4.92,8464
+Carrera Rectangular Sunglasses 702,Carrera,sunglasses,male,rectangular,plastic,black,12634,"Черные мужские очки формы прямоугольные, пластиковая оправа, UV400.",4.96,6539
+Polaroid Square Sunglasses 703,Polaroid,sunglasses,female,square,acetate,gold,9863,"Золотые женские очки формы квадратные, ацетатная оправа, UV400.",4.38,24154
+Prada Rectangular Sunglasses 704,Prada,sunglasses,male,rectangular,plastic,blue,9098,"Синие мужские очки формы прямоугольные, пластиковая оправа, UV400.",4.56,4766
+Polaroid Square Sunglasses 705,Polaroid,sunglasses,unisex,square,acetate,silver,11532,"Серебристые унисекс очки формы квадратные, ацетатная оправа, UV400.",4.49,27836
+Oakley Round Sunglasses 706,Oakley,sunglasses,male,round,metal,gold,6636,"Золотые мужские очки формы круглые, металлическая оправа, UV400.",4.18,9567
+Vogue Rectangular Sunglasses 707,Vogue,sunglasses,unisex,rectangular,plastic,gold,14295,"Золотые унисекс очки формы прямоугольные, пластиковая оправа, UV400.",4.84,11920
+Prada Round Sunglasses 708,Prada,sunglasses,female,round,metal,brown,3548,"Коричневые женские очки формы круглые, металлическая оправа, UV400.",4.67,21713
+Vogue Aviator Sunglasses 709,Vogue,sunglasses,unisex,aviator,metal,brown,8005,"Коричневые унисекс очки формы авиаторы, металлическая оправа, UV400.",3.92,2110
+Prada Aviator Sunglasses 710,Prada,sunglasses,unisex,aviator,plastic,black,10084,"Черные унисекс очки формы авиаторы, пластиковая оправа, UV400.",4.72,2747
+Oakley Cat-Eye Sunglasses 711,Oakley,sunglasses,female,cat-eye,metal,brown,12228,"Коричневые женские очки формы кошачий глаз, металлическая оправа, UV400.",4.92,12794
+Vogue Round Sunglasses 712,Vogue,sunglasses,male,round,plastic,gold,11764,"Золотые мужские очки формы круглые, пластиковая оправа, UV400.",3.95,17280
+Polaroid Aviator Sunglasses 713,Polaroid,sunglasses,male,aviator,plastic,gold,9301,"Золотые мужские очки формы авиаторы, пластиковая оправа, UV400.",4.36,28557
+Vogue Rectangular Sunglasses 714,Vogue,sunglasses,unisex,rectangular,acetate,brown,10335,"Коричневые унисекс очки формы прямоугольные, ацетатная оправа, UV400.",4.01,19601
+Prada Cat-Eye Sunglasses 715,Prada,sunglasses,unisex,cat-eye,acetate,silver,11982,"Серебристые унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",4.57,10166
+Carrera Cat-Eye Sunglasses 716,Carrera,sunglasses,female,cat-eye,metal,brown,8739,"Коричневые женские очки формы кошачий глаз, металлическая оправа, UV400.",4.17,13527
+Vogue Square Sunglasses 717,Vogue,sunglasses,male,square,metal,black,10074,"Черные мужские очки формы квадратные, металлическая оправа, UV400.",4.78,27805
+Polaroid Square Sunglasses 718,Polaroid,sunglasses,female,square,acetate,silver,1636,"Серебристые женские очки формы квадратные, ацетатная оправа, UV400.",4.63,16139
+Prada Aviator Sunglasses 719,Prada,sunglasses,female,aviator,plastic,silver,11281,"Серебристые женские очки формы авиаторы, пластиковая оправа, UV400.",4.08,256
+Carrera Rectangular Sunglasses 720,Carrera,sunglasses,male,rectangular,plastic,blue,7967,"Синие мужские очки формы прямоугольные, пластиковая оправа, UV400.",4.1,23447
+Guess Round Sunglasses 721,Guess,sunglasses,female,round,metal,gold,8417,"Золотые женские очки формы круглые, металлическая оправа, UV400.",4.55,16948
+Vogue Cat-Eye Sunglasses 722,Vogue,sunglasses,female,cat-eye,plastic,gold,4580,"Золотые женские очки формы кошачий глаз, пластиковая оправа, UV400.",4.82,5997
+Polaroid Aviator Sunglasses 723,Polaroid,sunglasses,female,aviator,acetate,silver,8918,"Серебристые женские очки формы авиаторы, ацетатная оправа, UV400.",4.13,20426
+Prada Square Sunglasses 724,Prada,sunglasses,male,square,metal,black,2313,"Черные мужские очки формы квадратные, металлическая оправа, UV400.",4.96,745
+Polaroid Square Sunglasses 725,Polaroid,sunglasses,male,square,metal,gold,13217,"Золотые мужские очки формы квадратные, металлическая оправа, UV400.",4.33,288
+SOJOS Round Sunglasses 726,SOJOS,sunglasses,male,round,plastic,black,5058,"Черные мужские очки формы круглые, пластиковая оправа, UV400.",4.21,10229
+Prada Rectangular Sunglasses 727,Prada,sunglasses,female,rectangular,plastic,black,2814,"Черные женские очки формы прямоугольные, пластиковая оправа, UV400.",4.81,4807
+Ray-Ban Rectangular Sunglasses 728,Ray-Ban,sunglasses,female,rectangular,acetate,black,9202,"Черные женские очки формы прямоугольные, ацетатная оправа, UV400.",4.02,29370
+Vogue Aviator Sunglasses 729,Vogue,sunglasses,female,aviator,acetate,black,5578,"Черные женские очки формы авиаторы, ацетатная оправа, UV400.",4.26,14534
+SOJOS Aviator Sunglasses 730,SOJOS,sunglasses,unisex,aviator,plastic,brown,13547,"Коричневые унисекс очки формы авиаторы, пластиковая оправа, UV400.",4.73,17096
+SOJOS Rectangular Sunglasses 731,SOJOS,sunglasses,female,rectangular,plastic,gold,4098,"Золотые женские очки формы прямоугольные, пластиковая оправа, UV400.",4.55,1402
+Oakley Rectangular Sunglasses 732,Oakley,sunglasses,female,rectangular,metal,gold,7405,"Золотые женские очки формы прямоугольные, металлическая оправа, UV400.",4.87,28320
+SOJOS Round Sunglasses 733,SOJOS,sunglasses,male,round,plastic,silver,1746,"Серебристые мужские очки формы круглые, пластиковая оправа, UV400.",4.0,9067
+Oakley Round Sunglasses 734,Oakley,sunglasses,female,round,metal,black,11020,"Черные женские очки формы круглые, металлическая оправа, UV400.",4.74,15593
+Polaroid Aviator Sunglasses 735,Polaroid,sunglasses,female,aviator,metal,brown,9690,"Коричневые женские очки формы авиаторы, металлическая оправа, UV400.",3.91,20291
+Carrera Aviator Sunglasses 736,Carrera,sunglasses,unisex,aviator,plastic,black,12060,"Черные унисекс очки формы авиаторы, пластиковая оправа, UV400.",3.98,17595
+Oakley Rectangular Sunglasses 737,Oakley,sunglasses,male,rectangular,plastic,brown,10648,"Коричневые мужские очки формы прямоугольные, пластиковая оправа, UV400.",4.75,24815
+Carrera Round Sunglasses 738,Carrera,sunglasses,female,round,acetate,black,7689,"Черные женские очки формы круглые, ацетатная оправа, UV400.",4.23,4434
+Vogue Rectangular Sunglasses 739,Vogue,sunglasses,male,rectangular,acetate,silver,6328,"Серебристые мужские очки формы прямоугольные, ацетатная оправа, UV400.",4.45,16079
+SOJOS Round Sunglasses 740,SOJOS,sunglasses,unisex,round,plastic,blue,6803,"Синие унисекс очки формы круглые, пластиковая оправа, UV400.",4.68,9041
+Polaroid Cat-Eye Sunglasses 741,Polaroid,sunglasses,male,cat-eye,plastic,brown,6344,"Коричневые мужские очки формы кошачий глаз, пластиковая оправа, UV400.",4.78,17767
+Carrera Aviator Sunglasses 742,Carrera,sunglasses,female,aviator,plastic,blue,13520,"Синие женские очки формы авиаторы, пластиковая оправа, UV400.",4.02,633
+Carrera Round Sunglasses 743,Carrera,sunglasses,unisex,round,acetate,gold,2537,"Золотые унисекс очки формы круглые, ацетатная оправа, UV400.",4.59,17680
+Guess Cat-Eye Sunglasses 744,Guess,sunglasses,male,cat-eye,acetate,silver,4025,"Серебристые мужские очки формы кошачий глаз, ацетатная оправа, UV400.",4.54,10590
+Guess Square Sunglasses 745,Guess,sunglasses,unisex,square,metal,black,10072,"Черные унисекс очки формы квадратные, металлическая оправа, UV400.",4.59,1454
+Polaroid Aviator Sunglasses 746,Polaroid,sunglasses,male,aviator,metal,brown,9452,"Коричневые мужские очки формы авиаторы, металлическая оправа, UV400.",4.03,1062
+Guess Rectangular Sunglasses 747,Guess,sunglasses,unisex,rectangular,acetate,blue,12990,"Синие унисекс очки формы прямоугольные, ацетатная оправа, UV400.",4.51,1628
+Carrera Cat-Eye Sunglasses 748,Carrera,sunglasses,male,cat-eye,metal,black,4919,"Черные мужские очки формы кошачий глаз, металлическая оправа, UV400.",4.59,29175
+Oakley Aviator Sunglasses 749,Oakley,sunglasses,female,aviator,acetate,gold,13681,"Золотые женские очки формы авиаторы, ацетатная оправа, UV400.",4.93,13649
+Carrera Aviator Sunglasses 750,Carrera,sunglasses,unisex,aviator,plastic,blue,10167,"Синие унисекс очки формы авиаторы, пластиковая оправа, UV400.",3.85,2326
+Vogue Round Sunglasses 751,Vogue,sunglasses,male,round,metal,blue,3158,"Синие мужские очки формы круглые, металлическая оправа, UV400.",4.67,17441
+Guess Round Sunglasses 752,Guess,sunglasses,male,round,acetate,blue,5575,"Синие мужские очки формы круглые, ацетатная оправа, UV400.",4.48,5882
+Guess Aviator Sunglasses 753,Guess,sunglasses,unisex,aviator,plastic,blue,12550,"Синие унисекс очки формы авиаторы, пластиковая оправа, UV400.",4.35,21818
+Guess Round Sunglasses 754,Guess,sunglasses,male,round,acetate,brown,8079,"Коричневые мужские очки формы круглые, ацетатная оправа, UV400.",4.41,21566
+Polaroid Cat-Eye Sunglasses 755,Polaroid,sunglasses,unisex,cat-eye,plastic,silver,6663,"Серебристые унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.46,10658
+Carrera Rectangular Sunglasses 756,Carrera,sunglasses,female,rectangular,acetate,gold,5443,"Золотые женские очки формы прямоугольные, ацетатная оправа, UV400.",4.48,7029
+Guess Square Sunglasses 757,Guess,sunglasses,unisex,square,plastic,gold,8831,"Золотые унисекс очки формы квадратные, пластиковая оправа, UV400.",4.95,26
+Ray-Ban Cat-Eye Sunglasses 758,Ray-Ban,sunglasses,female,cat-eye,acetate,black,3713,"Черные женские очки формы кошачий глаз, ацетатная оправа, UV400.",4.99,9910
+Ray-Ban Round Sunglasses 759,Ray-Ban,sunglasses,female,round,plastic,brown,1855,"Коричневые женские очки формы круглые, пластиковая оправа, UV400.",4.73,22620
+Vogue Cat-Eye Sunglasses 760,Vogue,sunglasses,unisex,cat-eye,acetate,blue,10865,"Синие унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",3.99,1256
+Prada Round Sunglasses 761,Prada,sunglasses,female,round,plastic,brown,7514,"Коричневые женские очки формы круглые, пластиковая оправа, UV400.",4.87,8207
+SOJOS Square Sunglasses 762,SOJOS,sunglasses,female,square,acetate,black,8050,"Черные женские очки формы квадратные, ацетатная оправа, UV400.",4.48,7144
+Oakley Square Sunglasses 763,Oakley,sunglasses,unisex,square,metal,silver,9499,"Серебристые унисекс очки формы квадратные, металлическая оправа, UV400.",4.79,22616
+Oakley Square Sunglasses 764,Oakley,sunglasses,unisex,square,acetate,black,14743,"Черные унисекс очки формы квадратные, ацетатная оправа, UV400.",4.49,2591
+Ray-Ban Square Sunglasses 765,Ray-Ban,sunglasses,female,square,plastic,silver,3474,"Серебристые женские очки формы квадратные, пластиковая оправа, UV400.",4.84,7449
+Ray-Ban Rectangular Sunglasses 766,Ray-Ban,sunglasses,unisex,rectangular,plastic,black,10091,"Черные унисекс очки формы прямоугольные, пластиковая оправа, UV400.",3.85,17712
+Polaroid Cat-Eye Sunglasses 767,Polaroid,sunglasses,female,cat-eye,metal,brown,2327,"Коричневые женские очки формы кошачий глаз, металлическая оправа, UV400.",4.61,12893
+Prada Cat-Eye Sunglasses 768,Prada,sunglasses,unisex,cat-eye,metal,blue,5138,"Синие унисекс очки формы кошачий глаз, металлическая оправа, UV400.",4.32,25787
+Guess Round Sunglasses 769,Guess,sunglasses,male,round,metal,gold,9296,"Золотые мужские очки формы круглые, металлическая оправа, UV400.",4.49,1635
+Guess Aviator Sunglasses 770,Guess,sunglasses,female,aviator,acetate,silver,8618,"Серебристые женские очки формы авиаторы, ацетатная оправа, UV400.",4.73,4292
+Polaroid Cat-Eye Sunglasses 771,Polaroid,sunglasses,female,cat-eye,plastic,brown,7976,"Коричневые женские очки формы кошачий глаз, пластиковая оправа, UV400.",4.58,6445
+SOJOS Aviator Sunglasses 772,SOJOS,sunglasses,male,aviator,plastic,gold,6798,"Золотые мужские очки формы авиаторы, пластиковая оправа, UV400.",4.62,18894
+Oakley Rectangular Sunglasses 773,Oakley,sunglasses,male,rectangular,plastic,silver,7206,"Серебристые мужские очки формы прямоугольные, пластиковая оправа, UV400.",4.03,11309
+Ray-Ban Round Sunglasses 774,Ray-Ban,sunglasses,female,round,acetate,gold,14960,"Золотые женские очки формы круглые, ацетатная оправа, UV400.",4.99,14510
+Polaroid Aviator Sunglasses 775,Polaroid,sunglasses,female,aviator,metal,brown,12728,"Коричневые женские очки формы авиаторы, металлическая оправа, UV400.",4.25,24849
+Oakley Aviator Sunglasses 776,Oakley,sunglasses,male,aviator,acetate,brown,3919,"Коричневые мужские очки формы авиаторы, ацетатная оправа, UV400.",4.84,26894
+Vogue Square Sunglasses 777,Vogue,sunglasses,male,square,plastic,black,8873,"Черные мужские очки формы квадратные, пластиковая оправа, UV400.",4.37,10894
+SOJOS Cat-Eye Sunglasses 778,SOJOS,sunglasses,unisex,cat-eye,metal,brown,10452,"Коричневые унисекс очки формы кошачий глаз, металлическая оправа, UV400.",4.43,8495
+Prada Round Sunglasses 779,Prada,sunglasses,unisex,round,plastic,black,11051,"Черные унисекс очки формы круглые, пластиковая оправа, UV400.",4.89,17282
+Ray-Ban Round Sunglasses 780,Ray-Ban,sunglasses,female,round,plastic,black,4788,"Черные женские очки формы круглые, пластиковая оправа, UV400.",4.75,20269
+Vogue Rectangular Sunglasses 781,Vogue,sunglasses,male,rectangular,metal,black,7867,"Черные мужские очки формы прямоугольные, металлическая оправа, UV400.",4.59,21744
+Carrera Aviator Sunglasses 782,Carrera,sunglasses,male,aviator,acetate,gold,7832,"Золотые мужские очки формы авиаторы, ацетатная оправа, UV400.",4.08,12494
+Oakley Rectangular Sunglasses 783,Oakley,sunglasses,female,rectangular,acetate,blue,2942,"Синие женские очки формы прямоугольные, ацетатная оправа, UV400.",4.02,16425
+Prada Aviator Sunglasses 784,Prada,sunglasses,unisex,aviator,metal,black,10173,"Черные унисекс очки формы авиаторы, металлическая оправа, UV400.",4.17,16074
+Guess Round Sunglasses 785,Guess,sunglasses,unisex,round,plastic,black,12711,"Черные унисекс очки формы круглые, пластиковая оправа, UV400.",4.22,20507
+Vogue Cat-Eye Sunglasses 786,Vogue,sunglasses,male,cat-eye,metal,gold,11752,"Золотые мужские очки формы кошачий глаз, металлическая оправа, UV400.",4.11,12706
+Ray-Ban Square Sunglasses 787,Ray-Ban,sunglasses,unisex,square,metal,brown,7099,"Коричневые унисекс очки формы квадратные, металлическая оправа, UV400.",4.88,21546
+Polaroid Rectangular Sunglasses 788,Polaroid,sunglasses,male,rectangular,acetate,blue,11534,"Синие мужские очки формы прямоугольные, ацетатная оправа, UV400.",4.85,22515
+SOJOS Round Sunglasses 789,SOJOS,sunglasses,female,round,metal,blue,8487,"Синие женские очки формы круглые, металлическая оправа, UV400.",4.96,29830
+Carrera Cat-Eye Sunglasses 790,Carrera,sunglasses,female,cat-eye,metal,brown,12190,"Коричневые женские очки формы кошачий глаз, металлическая оправа, UV400.",3.97,17759
+SOJOS Square Sunglasses 791,SOJOS,sunglasses,male,square,metal,blue,8546,"Синие мужские очки формы квадратные, металлическая оправа, UV400.",4.99,25252
+Polaroid Cat-Eye Sunglasses 792,Polaroid,sunglasses,unisex,cat-eye,plastic,brown,2611,"Коричневые унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.47,23594
+Oakley Square Sunglasses 793,Oakley,sunglasses,male,square,acetate,brown,1983,"Коричневые мужские очки формы квадратные, ацетатная оправа, UV400.",4.72,28860
+Guess Square Sunglasses 794,Guess,sunglasses,female,square,acetate,silver,14962,"Серебристые женские очки формы квадратные, ацетатная оправа, UV400.",4.87,24213
+Vogue Round Sunglasses 795,Vogue,sunglasses,male,round,metal,black,4526,"Черные мужские очки формы круглые, металлическая оправа, UV400.",3.83,20073
+Vogue Cat-Eye Sunglasses 796,Vogue,sunglasses,unisex,cat-eye,metal,blue,11270,"Синие унисекс очки формы кошачий глаз, металлическая оправа, UV400.",4.08,22543
+Ray-Ban Aviator Sunglasses 797,Ray-Ban,sunglasses,female,aviator,metal,silver,9730,"Серебристые женские очки формы авиаторы, металлическая оправа, UV400.",4.82,15380
+Carrera Rectangular Sunglasses 798,Carrera,sunglasses,male,rectangular,plastic,silver,3753,"Серебристые мужские очки формы прямоугольные, пластиковая оправа, UV400.",4.0,7434
+Ray-Ban Aviator Sunglasses 799,Ray-Ban,sunglasses,female,aviator,plastic,gold,5146,"Золотые женские очки формы авиаторы, пластиковая оправа, UV400.",4.69,6666
+SOJOS Round Sunglasses 800,SOJOS,sunglasses,male,round,acetate,silver,9527,"Серебристые мужские очки формы круглые, ацетатная оправа, UV400.",4.63,28422
+Prada Rectangular Sunglasses 801,Prada,sunglasses,male,rectangular,metal,silver,11460,"Серебристые мужские очки формы прямоугольные, металлическая оправа, UV400.",4.68,12484
+Carrera Cat-Eye Sunglasses 802,Carrera,sunglasses,female,cat-eye,acetate,blue,10284,"Синие женские очки формы кошачий глаз, ацетатная оправа, UV400.",4.43,28717
+Ray-Ban Aviator Sunglasses 803,Ray-Ban,sunglasses,unisex,aviator,plastic,silver,2194,"Серебристые унисекс очки формы авиаторы, пластиковая оправа, UV400.",4.85,8071
+Guess Aviator Sunglasses 804,Guess,sunglasses,unisex,aviator,plastic,blue,9956,"Синие унисекс очки формы авиаторы, пластиковая оправа, UV400.",4.72,1635
+SOJOS Rectangular Sunglasses 805,SOJOS,sunglasses,female,rectangular,plastic,silver,14175,"Серебристые женские очки формы прямоугольные, пластиковая оправа, UV400.",4.79,15137
+Polaroid Square Sunglasses 806,Polaroid,sunglasses,female,square,metal,blue,12804,"Синие женские очки формы квадратные, металлическая оправа, UV400.",4.42,4680
+Prada Rectangular Sunglasses 807,Prada,sunglasses,unisex,rectangular,acetate,black,9702,"Черные унисекс очки формы прямоугольные, ацетатная оправа, UV400.",3.94,25537
+Polaroid Rectangular Sunglasses 808,Polaroid,sunglasses,female,rectangular,plastic,gold,1908,"Золотые женские очки формы прямоугольные, пластиковая оправа, UV400.",4.01,19363
+SOJOS Aviator Sunglasses 809,SOJOS,sunglasses,female,aviator,plastic,gold,12833,"Золотые женские очки формы авиаторы, пластиковая оправа, UV400.",4.58,23333
+Polaroid Aviator Sunglasses 810,Polaroid,sunglasses,unisex,aviator,metal,black,13070,"Черные унисекс очки формы авиаторы, металлическая оправа, UV400.",4.34,11912
+Oakley Rectangular Sunglasses 811,Oakley,sunglasses,unisex,rectangular,acetate,blue,4119,"Синие унисекс очки формы прямоугольные, ацетатная оправа, UV400.",4.25,12491
+Ray-Ban Square Sunglasses 812,Ray-Ban,sunglasses,male,square,acetate,blue,3959,"Синие мужские очки формы квадратные, ацетатная оправа, UV400.",3.99,4758
+Polaroid Aviator Sunglasses 813,Polaroid,sunglasses,unisex,aviator,plastic,silver,6571,"Серебристые унисекс очки формы авиаторы, пластиковая оправа, UV400.",4.68,14642
+Vogue Round Sunglasses 814,Vogue,sunglasses,unisex,round,metal,black,4823,"Черные унисекс очки формы круглые, металлическая оправа, UV400.",3.8,25100
+Vogue Rectangular Sunglasses 815,Vogue,sunglasses,male,rectangular,plastic,silver,10404,"Серебристые мужские очки формы прямоугольные, пластиковая оправа, UV400.",4.77,19942
+Prada Round Sunglasses 816,Prada,sunglasses,male,round,acetate,blue,9294,"Синие мужские очки формы круглые, ацетатная оправа, UV400.",4.34,14499
+Oakley Cat-Eye Sunglasses 817,Oakley,sunglasses,unisex,cat-eye,metal,black,10467,"Черные унисекс очки формы кошачий глаз, металлическая оправа, UV400.",4.13,20619
+SOJOS Round Sunglasses 818,SOJOS,sunglasses,male,round,metal,brown,12203,"Коричневые мужские очки формы круглые, металлическая оправа, UV400.",4.22,4783
+Ray-Ban Cat-Eye Sunglasses 819,Ray-Ban,sunglasses,unisex,cat-eye,plastic,blue,6924,"Синие унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.9,1626
+Oakley Round Sunglasses 820,Oakley,sunglasses,female,round,acetate,brown,6159,"Коричневые женские очки формы круглые, ацетатная оправа, UV400.",4.53,22679
+Polaroid Cat-Eye Sunglasses 821,Polaroid,sunglasses,female,cat-eye,metal,gold,3025,"Золотые женские очки формы кошачий глаз, металлическая оправа, UV400.",4.72,10598
+Carrera Aviator Sunglasses 822,Carrera,sunglasses,female,aviator,acetate,silver,2563,"Серебристые женские очки формы авиаторы, ацетатная оправа, UV400.",4.15,4428
+Oakley Square Sunglasses 823,Oakley,sunglasses,unisex,square,acetate,gold,8279,"Золотые унисекс очки формы квадратные, ацетатная оправа, UV400.",4.43,22820
+SOJOS Aviator Sunglasses 824,SOJOS,sunglasses,unisex,aviator,acetate,black,13455,"Черные унисекс очки формы авиаторы, ацетатная оправа, UV400.",4.98,17352
+Oakley Cat-Eye Sunglasses 825,Oakley,sunglasses,female,cat-eye,plastic,gold,11475,"Золотые женские очки формы кошачий глаз, пластиковая оправа, UV400.",4.82,8528
+Carrera Cat-Eye Sunglasses 826,Carrera,sunglasses,male,cat-eye,plastic,blue,10014,"Синие мужские очки формы кошачий глаз, пластиковая оправа, UV400.",4.68,16329
+Prada Cat-Eye Sunglasses 827,Prada,sunglasses,male,cat-eye,acetate,brown,6259,"Коричневые мужские очки формы кошачий глаз, ацетатная оправа, UV400.",4.98,71
+Oakley Rectangular Sunglasses 828,Oakley,sunglasses,male,rectangular,acetate,black,4896,"Черные мужские очки формы прямоугольные, ацетатная оправа, UV400.",4.76,13606
+Guess Square Sunglasses 829,Guess,sunglasses,male,square,acetate,gold,14706,"Золотые мужские очки формы квадратные, ацетатная оправа, UV400.",4.57,390
+SOJOS Square Sunglasses 830,SOJOS,sunglasses,unisex,square,metal,gold,6542,"Золотые унисекс очки формы квадратные, металлическая оправа, UV400.",4.16,18042
+Carrera Aviator Sunglasses 831,Carrera,sunglasses,male,aviator,plastic,gold,7988,"Золотые мужские очки формы авиаторы, пластиковая оправа, UV400.",4.67,20204
+Ray-Ban Round Sunglasses 832,Ray-Ban,sunglasses,male,round,plastic,gold,12517,"Золотые мужские очки формы круглые, пластиковая оправа, UV400.",4.37,15568
+Ray-Ban Round Sunglasses 833,Ray-Ban,sunglasses,unisex,round,metal,silver,11776,"Серебристые унисекс очки формы круглые, металлическая оправа, UV400.",4.35,28371
+Carrera Rectangular Sunglasses 834,Carrera,sunglasses,female,rectangular,acetate,black,6404,"Черные женские очки формы прямоугольные, ацетатная оправа, UV400.",4.48,22243
+Carrera Cat-Eye Sunglasses 835,Carrera,sunglasses,unisex,cat-eye,metal,black,10960,"Черные унисекс очки формы кошачий глаз, металлическая оправа, UV400.",4.62,26219
+Carrera Round Sunglasses 836,Carrera,sunglasses,male,round,metal,gold,7056,"Золотые мужские очки формы круглые, металлическая оправа, UV400.",4.98,20549
+Polaroid Cat-Eye Sunglasses 837,Polaroid,sunglasses,unisex,cat-eye,metal,silver,11251,"Серебристые унисекс очки формы кошачий глаз, металлическая оправа, UV400.",3.94,25655
+Vogue Square Sunglasses 838,Vogue,sunglasses,unisex,square,plastic,black,8280,"Черные унисекс очки формы квадратные, пластиковая оправа, UV400.",3.9,28759
+SOJOS Rectangular Sunglasses 839,SOJOS,sunglasses,female,rectangular,metal,gold,10103,"Золотые женские очки формы прямоугольные, металлическая оправа, UV400.",4.16,3697
+Carrera Round Sunglasses 840,Carrera,sunglasses,male,round,plastic,black,9790,"Черные мужские очки формы круглые, пластиковая оправа, UV400.",3.83,15835
+Polaroid Square Sunglasses 841,Polaroid,sunglasses,male,square,acetate,silver,10079,"Серебристые мужские очки формы квадратные, ацетатная оправа, UV400.",4.17,10746
+Polaroid Cat-Eye Sunglasses 842,Polaroid,sunglasses,male,cat-eye,metal,brown,13371,"Коричневые мужские очки формы кошачий глаз, металлическая оправа, UV400.",3.84,12720
+Oakley Square Sunglasses 843,Oakley,sunglasses,male,square,acetate,black,11236,"Черные мужские очки формы квадратные, ацетатная оправа, UV400.",4.85,10941
+Prada Aviator Sunglasses 844,Prada,sunglasses,male,aviator,acetate,blue,13715,"Синие мужские очки формы авиаторы, ацетатная оправа, UV400.",4.17,18945
+Vogue Round Sunglasses 845,Vogue,sunglasses,unisex,round,metal,gold,4654,"Золотые унисекс очки формы круглые, металлическая оправа, UV400.",4.14,17461
+Carrera Aviator Sunglasses 846,Carrera,sunglasses,female,aviator,metal,gold,4080,"Золотые женские очки формы авиаторы, металлическая оправа, UV400.",4.13,519
+Oakley Cat-Eye Sunglasses 847,Oakley,sunglasses,male,cat-eye,acetate,gold,6718,"Золотые мужские очки формы кошачий глаз, ацетатная оправа, UV400.",4.13,23100
+Vogue Round Sunglasses 848,Vogue,sunglasses,unisex,round,metal,brown,6601,"Коричневые унисекс очки формы круглые, металлическая оправа, UV400.",4.54,11119
+Prada Round Sunglasses 849,Prada,sunglasses,male,round,plastic,black,12567,"Черные мужские очки формы круглые, пластиковая оправа, UV400.",3.86,12589
+Ray-Ban Rectangular Sunglasses 850,Ray-Ban,sunglasses,male,rectangular,metal,silver,13045,"Серебристые мужские очки формы прямоугольные, металлическая оправа, UV400.",4.52,19443
+Prada Square Sunglasses 851,Prada,sunglasses,unisex,square,plastic,gold,14892,"Золотые унисекс очки формы квадратные, пластиковая оправа, UV400.",4.04,24871
+Oakley Cat-Eye Sunglasses 852,Oakley,sunglasses,female,cat-eye,metal,brown,14817,"Коричневые женские очки формы кошачий глаз, металлическая оправа, UV400.",4.76,22911
+Prada Rectangular Sunglasses 853,Prada,sunglasses,male,rectangular,acetate,gold,12058,"Золотые мужские очки формы прямоугольные, ацетатная оправа, UV400.",4.65,15270
+Prada Round Sunglasses 854,Prada,sunglasses,male,round,acetate,brown,5727,"Коричневые мужские очки формы круглые, ацетатная оправа, UV400.",4.9,12867
+Polaroid Square Sunglasses 855,Polaroid,sunglasses,unisex,square,plastic,gold,9487,"Золотые унисекс очки формы квадратные, пластиковая оправа, UV400.",3.84,15595
+Oakley Rectangular Sunglasses 856,Oakley,sunglasses,female,rectangular,metal,silver,6124,"Серебристые женские очки формы прямоугольные, металлическая оправа, UV400.",4.72,19826
+Polaroid Aviator Sunglasses 857,Polaroid,sunglasses,unisex,aviator,acetate,silver,14554,"Серебристые унисекс очки формы авиаторы, ацетатная оправа, UV400.",3.93,18243
+Oakley Cat-Eye Sunglasses 858,Oakley,sunglasses,female,cat-eye,plastic,silver,11175,"Серебристые женские очки формы кошачий глаз, пластиковая оправа, UV400.",4.3,20364
+SOJOS Round Sunglasses 859,SOJOS,sunglasses,unisex,round,plastic,silver,2582,"Серебристые унисекс очки формы круглые, пластиковая оправа, UV400.",4.21,26690
+Guess Cat-Eye Sunglasses 860,Guess,sunglasses,female,cat-eye,acetate,gold,12872,"Золотые женские очки формы кошачий глаз, ацетатная оправа, UV400.",4.08,21732
+Oakley Cat-Eye Sunglasses 861,Oakley,sunglasses,unisex,cat-eye,metal,silver,11202,"Серебристые унисекс очки формы кошачий глаз, металлическая оправа, UV400.",4.52,10681
+Oakley Round Sunglasses 862,Oakley,sunglasses,female,round,plastic,gold,2640,"Золотые женские очки формы круглые, пластиковая оправа, UV400.",4.52,22482
+Guess Rectangular Sunglasses 863,Guess,sunglasses,female,rectangular,metal,black,5065,"Черные женские очки формы прямоугольные, металлическая оправа, UV400.",4.78,29093
+Ray-Ban Round Sunglasses 864,Ray-Ban,sunglasses,male,round,acetate,silver,6275,"Серебристые мужские очки формы круглые, ацетатная оправа, UV400.",4.27,18957
+Prada Round Sunglasses 865,Prada,sunglasses,male,round,plastic,gold,10843,"Золотые мужские очки формы круглые, пластиковая оправа, UV400.",4.75,22287
+Vogue Square Sunglasses 866,Vogue,sunglasses,female,square,acetate,black,1633,"Черные женские очки формы квадратные, ацетатная оправа, UV400.",4.53,16745
+Guess Square Sunglasses 867,Guess,sunglasses,male,square,plastic,black,10492,"Черные мужские очки формы квадратные, пластиковая оправа, UV400.",4.96,47
+Carrera Square Sunglasses 868,Carrera,sunglasses,male,square,metal,black,8573,"Черные мужские очки формы квадратные, металлическая оправа, UV400.",4.64,12939
+Carrera Rectangular Sunglasses 869,Carrera,sunglasses,unisex,rectangular,plastic,silver,8630,"Серебристые унисекс очки формы прямоугольные, пластиковая оправа, UV400.",4.45,21728
+Polaroid Round Sunglasses 870,Polaroid,sunglasses,female,round,acetate,brown,7801,"Коричневые женские очки формы круглые, ацетатная оправа, UV400.",4.81,11825
+Guess Square Sunglasses 871,Guess,sunglasses,male,square,metal,brown,1690,"Коричневые мужские очки формы квадратные, металлическая оправа, UV400.",3.89,534
+Polaroid Rectangular Sunglasses 872,Polaroid,sunglasses,unisex,rectangular,metal,silver,2887,"Серебристые унисекс очки формы прямоугольные, металлическая оправа, UV400.",3.96,26429
+Guess Cat-Eye Sunglasses 873,Guess,sunglasses,female,cat-eye,acetate,silver,4445,"Серебристые женские очки формы кошачий глаз, ацетатная оправа, UV400.",4.35,13917
+Prada Square Sunglasses 874,Prada,sunglasses,female,square,metal,brown,8459,"Коричневые женские очки формы квадратные, металлическая оправа, UV400.",4.53,18957
+Prada Round Sunglasses 875,Prada,sunglasses,unisex,round,plastic,blue,8231,"Синие унисекс очки формы круглые, пластиковая оправа, UV400.",4.91,18905
+Carrera Aviator Sunglasses 876,Carrera,sunglasses,male,aviator,plastic,blue,13048,"Синие мужские очки формы авиаторы, пластиковая оправа, UV400.",4.24,19034
+Prada Aviator Sunglasses 877,Prada,sunglasses,unisex,aviator,acetate,brown,13481,"Коричневые унисекс очки формы авиаторы, ацетатная оправа, UV400.",4.43,28179
+Vogue Cat-Eye Sunglasses 878,Vogue,sunglasses,female,cat-eye,acetate,black,11495,"Черные женские очки формы кошачий глаз, ацетатная оправа, UV400.",3.91,15501
+Oakley Cat-Eye Sunglasses 879,Oakley,sunglasses,unisex,cat-eye,plastic,blue,11544,"Синие унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",3.86,11277
+Ray-Ban Rectangular Sunglasses 880,Ray-Ban,sunglasses,female,rectangular,plastic,blue,10903,"Синие женские очки формы прямоугольные, пластиковая оправа, UV400.",4.68,13815
+Carrera Square Sunglasses 881,Carrera,sunglasses,female,square,metal,brown,12887,"Коричневые женские очки формы квадратные, металлическая оправа, UV400.",4.91,24577
+Vogue Cat-Eye Sunglasses 882,Vogue,sunglasses,unisex,cat-eye,metal,gold,11810,"Золотые унисекс очки формы кошачий глаз, металлическая оправа, UV400.",4.37,5560
+Ray-Ban Square Sunglasses 883,Ray-Ban,sunglasses,unisex,square,metal,blue,6199,"Синие унисекс очки формы квадратные, металлическая оправа, UV400.",4.38,4175
+Oakley Square Sunglasses 884,Oakley,sunglasses,female,square,acetate,brown,6103,"Коричневые женские очки формы квадратные, ацетатная оправа, UV400.",4.13,8439
+Ray-Ban Aviator Sunglasses 885,Ray-Ban,sunglasses,unisex,aviator,metal,blue,11195,"Синие унисекс очки формы авиаторы, металлическая оправа, UV400.",4.69,21619
+Prada Round Sunglasses 886,Prada,sunglasses,female,round,acetate,gold,5369,"Золотые женские очки формы круглые, ацетатная оправа, UV400.",4.38,26213
+Ray-Ban Aviator Sunglasses 887,Ray-Ban,sunglasses,female,aviator,acetate,brown,14963,"Коричневые женские очки формы авиаторы, ацетатная оправа, UV400.",3.98,16271
+Guess Round Sunglasses 888,Guess,sunglasses,female,round,acetate,silver,11946,"Серебристые женские очки формы круглые, ацетатная оправа, UV400.",4.0,18951
+Carrera Square Sunglasses 889,Carrera,sunglasses,male,square,metal,black,4245,"Черные мужские очки формы квадратные, металлическая оправа, UV400.",4.36,15625
+Vogue Cat-Eye Sunglasses 890,Vogue,sunglasses,female,cat-eye,plastic,brown,12698,"Коричневые женские очки формы кошачий глаз, пластиковая оправа, UV400.",4.65,15571
+Vogue Cat-Eye Sunglasses 891,Vogue,sunglasses,male,cat-eye,metal,silver,6231,"Серебристые мужские очки формы кошачий глаз, металлическая оправа, UV400.",4.91,14726
+Guess Square Sunglasses 892,Guess,sunglasses,unisex,square,acetate,blue,2172,"Синие унисекс очки формы квадратные, ацетатная оправа, UV400.",3.92,17429
+Carrera Cat-Eye Sunglasses 893,Carrera,sunglasses,female,cat-eye,plastic,gold,5929,"Золотые женские очки формы кошачий глаз, пластиковая оправа, UV400.",4.12,3240
+Vogue Cat-Eye Sunglasses 894,Vogue,sunglasses,unisex,cat-eye,plastic,silver,14167,"Серебристые унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.61,7943
+SOJOS Square Sunglasses 895,SOJOS,sunglasses,unisex,square,plastic,brown,10472,"Коричневые унисекс очки формы квадратные, пластиковая оправа, UV400.",3.81,297
+Oakley Rectangular Sunglasses 896,Oakley,sunglasses,male,rectangular,acetate,black,3202,"Черные мужские очки формы прямоугольные, ацетатная оправа, UV400.",4.62,11538
+SOJOS Square Sunglasses 897,SOJOS,sunglasses,unisex,square,metal,gold,2057,"Золотые унисекс очки формы квадратные, металлическая оправа, UV400.",3.83,3032
+Ray-Ban Round Sunglasses 898,Ray-Ban,sunglasses,unisex,round,acetate,blue,3495,"Синие унисекс очки формы круглые, ацетатная оправа, UV400.",4.65,3951
+Oakley Round Sunglasses 899,Oakley,sunglasses,unisex,round,acetate,silver,14015,"Серебристые унисекс очки формы круглые, ацетатная оправа, UV400.",4.88,18568
+Polaroid Round Sunglasses 900,Polaroid,sunglasses,male,round,plastic,gold,9150,"Золотые мужские очки формы круглые, пластиковая оправа, UV400.",4.59,2501
+Prada Rectangular Sunglasses 901,Prada,sunglasses,female,rectangular,plastic,gold,4153,"Золотые женские очки формы прямоугольные, пластиковая оправа, UV400.",4.74,9106
+Ray-Ban Rectangular Sunglasses 902,Ray-Ban,sunglasses,female,rectangular,metal,gold,5730,"Золотые женские очки формы прямоугольные, металлическая оправа, UV400.",4.95,8692
+Polaroid Aviator Sunglasses 903,Polaroid,sunglasses,female,aviator,metal,silver,11499,"Серебристые женские очки формы авиаторы, металлическая оправа, UV400.",4.27,21171
+Prada Round Sunglasses 904,Prada,sunglasses,male,round,plastic,blue,5078,"Синие мужские очки формы круглые, пластиковая оправа, UV400.",4.54,3501
+Prada Square Sunglasses 905,Prada,sunglasses,unisex,square,metal,black,2694,"Черные унисекс очки формы квадратные, металлическая оправа, UV400.",3.88,23860
+Vogue Aviator Sunglasses 906,Vogue,sunglasses,female,aviator,metal,silver,12196,"Серебристые женские очки формы авиаторы, металлическая оправа, UV400.",4.57,1259
+Guess Round Sunglasses 907,Guess,sunglasses,female,round,plastic,gold,10914,"Золотые женские очки формы круглые, пластиковая оправа, UV400.",3.8,23206
+Prada Rectangular Sunglasses 908,Prada,sunglasses,female,rectangular,acetate,silver,14294,"Серебристые женские очки формы прямоугольные, ацетатная оправа, UV400.",4.77,2317
+SOJOS Rectangular Sunglasses 909,SOJOS,sunglasses,male,rectangular,metal,silver,10793,"Серебристые мужские очки формы прямоугольные, металлическая оправа, UV400.",4.44,11781
+Carrera Square Sunglasses 910,Carrera,sunglasses,unisex,square,metal,silver,11859,"Серебристые унисекс очки формы квадратные, металлическая оправа, UV400.",5.0,21223
+Oakley Cat-Eye Sunglasses 911,Oakley,sunglasses,female,cat-eye,metal,gold,9030,"Золотые женские очки формы кошачий глаз, металлическая оправа, UV400.",4.71,9521
+SOJOS Cat-Eye Sunglasses 912,SOJOS,sunglasses,male,cat-eye,plastic,black,12325,"Черные мужские очки формы кошачий глаз, пластиковая оправа, UV400.",4.03,22822
+Guess Square Sunglasses 913,Guess,sunglasses,male,square,metal,silver,11867,"Серебристые мужские очки формы квадратные, металлическая оправа, UV400.",4.33,6228
+Polaroid Round Sunglasses 914,Polaroid,sunglasses,male,round,acetate,black,11214,"Черные мужские очки формы круглые, ацетатная оправа, UV400.",4.09,12759
+Oakley Square Sunglasses 915,Oakley,sunglasses,unisex,square,acetate,silver,14800,"Серебристые унисекс очки формы квадратные, ацетатная оправа, UV400.",4.34,557
+Ray-Ban Aviator Sunglasses 916,Ray-Ban,sunglasses,female,aviator,acetate,gold,2201,"Золотые женские очки формы авиаторы, ацетатная оправа, UV400.",4.29,6956
+Prada Cat-Eye Sunglasses 917,Prada,sunglasses,unisex,cat-eye,acetate,brown,10992,"Коричневые унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",4.08,2380
+Ray-Ban Round Sunglasses 918,Ray-Ban,sunglasses,unisex,round,acetate,silver,1812,"Серебристые унисекс очки формы круглые, ацетатная оправа, UV400.",4.37,20282
+Ray-Ban Round Sunglasses 919,Ray-Ban,sunglasses,male,round,metal,black,11865,"Черные мужские очки формы круглые, металлическая оправа, UV400.",3.86,10090
+Oakley Cat-Eye Sunglasses 920,Oakley,sunglasses,female,cat-eye,acetate,brown,2547,"Коричневые женские очки формы кошачий глаз, ацетатная оправа, UV400.",4.78,3504
+Oakley Cat-Eye Sunglasses 921,Oakley,sunglasses,female,cat-eye,metal,blue,2533,"Синие женские очки формы кошачий глаз, металлическая оправа, UV400.",4.77,13986
+Carrera Rectangular Sunglasses 922,Carrera,sunglasses,unisex,rectangular,metal,gold,12708,"Золотые унисекс очки формы прямоугольные, металлическая оправа, UV400.",4.49,4520
+Carrera Aviator Sunglasses 923,Carrera,sunglasses,male,aviator,metal,blue,6996,"Синие мужские очки формы авиаторы, металлическая оправа, UV400.",3.88,8994
+Polaroid Round Sunglasses 924,Polaroid,sunglasses,female,round,acetate,gold,4203,"Золотые женские очки формы круглые, ацетатная оправа, UV400.",4.33,19090
+Ray-Ban Aviator Sunglasses 925,Ray-Ban,sunglasses,male,aviator,plastic,blue,14241,"Синие мужские очки формы авиаторы, пластиковая оправа, UV400.",3.99,28843
+Prada Aviator Sunglasses 926,Prada,sunglasses,male,aviator,metal,black,2960,"Черные мужские очки формы авиаторы, металлическая оправа, UV400.",4.65,19475
+Vogue Rectangular Sunglasses 927,Vogue,sunglasses,female,rectangular,metal,brown,3844,"Коричневые женские очки формы прямоугольные, металлическая оправа, UV400.",4.57,17160
+Prada Round Sunglasses 928,Prada,sunglasses,female,round,acetate,brown,12832,"Коричневые женские очки формы круглые, ацетатная оправа, UV400.",3.85,5918
+Prada Aviator Sunglasses 929,Prada,sunglasses,unisex,aviator,plastic,gold,8361,"Золотые унисекс очки формы авиаторы, пластиковая оправа, UV400.",3.81,7741
+SOJOS Cat-Eye Sunglasses 930,SOJOS,sunglasses,male,cat-eye,acetate,black,7429,"Черные мужские очки формы кошачий глаз, ацетатная оправа, UV400.",4.84,17705
+SOJOS Round Sunglasses 931,SOJOS,sunglasses,female,round,metal,gold,4673,"Золотые женские очки формы круглые, металлическая оправа, UV400.",3.94,4909
+Prada Round Sunglasses 932,Prada,sunglasses,female,round,acetate,brown,2206,"Коричневые женские очки формы круглые, ацетатная оправа, UV400.",3.86,11953
+Vogue Rectangular Sunglasses 933,Vogue,sunglasses,male,rectangular,plastic,gold,11605,"Золотые мужские очки формы прямоугольные, пластиковая оправа, UV400.",4.77,24871
+Prada Aviator Sunglasses 934,Prada,sunglasses,male,aviator,acetate,black,4381,"Черные мужские очки формы авиаторы, ацетатная оправа, UV400.",3.99,972
+Prada Aviator Sunglasses 935,Prada,sunglasses,unisex,aviator,metal,black,13319,"Черные унисекс очки формы авиаторы, металлическая оправа, UV400.",4.33,19017
+Carrera Round Sunglasses 936,Carrera,sunglasses,female,round,metal,gold,14262,"Золотые женские очки формы круглые, металлическая оправа, UV400.",3.93,7483
+Oakley Rectangular Sunglasses 937,Oakley,sunglasses,male,rectangular,plastic,brown,5115,"Коричневые мужские очки формы прямоугольные, пластиковая оправа, UV400.",3.89,19192
+Prada Rectangular Sunglasses 938,Prada,sunglasses,male,rectangular,metal,brown,11484,"Коричневые мужские очки формы прямоугольные, металлическая оправа, UV400.",4.35,12712
+Carrera Rectangular Sunglasses 939,Carrera,sunglasses,male,rectangular,acetate,brown,7375,"Коричневые мужские очки формы прямоугольные, ацетатная оправа, UV400.",4.97,6646
+Carrera Aviator Sunglasses 940,Carrera,sunglasses,male,aviator,metal,blue,6097,"Синие мужские очки формы авиаторы, металлическая оправа, UV400.",3.96,27926
+Prada Rectangular Sunglasses 941,Prada,sunglasses,female,rectangular,plastic,brown,5102,"Коричневые женские очки формы прямоугольные, пластиковая оправа, UV400.",4.86,19799
+Polaroid Cat-Eye Sunglasses 942,Polaroid,sunglasses,unisex,cat-eye,acetate,brown,10556,"Коричневые унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",4.83,2853
+Guess Rectangular Sunglasses 943,Guess,sunglasses,unisex,rectangular,acetate,brown,9257,"Коричневые унисекс очки формы прямоугольные, ацетатная оправа, UV400.",4.8,9167
+Ray-Ban Rectangular Sunglasses 944,Ray-Ban,sunglasses,unisex,rectangular,metal,brown,6862,"Коричневые унисекс очки формы прямоугольные, металлическая оправа, UV400.",4.32,7307
+Polaroid Aviator Sunglasses 945,Polaroid,sunglasses,unisex,aviator,metal,silver,2156,"Серебристые унисекс очки формы авиаторы, металлическая оправа, UV400.",4.99,24054
+Ray-Ban Cat-Eye Sunglasses 946,Ray-Ban,sunglasses,female,cat-eye,plastic,silver,14766,"Серебристые женские очки формы кошачий глаз, пластиковая оправа, UV400.",4.76,26932
+Oakley Rectangular Sunglasses 947,Oakley,sunglasses,female,rectangular,metal,brown,10650,"Коричневые женские очки формы прямоугольные, металлическая оправа, UV400.",4.7,22733
+Guess Round Sunglasses 948,Guess,sunglasses,male,round,plastic,gold,5416,"Золотые мужские очки формы круглые, пластиковая оправа, UV400.",4.58,2993
+Ray-Ban Square Sunglasses 949,Ray-Ban,sunglasses,female,square,acetate,brown,9024,"Коричневые женские очки формы квадратные, ацетатная оправа, UV400.",4.83,24507
+Ray-Ban Rectangular Sunglasses 950,Ray-Ban,sunglasses,female,rectangular,acetate,brown,8141,"Коричневые женские очки формы прямоугольные, ацетатная оправа, UV400.",4.02,28579
+Carrera Rectangular Sunglasses 951,Carrera,sunglasses,unisex,rectangular,acetate,black,2658,"Черные унисекс очки формы прямоугольные, ацетатная оправа, UV400.",4.26,22654
+Carrera Aviator Sunglasses 952,Carrera,sunglasses,unisex,aviator,plastic,gold,13835,"Золотые унисекс очки формы авиаторы, пластиковая оправа, UV400.",4.12,20090
+SOJOS Aviator Sunglasses 953,SOJOS,sunglasses,unisex,aviator,plastic,blue,13554,"Синие унисекс очки формы авиаторы, пластиковая оправа, UV400.",4.92,16886
+Carrera Aviator Sunglasses 954,Carrera,sunglasses,male,aviator,plastic,silver,9124,"Серебристые мужские очки формы авиаторы, пластиковая оправа, UV400.",4.54,11999
+Carrera Cat-Eye Sunglasses 955,Carrera,sunglasses,male,cat-eye,acetate,black,13121,"Черные мужские очки формы кошачий глаз, ацетатная оправа, UV400.",4.73,4555
+Carrera Cat-Eye Sunglasses 956,Carrera,sunglasses,male,cat-eye,acetate,black,9339,"Черные мужские очки формы кошачий глаз, ацетатная оправа, UV400.",4.68,24670
+SOJOS Round Sunglasses 957,SOJOS,sunglasses,unisex,round,plastic,gold,5880,"Золотые унисекс очки формы круглые, пластиковая оправа, UV400.",4.4,13878
+Vogue Aviator Sunglasses 958,Vogue,sunglasses,male,aviator,plastic,gold,8912,"Золотые мужские очки формы авиаторы, пластиковая оправа, UV400.",4.38,17278
+Oakley Cat-Eye Sunglasses 959,Oakley,sunglasses,female,cat-eye,plastic,blue,8905,"Синие женские очки формы кошачий глаз, пластиковая оправа, UV400.",4.55,26231
+Oakley Rectangular Sunglasses 960,Oakley,sunglasses,male,rectangular,metal,black,7900,"Черные мужские очки формы прямоугольные, металлическая оправа, UV400.",4.88,9469
+Oakley Round Sunglasses 961,Oakley,sunglasses,male,round,metal,gold,12920,"Золотые мужские очки формы круглые, металлическая оправа, UV400.",3.98,4951
+SOJOS Aviator Sunglasses 962,SOJOS,sunglasses,unisex,aviator,plastic,gold,12680,"Золотые унисекс очки формы авиаторы, пластиковая оправа, UV400.",4.45,4346
+Prada Rectangular Sunglasses 963,Prada,sunglasses,female,rectangular,acetate,silver,12062,"Серебристые женские очки формы прямоугольные, ацетатная оправа, UV400.",3.83,6215
+Oakley Round Sunglasses 964,Oakley,sunglasses,male,round,acetate,blue,7003,"Синие мужские очки формы круглые, ацетатная оправа, UV400.",4.29,11252
+Carrera Cat-Eye Sunglasses 965,Carrera,sunglasses,female,cat-eye,acetate,blue,8795,"Синие женские очки формы кошачий глаз, ацетатная оправа, UV400.",4.35,18607
+Polaroid Round Sunglasses 966,Polaroid,sunglasses,female,round,metal,gold,9433,"Золотые женские очки формы круглые, металлическая оправа, UV400.",4.25,9461
+Ray-Ban Square Sunglasses 967,Ray-Ban,sunglasses,male,square,plastic,gold,4225,"Золотые мужские очки формы квадратные, пластиковая оправа, UV400.",4.54,5288
+Vogue Round Sunglasses 968,Vogue,sunglasses,male,round,metal,brown,5397,"Коричневые мужские очки формы круглые, металлическая оправа, UV400.",3.94,10395
+Polaroid Square Sunglasses 969,Polaroid,sunglasses,female,square,metal,gold,4861,"Золотые женские очки формы квадратные, металлическая оправа, UV400.",4.47,1156
+Carrera Round Sunglasses 970,Carrera,sunglasses,female,round,plastic,gold,10345,"Золотые женские очки формы круглые, пластиковая оправа, UV400.",4.97,17506
+Vogue Aviator Sunglasses 971,Vogue,sunglasses,male,aviator,plastic,silver,14091,"Серебристые мужские очки формы авиаторы, пластиковая оправа, UV400.",3.97,15029
+Carrera Aviator Sunglasses 972,Carrera,sunglasses,male,aviator,acetate,blue,6927,"Синие мужские очки формы авиаторы, ацетатная оправа, UV400.",4.58,9704
+Prada Cat-Eye Sunglasses 973,Prada,sunglasses,female,cat-eye,acetate,brown,13436,"Коричневые женские очки формы кошачий глаз, ацетатная оправа, UV400.",4.89,14506
+Carrera Aviator Sunglasses 974,Carrera,sunglasses,unisex,aviator,metal,silver,3784,"Серебристые унисекс очки формы авиаторы, металлическая оправа, UV400.",4.61,3849
+Vogue Rectangular Sunglasses 975,Vogue,sunglasses,male,rectangular,metal,blue,8806,"Синие мужские очки формы прямоугольные, металлическая оправа, UV400.",4.23,10714
+Ray-Ban Round Sunglasses 976,Ray-Ban,sunglasses,unisex,round,acetate,blue,5139,"Синие унисекс очки формы круглые, ацетатная оправа, UV400.",4.74,25156
+Vogue Aviator Sunglasses 977,Vogue,sunglasses,male,aviator,acetate,black,8798,"Черные мужские очки формы авиаторы, ацетатная оправа, UV400.",4.61,2883
+Guess Rectangular Sunglasses 978,Guess,sunglasses,male,rectangular,acetate,gold,11413,"Золотые мужские очки формы прямоугольные, ацетатная оправа, UV400.",4.41,1856
+Carrera Round Sunglasses 979,Carrera,sunglasses,female,round,plastic,silver,7826,"Серебристые женские очки формы круглые, пластиковая оправа, UV400.",4.25,9347
+Carrera Square Sunglasses 980,Carrera,sunglasses,female,square,acetate,silver,2935,"Серебристые женские очки формы квадратные, ацетатная оправа, UV400.",4.06,29111
+Prada Rectangular Sunglasses 981,Prada,sunglasses,unisex,rectangular,plastic,silver,4183,"Серебристые унисекс очки формы прямоугольные, пластиковая оправа, UV400.",4.77,29436
+Guess Rectangular Sunglasses 982,Guess,sunglasses,unisex,rectangular,acetate,brown,11296,"Коричневые унисекс очки формы прямоугольные, ацетатная оправа, UV400.",3.9,6828
+Vogue Cat-Eye Sunglasses 983,Vogue,sunglasses,female,cat-eye,metal,gold,11177,"Золотые женские очки формы кошачий глаз, металлическая оправа, UV400.",4.71,2918
+Ray-Ban Square Sunglasses 984,Ray-Ban,sunglasses,female,square,metal,silver,10606,"Серебристые женские очки формы квадратные, металлическая оправа, UV400.",4.35,18629
+Polaroid Round Sunglasses 985,Polaroid,sunglasses,male,round,plastic,silver,10574,"Серебристые мужские очки формы круглые, пластиковая оправа, UV400.",4.39,26981
+Vogue Square Sunglasses 986,Vogue,sunglasses,unisex,square,acetate,silver,13621,"Серебристые унисекс очки формы квадратные, ацетатная оправа, UV400.",4.36,899
+Ray-Ban Square Sunglasses 987,Ray-Ban,sunglasses,male,square,acetate,gold,11929,"Золотые мужские очки формы квадратные, ацетатная оправа, UV400.",4.37,21444
+Vogue Round Sunglasses 988,Vogue,sunglasses,female,round,acetate,silver,12064,"Серебристые женские очки формы круглые, ацетатная оправа, UV400.",4.09,3931
+Vogue Aviator Sunglasses 989,Vogue,sunglasses,female,aviator,acetate,blue,7427,"Синие женские очки формы авиаторы, ацетатная оправа, UV400.",4.5,18552
+Guess Rectangular Sunglasses 990,Guess,sunglasses,female,rectangular,plastic,black,9897,"Черные женские очки формы прямоугольные, пластиковая оправа, UV400.",4.68,594
+Vogue Cat-Eye Sunglasses 991,Vogue,sunglasses,male,cat-eye,metal,black,6737,"Черные мужские очки формы кошачий глаз, металлическая оправа, UV400.",4.35,22737
+Polaroid Round Sunglasses 992,Polaroid,sunglasses,female,round,plastic,black,7417,"Черные женские очки формы круглые, пластиковая оправа, UV400.",4.3,29907
+Carrera Square Sunglasses 993,Carrera,sunglasses,male,square,acetate,gold,11968,"Золотые мужские очки формы квадратные, ацетатная оправа, UV400.",4.92,16858
+SOJOS Round Sunglasses 994,SOJOS,sunglasses,unisex,round,acetate,black,13831,"Черные унисекс очки формы круглые, ацетатная оправа, UV400.",4.0,10591
+Carrera Square Sunglasses 995,Carrera,sunglasses,unisex,square,acetate,gold,12935,"Золотые унисекс очки формы квадратные, ацетатная оправа, UV400.",4.63,3160
+Carrera Aviator Sunglasses 996,Carrera,sunglasses,male,aviator,acetate,brown,6110,"Коричневые мужские очки формы авиаторы, ацетатная оправа, UV400.",4.25,15909
+Guess Round Sunglasses 997,Guess,sunglasses,female,round,metal,black,4032,"Черные женские очки формы круглые, металлическая оправа, UV400.",4.4,27269
+SOJOS Cat-Eye Sunglasses 998,SOJOS,sunglasses,unisex,cat-eye,acetate,blue,13174,"Синие унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",4.46,24802
+Oakley Rectangular Sunglasses 999,Oakley,sunglasses,female,rectangular,metal,black,14915,"Черные женские очки формы прямоугольные, металлическая оправа, UV400.",3.96,589
+Prada Square Sunglasses 1000,Prada,sunglasses,female,square,metal,gold,14886,"Золотые женские очки формы квадратные, металлическая оправа, UV400.",4.33,19603
+Carrera Square Sunglasses 1001,Carrera,sunglasses,male,square,acetate,black,14845,"Черные мужские очки формы квадратные, ацетатная оправа, UV400.",3.94,4237
+Polaroid Round Sunglasses 1002,Polaroid,sunglasses,unisex,round,metal,gold,4938,"Золотые унисекс очки формы круглые, металлическая оправа, UV400.",3.96,2595
+Guess Aviator Sunglasses 1003,Guess,sunglasses,unisex,aviator,metal,black,14192,"Черные унисекс очки формы авиаторы, металлическая оправа, UV400.",4.38,14151
+Ray-Ban Aviator Sunglasses 1004,Ray-Ban,sunglasses,male,aviator,acetate,black,9912,"Черные мужские очки формы авиаторы, ацетатная оправа, UV400.",4.51,15390
+Oakley Aviator Sunglasses 1005,Oakley,sunglasses,female,aviator,plastic,black,12437,"Черные женские очки формы авиаторы, пластиковая оправа, UV400.",3.81,3182
+Oakley Round Sunglasses 1006,Oakley,sunglasses,unisex,round,metal,blue,4527,"Синие унисекс очки формы круглые, металлическая оправа, UV400.",4.6,978
+Oakley Square Sunglasses 1007,Oakley,sunglasses,male,square,plastic,blue,7270,"Синие мужские очки формы квадратные, пластиковая оправа, UV400.",3.99,16424
+SOJOS Cat-Eye Sunglasses 1008,SOJOS,sunglasses,unisex,cat-eye,metal,black,14928,"Черные унисекс очки формы кошачий глаз, металлическая оправа, UV400.",4.49,478
+SOJOS Round Sunglasses 1009,SOJOS,sunglasses,unisex,round,metal,gold,13853,"Золотые унисекс очки формы круглые, металлическая оправа, UV400.",4.44,23788
+Oakley Cat-Eye Sunglasses 1010,Oakley,sunglasses,male,cat-eye,plastic,silver,12938,"Серебристые мужские очки формы кошачий глаз, пластиковая оправа, UV400.",4.51,14426
+Oakley Square Sunglasses 1011,Oakley,sunglasses,male,square,plastic,silver,5010,"Серебристые мужские очки формы квадратные, пластиковая оправа, UV400.",4.42,13375
+Oakley Aviator Sunglasses 1012,Oakley,sunglasses,female,aviator,metal,silver,10015,"Серебристые женские очки формы авиаторы, металлическая оправа, UV400.",3.96,24998
+Carrera Square Sunglasses 1013,Carrera,sunglasses,unisex,square,acetate,blue,2165,"Синие унисекс очки формы квадратные, ацетатная оправа, UV400.",3.9,16197
+Oakley Square Sunglasses 1014,Oakley,sunglasses,female,square,acetate,silver,13561,"Серебристые женские очки формы квадратные, ацетатная оправа, UV400.",4.17,27580
+Prada Cat-Eye Sunglasses 1015,Prada,sunglasses,male,cat-eye,plastic,silver,8511,"Серебристые мужские очки формы кошачий глаз, пластиковая оправа, UV400.",4.03,2300
+Prada Square Sunglasses 1016,Prada,sunglasses,unisex,square,metal,brown,12545,"Коричневые унисекс очки формы квадратные, металлическая оправа, UV400.",4.39,3466
+Guess Cat-Eye Sunglasses 1017,Guess,sunglasses,female,cat-eye,metal,black,3848,"Черные женские очки формы кошачий глаз, металлическая оправа, UV400.",4.27,22794
+Oakley Round Sunglasses 1018,Oakley,sunglasses,unisex,round,plastic,black,4761,"Черные унисекс очки формы круглые, пластиковая оправа, UV400.",4.21,19515
+Guess Round Sunglasses 1019,Guess,sunglasses,male,round,acetate,silver,9677,"Серебристые мужские очки формы круглые, ацетатная оправа, UV400.",4.13,23399
+Vogue Rectangular Sunglasses 1020,Vogue,sunglasses,unisex,rectangular,plastic,gold,12422,"Золотые унисекс очки формы прямоугольные, пластиковая оправа, UV400.",4.52,13272
+Prada Square Sunglasses 1021,Prada,sunglasses,unisex,square,plastic,brown,3270,"Коричневые унисекс очки формы квадратные, пластиковая оправа, UV400.",3.95,16054
+Prada Round Sunglasses 1022,Prada,sunglasses,male,round,metal,black,13588,"Черные мужские очки формы круглые, металлическая оправа, UV400.",3.86,2255
+Prada Aviator Sunglasses 1023,Prada,sunglasses,unisex,aviator,plastic,brown,11405,"Коричневые унисекс очки формы авиаторы, пластиковая оправа, UV400.",4.62,5024
+Vogue Cat-Eye Sunglasses 1024,Vogue,sunglasses,unisex,cat-eye,metal,black,12331,"Черные унисекс очки формы кошачий глаз, металлическая оправа, UV400.",4.7,25171
+Prada Round Sunglasses 1025,Prada,sunglasses,female,round,acetate,gold,9657,"Золотые женские очки формы круглые, ацетатная оправа, UV400.",4.39,8594
+Carrera Cat-Eye Sunglasses 1026,Carrera,sunglasses,unisex,cat-eye,metal,black,8551,"Черные унисекс очки формы кошачий глаз, металлическая оправа, UV400.",4.86,3923
+Guess Square Sunglasses 1027,Guess,sunglasses,female,square,plastic,silver,9031,"Серебристые женские очки формы квадратные, пластиковая оправа, UV400.",3.84,5815
+Vogue Round Sunglasses 1028,Vogue,sunglasses,unisex,round,plastic,silver,3703,"Серебристые унисекс очки формы круглые, пластиковая оправа, UV400.",4.17,12769
+Prada Cat-Eye Sunglasses 1029,Prada,sunglasses,male,cat-eye,acetate,silver,10573,"Серебристые мужские очки формы кошачий глаз, ацетатная оправа, UV400.",4.62,18770
+Prada Cat-Eye Sunglasses 1030,Prada,sunglasses,female,cat-eye,acetate,brown,2413,"Коричневые женские очки формы кошачий глаз, ацетатная оправа, UV400.",4.27,16230
+Guess Square Sunglasses 1031,Guess,sunglasses,unisex,square,plastic,gold,2506,"Золотые унисекс очки формы квадратные, пластиковая оправа, UV400.",3.83,1498
+Polaroid Square Sunglasses 1032,Polaroid,sunglasses,female,square,metal,blue,14036,"Синие женские очки формы квадратные, металлическая оправа, UV400.",4.87,11202
+Guess Rectangular Sunglasses 1033,Guess,sunglasses,male,rectangular,plastic,gold,8249,"Золотые мужские очки формы прямоугольные, пластиковая оправа, UV400.",4.22,21687
+SOJOS Round Sunglasses 1034,SOJOS,sunglasses,male,round,acetate,gold,2891,"Золотые мужские очки формы круглые, ацетатная оправа, UV400.",4.89,2166
+Vogue Square Sunglasses 1035,Vogue,sunglasses,male,square,metal,brown,10321,"Коричневые мужские очки формы квадратные, металлическая оправа, UV400.",4.19,15123
+Guess Cat-Eye Sunglasses 1036,Guess,sunglasses,unisex,cat-eye,plastic,silver,1834,"Серебристые унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.64,19287
+Ray-Ban Rectangular Sunglasses 1037,Ray-Ban,sunglasses,female,rectangular,plastic,blue,6782,"Синие женские очки формы прямоугольные, пластиковая оправа, UV400.",4.49,26507
+Prada Round Sunglasses 1038,Prada,sunglasses,male,round,plastic,gold,9737,"Золотые мужские очки формы круглые, пластиковая оправа, UV400.",4.77,21888
+Carrera Cat-Eye Sunglasses 1039,Carrera,sunglasses,male,cat-eye,plastic,gold,8643,"Золотые мужские очки формы кошачий глаз, пластиковая оправа, UV400.",4.04,20842
+Oakley Round Sunglasses 1040,Oakley,sunglasses,unisex,round,plastic,gold,2278,"Золотые унисекс очки формы круглые, пластиковая оправа, UV400.",4.16,18813
+Guess Cat-Eye Sunglasses 1041,Guess,sunglasses,male,cat-eye,acetate,black,10973,"Черные мужские очки формы кошачий глаз, ацетатная оправа, UV400.",3.91,11057
+Vogue Cat-Eye Sunglasses 1042,Vogue,sunglasses,male,cat-eye,plastic,blue,8497,"Синие мужские очки формы кошачий глаз, пластиковая оправа, UV400.",4.05,26091
+Oakley Square Sunglasses 1043,Oakley,sunglasses,unisex,square,plastic,blue,8592,"Синие унисекс очки формы квадратные, пластиковая оправа, UV400.",4.6,10287
+SOJOS Rectangular Sunglasses 1044,SOJOS,sunglasses,female,rectangular,acetate,gold,9943,"Золотые женские очки формы прямоугольные, ацетатная оправа, UV400.",4.34,25036
+Polaroid Cat-Eye Sunglasses 1045,Polaroid,sunglasses,male,cat-eye,acetate,brown,9678,"Коричневые мужские очки формы кошачий глаз, ацетатная оправа, UV400.",4.06,27017
+Prada Cat-Eye Sunglasses 1046,Prada,sunglasses,female,cat-eye,plastic,blue,10775,"Синие женские очки формы кошачий глаз, пластиковая оправа, UV400.",4.67,1982
+SOJOS Rectangular Sunglasses 1047,SOJOS,sunglasses,female,rectangular,metal,brown,3965,"Коричневые женские очки формы прямоугольные, металлическая оправа, UV400.",4.7,25104
+Vogue Rectangular Sunglasses 1048,Vogue,sunglasses,female,rectangular,metal,gold,11886,"Золотые женские очки формы прямоугольные, металлическая оправа, UV400.",4.04,13534
+Vogue Round Sunglasses 1049,Vogue,sunglasses,female,round,acetate,gold,11350,"Золотые женские очки формы круглые, ацетатная оправа, UV400.",4.08,7834
+Oakley Round Sunglasses 1050,Oakley,sunglasses,male,round,metal,black,14558,"Черные мужские очки формы круглые, металлическая оправа, UV400.",4.79,15229
+Prada Rectangular Sunglasses 1051,Prada,sunglasses,unisex,rectangular,acetate,silver,2106,"Серебристые унисекс очки формы прямоугольные, ацетатная оправа, UV400.",4.04,8956
+Polaroid Square Sunglasses 1052,Polaroid,sunglasses,male,square,acetate,gold,10522,"Золотые мужские очки формы квадратные, ацетатная оправа, UV400.",4.01,27955
+Ray-Ban Rectangular Sunglasses 1053,Ray-Ban,sunglasses,unisex,rectangular,metal,black,2875,"Черные унисекс очки формы прямоугольные, металлическая оправа, UV400.",4.18,9784
+Oakley Square Sunglasses 1054,Oakley,sunglasses,female,square,plastic,black,13365,"Черные женские очки формы квадратные, пластиковая оправа, UV400.",4.81,7754
+Oakley Cat-Eye Sunglasses 1055,Oakley,sunglasses,unisex,cat-eye,acetate,black,12382,"Черные унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",4.79,25418
+Vogue Aviator Sunglasses 1056,Vogue,sunglasses,female,aviator,acetate,brown,3503,"Коричневые женские очки формы авиаторы, ацетатная оправа, UV400.",4.73,10289
+Carrera Rectangular Sunglasses 1057,Carrera,sunglasses,unisex,rectangular,plastic,brown,5071,"Коричневые унисекс очки формы прямоугольные, пластиковая оправа, UV400.",3.97,5759
+SOJOS Rectangular Sunglasses 1058,SOJOS,sunglasses,female,rectangular,plastic,silver,11158,"Серебристые женские очки формы прямоугольные, пластиковая оправа, UV400.",3.87,17500
+Carrera Aviator Sunglasses 1059,Carrera,sunglasses,unisex,aviator,acetate,gold,8443,"Золотые унисекс очки формы авиаторы, ацетатная оправа, UV400.",4.37,8092
+Vogue Square Sunglasses 1060,Vogue,sunglasses,male,square,acetate,silver,7525,"Серебристые мужские очки формы квадратные, ацетатная оправа, UV400.",4.79,710
+Ray-Ban Aviator Sunglasses 1061,Ray-Ban,sunglasses,unisex,aviator,plastic,brown,10555,"Коричневые унисекс очки формы авиаторы, пластиковая оправа, UV400.",4.26,20957
+Carrera Aviator Sunglasses 1062,Carrera,sunglasses,unisex,aviator,metal,blue,8748,"Синие унисекс очки формы авиаторы, металлическая оправа, UV400.",4.27,29831
+Guess Square Sunglasses 1063,Guess,sunglasses,female,square,metal,black,6372,"Черные женские очки формы квадратные, металлическая оправа, UV400.",4.05,29191
+Polaroid Square Sunglasses 1064,Polaroid,sunglasses,female,square,metal,silver,5989,"Серебристые женские очки формы квадратные, металлическая оправа, UV400.",4.84,26994
+Prada Rectangular Sunglasses 1065,Prada,sunglasses,female,rectangular,acetate,gold,8420,"Золотые женские очки формы прямоугольные, ацетатная оправа, UV400.",4.85,26897
+Oakley Square Sunglasses 1066,Oakley,sunglasses,male,square,metal,blue,7264,"Синие мужские очки формы квадратные, металлическая оправа, UV400.",4.31,23915
+Carrera Aviator Sunglasses 1067,Carrera,sunglasses,female,aviator,acetate,black,12011,"Черные женские очки формы авиаторы, ацетатная оправа, UV400.",4.02,14549
+Polaroid Rectangular Sunglasses 1068,Polaroid,sunglasses,male,rectangular,acetate,brown,6506,"Коричневые мужские очки формы прямоугольные, ацетатная оправа, UV400.",4.18,2714
+Oakley Round Sunglasses 1069,Oakley,sunglasses,male,round,acetate,blue,14076,"Синие мужские очки формы круглые, ацетатная оправа, UV400.",4.8,25027
+Polaroid Rectangular Sunglasses 1070,Polaroid,sunglasses,unisex,rectangular,plastic,gold,9337,"Золотые унисекс очки формы прямоугольные, пластиковая оправа, UV400.",4.85,4394
+Vogue Cat-Eye Sunglasses 1071,Vogue,sunglasses,male,cat-eye,plastic,gold,4754,"Золотые мужские очки формы кошачий глаз, пластиковая оправа, UV400.",3.9,12065
+Polaroid Rectangular Sunglasses 1072,Polaroid,sunglasses,female,rectangular,metal,blue,1839,"Синие женские очки формы прямоугольные, металлическая оправа, UV400.",4.94,18321
+SOJOS Rectangular Sunglasses 1073,SOJOS,sunglasses,male,rectangular,plastic,brown,12989,"Коричневые мужские очки формы прямоугольные, пластиковая оправа, UV400.",4.82,1651
+Guess Rectangular Sunglasses 1074,Guess,sunglasses,unisex,rectangular,plastic,blue,3945,"Синие унисекс очки формы прямоугольные, пластиковая оправа, UV400.",3.91,12076
+Polaroid Aviator Sunglasses 1075,Polaroid,sunglasses,unisex,aviator,acetate,black,10115,"Черные унисекс очки формы авиаторы, ацетатная оправа, UV400.",4.32,14887
+Prada Round Sunglasses 1076,Prada,sunglasses,male,round,metal,brown,14826,"Коричневые мужские очки формы круглые, металлическая оправа, UV400.",4.74,9455
+Prada Round Sunglasses 1077,Prada,sunglasses,female,round,metal,silver,11331,"Серебристые женские очки формы круглые, металлическая оправа, UV400.",4.06,27023
+Vogue Round Sunglasses 1078,Vogue,sunglasses,unisex,round,metal,silver,8193,"Серебристые унисекс очки формы круглые, металлическая оправа, UV400.",4.75,962
+Vogue Round Sunglasses 1079,Vogue,sunglasses,female,round,plastic,blue,5568,"Синие женские очки формы круглые, пластиковая оправа, UV400.",4.24,22442
+Prada Aviator Sunglasses 1080,Prada,sunglasses,male,aviator,metal,silver,6796,"Серебристые мужские очки формы авиаторы, металлическая оправа, UV400.",4.97,13047
+SOJOS Rectangular Sunglasses 1081,SOJOS,sunglasses,unisex,rectangular,acetate,silver,11284,"Серебристые унисекс очки формы прямоугольные, ацетатная оправа, UV400.",4.11,3142
+Ray-Ban Square Sunglasses 1082,Ray-Ban,sunglasses,male,square,plastic,brown,7304,"Коричневые мужские очки формы квадратные, пластиковая оправа, UV400.",5.0,22000
+Ray-Ban Square Sunglasses 1083,Ray-Ban,sunglasses,male,square,acetate,blue,7741,"Синие мужские очки формы квадратные, ацетатная оправа, UV400.",4.16,12953
+Carrera Cat-Eye Sunglasses 1084,Carrera,sunglasses,male,cat-eye,acetate,black,4438,"Черные мужские очки формы кошачий глаз, ацетатная оправа, UV400.",4.11,16526
+Prada Rectangular Sunglasses 1085,Prada,sunglasses,female,rectangular,metal,brown,6698,"Коричневые женские очки формы прямоугольные, металлическая оправа, UV400.",4.65,14206
+Polaroid Aviator Sunglasses 1086,Polaroid,sunglasses,female,aviator,metal,gold,3595,"Золотые женские очки формы авиаторы, металлическая оправа, UV400.",4.4,27374
+Vogue Square Sunglasses 1087,Vogue,sunglasses,unisex,square,plastic,silver,5812,"Серебристые унисекс очки формы квадратные, пластиковая оправа, UV400.",4.54,24974
+Vogue Square Sunglasses 1088,Vogue,sunglasses,unisex,square,metal,silver,6669,"Серебристые унисекс очки формы квадратные, металлическая оправа, UV400.",4.68,16118
+Polaroid Rectangular Sunglasses 1089,Polaroid,sunglasses,unisex,rectangular,metal,black,3935,"Черные унисекс очки формы прямоугольные, металлическая оправа, UV400.",3.87,6021
+Ray-Ban Square Sunglasses 1090,Ray-Ban,sunglasses,female,square,acetate,brown,9153,"Коричневые женские очки формы квадратные, ацетатная оправа, UV400.",4.32,29353
+Prada Rectangular Sunglasses 1091,Prada,sunglasses,male,rectangular,acetate,gold,10689,"Золотые мужские очки формы прямоугольные, ацетатная оправа, UV400.",4.38,16174
+Oakley Round Sunglasses 1092,Oakley,sunglasses,unisex,round,plastic,black,3033,"Черные унисекс очки формы круглые, пластиковая оправа, UV400.",4.04,9329
+Polaroid Cat-Eye Sunglasses 1093,Polaroid,sunglasses,male,cat-eye,acetate,gold,12364,"Золотые мужские очки формы кошачий глаз, ацетатная оправа, UV400.",4.5,19141
+Ray-Ban Cat-Eye Sunglasses 1094,Ray-Ban,sunglasses,unisex,cat-eye,plastic,brown,2758,"Коричневые унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.1,16342
+Oakley Aviator Sunglasses 1095,Oakley,sunglasses,female,aviator,acetate,gold,12651,"Золотые женские очки формы авиаторы, ацетатная оправа, UV400.",3.95,12260
+Oakley Round Sunglasses 1096,Oakley,sunglasses,female,round,metal,black,9040,"Черные женские очки формы круглые, металлическая оправа, UV400.",4.8,21631
+Prada Square Sunglasses 1097,Prada,sunglasses,female,square,acetate,blue,1595,"Синие женские очки формы квадратные, ацетатная оправа, UV400.",4.2,1456
+Prada Cat-Eye Sunglasses 1098,Prada,sunglasses,female,cat-eye,metal,brown,2297,"Коричневые женские очки формы кошачий глаз, металлическая оправа, UV400.",4.76,9291
+Carrera Aviator Sunglasses 1099,Carrera,sunglasses,male,aviator,acetate,blue,7748,"Синие мужские очки формы авиаторы, ацетатная оправа, UV400.",3.91,8381
+Polaroid Rectangular Sunglasses 1100,Polaroid,sunglasses,male,rectangular,metal,black,4911,"Черные мужские очки формы прямоугольные, металлическая оправа, UV400.",4.0,25562
+Guess Round Sunglasses 1101,Guess,sunglasses,female,round,plastic,black,9542,"Черные женские очки формы круглые, пластиковая оправа, UV400.",4.76,24133
+Vogue Cat-Eye Sunglasses 1102,Vogue,sunglasses,unisex,cat-eye,plastic,brown,12403,"Коричневые унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",3.92,12060
+SOJOS Rectangular Sunglasses 1103,SOJOS,sunglasses,female,rectangular,plastic,silver,5898,"Серебристые женские очки формы прямоугольные, пластиковая оправа, UV400.",4.48,13883
+Oakley Square Sunglasses 1104,Oakley,sunglasses,female,square,metal,blue,8612,"Синие женские очки формы квадратные, металлическая оправа, UV400.",4.56,3065
+Ray-Ban Square Sunglasses 1105,Ray-Ban,sunglasses,unisex,square,acetate,silver,5173,"Серебристые унисекс очки формы квадратные, ацетатная оправа, UV400.",4.58,23404
+Polaroid Cat-Eye Sunglasses 1106,Polaroid,sunglasses,female,cat-eye,metal,blue,6262,"Синие женские очки формы кошачий глаз, металлическая оправа, UV400.",4.36,2614
+Prada Round Sunglasses 1107,Prada,sunglasses,female,round,acetate,brown,6421,"Коричневые женские очки формы круглые, ацетатная оправа, UV400.",4.81,17160
+Guess Cat-Eye Sunglasses 1108,Guess,sunglasses,female,cat-eye,acetate,black,2753,"Черные женские очки формы кошачий глаз, ацетатная оправа, UV400.",4.9,16843
+Oakley Rectangular Sunglasses 1109,Oakley,sunglasses,unisex,rectangular,metal,silver,9112,"Серебристые унисекс очки формы прямоугольные, металлическая оправа, UV400.",4.59,18647
+Vogue Square Sunglasses 1110,Vogue,sunglasses,female,square,metal,blue,14093,"Синие женские очки формы квадратные, металлическая оправа, UV400.",4.4,3753
+Prada Round Sunglasses 1111,Prada,sunglasses,male,round,metal,silver,2864,"Серебристые мужские очки формы круглые, металлическая оправа, UV400.",4.3,23101
+Vogue Cat-Eye Sunglasses 1112,Vogue,sunglasses,female,cat-eye,acetate,silver,8871,"Серебристые женские очки формы кошачий глаз, ацетатная оправа, UV400.",4.55,8705
+Carrera Round Sunglasses 1113,Carrera,sunglasses,male,round,metal,brown,13739,"Коричневые мужские очки формы круглые, металлическая оправа, UV400.",4.98,8517
+Oakley Cat-Eye Sunglasses 1114,Oakley,sunglasses,female,cat-eye,metal,black,7970,"Черные женские очки формы кошачий глаз, металлическая оправа, UV400.",3.94,5647
+Prada Rectangular Sunglasses 1115,Prada,sunglasses,female,rectangular,acetate,blue,9474,"Синие женские очки формы прямоугольные, ацетатная оправа, UV400.",4.16,26664
+Carrera Rectangular Sunglasses 1116,Carrera,sunglasses,unisex,rectangular,metal,gold,3549,"Золотые унисекс очки формы прямоугольные, металлическая оправа, UV400.",3.96,6272
+Oakley Round Sunglasses 1117,Oakley,sunglasses,male,round,metal,black,9382,"Черные мужские очки формы круглые, металлическая оправа, UV400.",4.58,21310
+SOJOS Cat-Eye Sunglasses 1118,SOJOS,sunglasses,female,cat-eye,metal,brown,6430,"Коричневые женские очки формы кошачий глаз, металлическая оправа, UV400.",4.72,4875
+Prada Aviator Sunglasses 1119,Prada,sunglasses,female,aviator,metal,black,3997,"Черные женские очки формы авиаторы, металлическая оправа, UV400.",4.69,14610
+Prada Aviator Sunglasses 1120,Prada,sunglasses,female,aviator,acetate,silver,5475,"Серебристые женские очки формы авиаторы, ацетатная оправа, UV400.",4.04,18679
+Guess Square Sunglasses 1121,Guess,sunglasses,male,square,metal,black,11828,"Черные мужские очки формы квадратные, металлическая оправа, UV400.",4.82,14168
+Guess Cat-Eye Sunglasses 1122,Guess,sunglasses,female,cat-eye,acetate,blue,10581,"Синие женские очки формы кошачий глаз, ацетатная оправа, UV400.",5.0,1232
+Prada Rectangular Sunglasses 1123,Prada,sunglasses,female,rectangular,acetate,blue,13372,"Синие женские очки формы прямоугольные, ацетатная оправа, UV400.",4.53,22258
+Prada Aviator Sunglasses 1124,Prada,sunglasses,male,aviator,metal,blue,8414,"Синие мужские очки формы авиаторы, металлическая оправа, UV400.",4.49,18149
+Oakley Rectangular Sunglasses 1125,Oakley,sunglasses,female,rectangular,metal,silver,9606,"Серебристые женские очки формы прямоугольные, металлическая оправа, UV400.",4.55,21194
+Carrera Rectangular Sunglasses 1126,Carrera,sunglasses,female,rectangular,metal,black,6218,"Черные женские очки формы прямоугольные, металлическая оправа, UV400.",4.67,15396
+Carrera Round Sunglasses 1127,Carrera,sunglasses,female,round,metal,blue,11128,"Синие женские очки формы круглые, металлическая оправа, UV400.",4.89,11133
+Prada Square Sunglasses 1128,Prada,sunglasses,male,square,plastic,silver,12528,"Серебристые мужские очки формы квадратные, пластиковая оправа, UV400.",4.58,11824
+Prada Cat-Eye Sunglasses 1129,Prada,sunglasses,male,cat-eye,plastic,brown,12816,"Коричневые мужские очки формы кошачий глаз, пластиковая оправа, UV400.",4.7,21878
+Prada Round Sunglasses 1130,Prada,sunglasses,male,round,metal,brown,11424,"Коричневые мужские очки формы круглые, металлическая оправа, UV400.",4.39,26020
+Guess Square Sunglasses 1131,Guess,sunglasses,female,square,metal,brown,10623,"Коричневые женские очки формы квадратные, металлическая оправа, UV400.",3.86,614
+Carrera Square Sunglasses 1132,Carrera,sunglasses,female,square,metal,brown,9748,"Коричневые женские очки формы квадратные, металлическая оправа, UV400.",3.84,2106
+Carrera Aviator Sunglasses 1133,Carrera,sunglasses,female,aviator,metal,blue,3477,"Синие женские очки формы авиаторы, металлическая оправа, UV400.",4.47,15957
+Vogue Square Sunglasses 1134,Vogue,sunglasses,female,square,acetate,black,5882,"Черные женские очки формы квадратные, ацетатная оправа, UV400.",4.88,27984
+Oakley Aviator Sunglasses 1135,Oakley,sunglasses,unisex,aviator,plastic,silver,13882,"Серебристые унисекс очки формы авиаторы, пластиковая оправа, UV400.",3.93,3489
+Oakley Aviator Sunglasses 1136,Oakley,sunglasses,unisex,aviator,metal,blue,4236,"Синие унисекс очки формы авиаторы, металлическая оправа, UV400.",4.56,28556
+SOJOS Round Sunglasses 1137,SOJOS,sunglasses,female,round,acetate,gold,8733,"Золотые женские очки формы круглые, ацетатная оправа, UV400.",4.71,16351
+Oakley Square Sunglasses 1138,Oakley,sunglasses,male,square,metal,gold,3514,"Золотые мужские очки формы квадратные, металлическая оправа, UV400.",4.82,14408
+Guess Round Sunglasses 1139,Guess,sunglasses,male,round,plastic,silver,6198,"Серебристые мужские очки формы круглые, пластиковая оправа, UV400.",4.41,2812
+Vogue Rectangular Sunglasses 1140,Vogue,sunglasses,female,rectangular,acetate,gold,12395,"Золотые женские очки формы прямоугольные, ацетатная оправа, UV400.",4.09,24701
+Guess Round Sunglasses 1141,Guess,sunglasses,male,round,plastic,silver,8206,"Серебристые мужские очки формы круглые, пластиковая оправа, UV400.",4.88,27951
+Carrera Rectangular Sunglasses 1142,Carrera,sunglasses,male,rectangular,metal,brown,13257,"Коричневые мужские очки формы прямоугольные, металлическая оправа, UV400.",4.77,2300
+Oakley Square Sunglasses 1143,Oakley,sunglasses,female,square,metal,silver,8611,"Серебристые женские очки формы квадратные, металлическая оправа, UV400.",3.87,24897
+Ray-Ban Round Sunglasses 1144,Ray-Ban,sunglasses,unisex,round,metal,blue,11848,"Синие унисекс очки формы круглые, металлическая оправа, UV400.",4.98,26203
+Vogue Rectangular Sunglasses 1145,Vogue,sunglasses,female,rectangular,plastic,blue,13321,"Синие женские очки формы прямоугольные, пластиковая оправа, UV400.",4.69,29813
+Carrera Square Sunglasses 1146,Carrera,sunglasses,male,square,acetate,blue,3906,"Синие мужские очки формы квадратные, ацетатная оправа, UV400.",4.64,14640
+SOJOS Cat-Eye Sunglasses 1147,SOJOS,sunglasses,unisex,cat-eye,acetate,blue,8744,"Синие унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",4.64,29107
+Guess Square Sunglasses 1148,Guess,sunglasses,male,square,metal,black,10305,"Черные мужские очки формы квадратные, металлическая оправа, UV400.",4.2,23780
+Polaroid Cat-Eye Sunglasses 1149,Polaroid,sunglasses,unisex,cat-eye,metal,gold,3020,"Золотые унисекс очки формы кошачий глаз, металлическая оправа, UV400.",4.41,10251
+Carrera Round Sunglasses 1150,Carrera,sunglasses,unisex,round,metal,black,14551,"Черные унисекс очки формы круглые, металлическая оправа, UV400.",4.45,8496
+SOJOS Rectangular Sunglasses 1151,SOJOS,sunglasses,female,rectangular,metal,blue,13492,"Синие женские очки формы прямоугольные, металлическая оправа, UV400.",3.87,12241
+Vogue Cat-Eye Sunglasses 1152,Vogue,sunglasses,unisex,cat-eye,metal,gold,2282,"Золотые унисекс очки формы кошачий глаз, металлическая оправа, UV400.",4.71,4107
+Prada Cat-Eye Sunglasses 1153,Prada,sunglasses,female,cat-eye,plastic,black,7053,"Черные женские очки формы кошачий глаз, пластиковая оправа, UV400.",4.98,26410
+SOJOS Square Sunglasses 1154,SOJOS,sunglasses,female,square,acetate,gold,14357,"Золотые женские очки формы квадратные, ацетатная оправа, UV400.",4.78,18788
+Polaroid Rectangular Sunglasses 1155,Polaroid,sunglasses,unisex,rectangular,acetate,blue,5557,"Синие унисекс очки формы прямоугольные, ацетатная оправа, UV400.",3.93,16943
+SOJOS Rectangular Sunglasses 1156,SOJOS,sunglasses,female,rectangular,metal,black,13159,"Черные женские очки формы прямоугольные, металлическая оправа, UV400.",4.31,13522
+Oakley Aviator Sunglasses 1157,Oakley,sunglasses,male,aviator,metal,silver,9302,"Серебристые мужские очки формы авиаторы, металлическая оправа, UV400.",4.06,2578
+Carrera Cat-Eye Sunglasses 1158,Carrera,sunglasses,unisex,cat-eye,acetate,silver,10658,"Серебристые унисекс очки формы кошачий глаз, ацетатная оправа, UV400.",4.42,12956
+Vogue Rectangular Sunglasses 1159,Vogue,sunglasses,unisex,rectangular,plastic,silver,12788,"Серебристые унисекс очки формы прямоугольные, пластиковая оправа, UV400.",4.92,16061
+Guess Round Sunglasses 1160,Guess,sunglasses,male,round,metal,blue,9442,"Синие мужские очки формы круглые, металлическая оправа, UV400.",4.65,4259
+Oakley Round Sunglasses 1161,Oakley,sunglasses,unisex,round,plastic,silver,2034,"Серебристые унисекс очки формы круглые, пластиковая оправа, UV400.",4.7,18338
+Carrera Cat-Eye Sunglasses 1162,Carrera,sunglasses,male,cat-eye,metal,silver,3480,"Серебристые мужские очки формы кошачий глаз, металлическая оправа, UV400.",4.24,9509
+Ray-Ban Round Sunglasses 1163,Ray-Ban,sunglasses,unisex,round,plastic,black,6495,"Черные унисекс очки формы круглые, пластиковая оправа, UV400.",4.99,9957
+Vogue Aviator Sunglasses 1164,Vogue,sunglasses,female,aviator,metal,brown,14341,"Коричневые женские очки формы авиаторы, металлическая оправа, UV400.",4.51,1614
+Vogue Round Sunglasses 1165,Vogue,sunglasses,female,round,acetate,brown,9508,"Коричневые женские очки формы круглые, ацетатная оправа, UV400.",3.8,17961
+Carrera Aviator Sunglasses 1166,Carrera,sunglasses,male,aviator,plastic,silver,10889,"Серебристые мужские очки формы авиаторы, пластиковая оправа, UV400.",4.17,14843
+Carrera Rectangular Sunglasses 1167,Carrera,sunglasses,female,rectangular,metal,blue,13983,"Синие женские очки формы прямоугольные, металлическая оправа, UV400.",3.97,20875
+Prada Rectangular Sunglasses 1168,Prada,sunglasses,female,rectangular,acetate,brown,6828,"Коричневые женские очки формы прямоугольные, ацетатная оправа, UV400.",3.91,20492
+Guess Round Sunglasses 1169,Guess,sunglasses,female,round,plastic,silver,10363,"Серебристые женские очки формы круглые, пластиковая оправа, UV400.",3.85,21989
+Prada Square Sunglasses 1170,Prada,sunglasses,unisex,square,metal,black,13086,"Черные унисекс очки формы квадратные, металлическая оправа, UV400.",3.83,20667
+Vogue Aviator Sunglasses 1171,Vogue,sunglasses,unisex,aviator,metal,blue,4652,"Синие унисекс очки формы авиаторы, металлическая оправа, UV400.",4.95,17774
+Ray-Ban Cat-Eye Sunglasses 1172,Ray-Ban,sunglasses,unisex,cat-eye,plastic,brown,9735,"Коричневые унисекс очки формы кошачий глаз, пластиковая оправа, UV400.",4.88,3961
+Polaroid Square Sunglasses 1173,Polaroid,sunglasses,male,square,metal,brown,13060,"Коричневые мужские очки формы квадратные, металлическая оправа, UV400.",4.81,19010
+Prada Cat-Eye Sunglasses 1174,Prada,sunglasses,male,cat-eye,plastic,blue,8083,"Синие мужские очки формы кошачий глаз, пластиковая оправа, UV400.",4.51,16124
+Ray-Ban Rectangular Sunglasses 1175,Ray-Ban,sunglasses,female,rectangular,plastic,brown,1894,"Коричневые женские очки формы прямоугольные, пластиковая оправа, UV400.",4.83,10419
+Guess Aviator Sunglasses 1176,Guess,sunglasses,female,aviator,metal,black,10376,"Черные женские очки формы авиаторы, металлическая оправа, UV400.",4.0,4739
+Polaroid Aviator Sunglasses 1177,Polaroid,sunglasses,female,aviator,plastic,brown,8172,"Коричневые женские очки формы авиаторы, пластиковая оправа, UV400.",4.61,1950
+Carrera Aviator Sunglasses 1178,Carrera,sunglasses,male,aviator,plastic,black,7888,"Черные мужские очки формы авиаторы, пластиковая оправа, UV400.",3.92,4688
+Guess Square Sunglasses 1179,Guess,sunglasses,female,square,metal,silver,2349,"Серебристые женские очки формы квадратные, металлическая оправа, UV400.",4.04,24665
+SOJOS Cat-Eye Sunglasses 1180,SOJOS,sunglasses,female,cat-eye,plastic,blue,3385,"Синие женские очки формы кошачий глаз, пластиковая оправа, UV400.",4.12,10451
+Prada Rectangular Sunglasses 1181,Prada,sunglasses,unisex,rectangular,plastic,black,1973,"Черные унисекс очки формы прямоугольные, пластиковая оправа, UV400.",4.29,7679
+Ray-Ban Cat-Eye Sunglasses 1182,Ray-Ban,sunglasses,female,cat-eye,acetate,blue,3163,"Синие женские очки формы кошачий глаз, ацетатная оправа, UV400.",4.1,18196
+Polaroid Cat-Eye Sunglasses 1183,Polaroid,sunglasses,female,cat-eye,plastic,silver,2874,"Серебристые женские очки формы кошачий глаз, пластиковая оправа, UV400.",4.82,16418
+SOJOS Square Sunglasses 1184,SOJOS,sunglasses,male,square,metal,blue,14312,"Синие мужские очки формы квадратные, металлическая оправа, UV400.",4.09,13905
+Prada Aviator Sunglasses 1185,Prada,sunglasses,male,aviator,acetate,silver,6239,"Серебристые мужские очки формы авиаторы, ацетатная оправа, UV400.",4.58,5504
+Ray-Ban Rectangular Sunglasses 1186,Ray-Ban,sunglasses,male,rectangular,acetate,gold,5610,"Золотые мужские очки формы прямоугольные, ацетатная оправа, UV400.",4.81,12476
+Carrera Round Sunglasses 1187,Carrera,sunglasses,unisex,round,acetate,blue,6109,"Синие унисекс очки формы круглые, ацетатная оправа, UV400.",3.85,24241
+Oakley Aviator Sunglasses 1188,Oakley,sunglasses,female,aviator,acetate,silver,3514,"Серебристые женские очки формы авиаторы, ацетатная оправа, UV400.",4.8,23779
+Vogue Round Sunglasses 1189,Vogue,sunglasses,female,round,acetate,blue,14640,"Синие женские очки формы круглые, ацетатная оправа, UV400.",4.18,22371
+Carrera Square Sunglasses 1190,Carrera,sunglasses,unisex,square,plastic,silver,5529,"Серебристые унисекс очки формы квадратные, пластиковая оправа, UV400.",4.59,10559
+Carrera Rectangular Sunglasses 1191,Carrera,sunglasses,male,rectangular,plastic,blue,1760,"Синие мужские очки формы прямоугольные, пластиковая оправа, UV400.",4.9,4401
+Ray-Ban Rectangular Sunglasses 1192,Ray-Ban,sunglasses,unisex,rectangular,metal,black,12521,"Черные унисекс очки формы прямоугольные, металлическая оправа, UV400.",4.01,18232
+Prada Cat-Eye Sunglasses 1193,Prada,sunglasses,female,cat-eye,acetate,black,12170,"Черные женские очки формы кошачий глаз, ацетатная оправа, UV400.",3.89,1034
+Prada Aviator Sunglasses 1194,Prada,sunglasses,unisex,aviator,plastic,gold,11351,"Золотые унисекс очки формы авиаторы, пластиковая оправа, UV400.",4.23,5826
+Ray-Ban Rectangular Sunglasses 1195,Ray-Ban,sunglasses,male,rectangular,metal,gold,8783,"Золотые мужские очки формы прямоугольные, металлическая оправа, UV400.",3.81,24371
+Ray-Ban Square Sunglasses 1196,Ray-Ban,sunglasses,female,square,metal,brown,14873,"Коричневые женские очки формы квадратные, металлическая оправа, UV400.",4.54,9954
+SOJOS Rectangular Sunglasses 1197,SOJOS,sunglasses,male,rectangular,metal,gold,6099,"Золотые мужские очки формы прямоугольные, металлическая оправа, UV400.",4.39,23090
+SOJOS Round Sunglasses 1198,SOJOS,sunglasses,male,round,metal,silver,6044,"Серебристые мужские очки формы круглые, металлическая оправа, UV400.",4.48,16207
+Polaroid Round Sunglasses 1199,Polaroid,sunglasses,unisex,round,acetate,blue,12680,"Синие унисекс очки формы круглые, ацетатная оправа, UV400.",4.52,5771
+Oakley Round Sunglasses 1200,Oakley,sunglasses,unisex,round,metal,black,5753,"Черные унисекс очки формы круглые, металлическая оправа, UV400.",4.92,28052

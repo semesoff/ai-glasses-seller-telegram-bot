@@ -1,0 +1,48 @@
+services:
+  ollama:
+    image: ollama/ollama:latest
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+
+  postgres:
+    image: postgres:17
+    environment:
+      POSTGRES_DB: glasses_bot
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d glasses_bot"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  bot:
+    build: .
+    depends_on:
+      postgres:
+        condition: service_healthy
+      ollama:
+        condition: service_started
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      BOT_TOKEN: ${BOT_TOKEN:-}
+      DATABASE_URL: postgresql+asyncpg://postgres:postgres@postgres:5432/glasses_bot
+      SOURCE_PRODUCTS_CSV: app/datasets/products.csv
+      VOSK_MODEL_PATH: /app/models/vosk-model-small-ru-0.22
+      PIPER_MODEL_PATH: /app/models/piper/ru_RU-dmitri-medium.onnx
+      OLLAMA_BASE_URL: http://ollama:11434
+      OLLAMA_MODEL: ${OLLAMA_MODEL:-qwen2.5:3b}
+      LLM_ENABLED: ${LLM_ENABLED:-true}
+    command: sh -c "alembic upgrade head && python -m app.datasets.import_products && python -m app.main"
+
+volumes:
+  postgres_data:
+  ollama_data:

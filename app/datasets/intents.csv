@@ -1,0 +1,1201 @@
+query,intent
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс квадратные до 2002 рублей,SEARCH_PRODUCT
+Найди серебристые очки SOJOS,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские прямоугольные до 2013 рублей,SEARCH_PRODUCT
+Найди синие очки Guess,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские кошачий глаз до 2024 рублей,SEARCH_PRODUCT
+Найди черные очки Oakley,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс авиаторы до 2035 рублей,SEARCH_PRODUCT
+Найди коричневые очки Vogue,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские круглые до 2046 рублей,SEARCH_PRODUCT
+Найди золотые очки Prada,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские квадратные до 2057 рублей,SEARCH_PRODUCT
+Найди серебристые очки Polaroid,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс прямоугольные до 2068 рублей,SEARCH_PRODUCT
+Найди синие очки Carrera,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские кошачий глаз до 2079 рублей,SEARCH_PRODUCT
+Найди черные очки Ray-Ban,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские авиаторы до 2090 рублей,SEARCH_PRODUCT
+Найди коричневые очки SOJOS,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс круглые до 2101 рублей,SEARCH_PRODUCT
+Найди золотые очки Guess,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские квадратные до 2112 рублей,SEARCH_PRODUCT
+Найди серебристые очки Oakley,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские прямоугольные до 2123 рублей,SEARCH_PRODUCT
+Найди синие очки Vogue,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс кошачий глаз до 2134 рублей,SEARCH_PRODUCT
+Найди черные очки Prada,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские авиаторы до 2145 рублей,SEARCH_PRODUCT
+Найди коричневые очки Polaroid,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские круглые до 2156 рублей,SEARCH_PRODUCT
+Найди золотые очки Carrera,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс квадратные до 2167 рублей,SEARCH_PRODUCT
+Найди серебристые очки Ray-Ban,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские прямоугольные до 2178 рублей,SEARCH_PRODUCT
+Найди синие очки SOJOS,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские кошачий глаз до 2189 рублей,SEARCH_PRODUCT
+Найди черные очки Guess,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс авиаторы до 2200 рублей,SEARCH_PRODUCT
+Найди коричневые очки Oakley,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские круглые до 2211 рублей,SEARCH_PRODUCT
+Найди золотые очки Vogue,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские квадратные до 2222 рублей,SEARCH_PRODUCT
+Найди серебристые очки Prada,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс прямоугольные до 2233 рублей,SEARCH_PRODUCT
+Найди синие очки Polaroid,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские кошачий глаз до 2244 рублей,SEARCH_PRODUCT
+Найди черные очки Carrera,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские авиаторы до 2255 рублей,SEARCH_PRODUCT
+Найди коричневые очки Ray-Ban,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс круглые до 2266 рублей,SEARCH_PRODUCT
+Найди золотые очки SOJOS,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские квадратные до 2277 рублей,SEARCH_PRODUCT
+Найди серебристые очки Guess,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские прямоугольные до 2288 рублей,SEARCH_PRODUCT
+Найди синие очки Oakley,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс кошачий глаз до 2299 рублей,SEARCH_PRODUCT
+Найди черные очки Vogue,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские авиаторы до 2310 рублей,SEARCH_PRODUCT
+Найди коричневые очки Prada,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские круглые до 2321 рублей,SEARCH_PRODUCT
+Найди золотые очки Polaroid,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс квадратные до 2332 рублей,SEARCH_PRODUCT
+Найди серебристые очки Carrera,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские прямоугольные до 2343 рублей,SEARCH_PRODUCT
+Найди синие очки Ray-Ban,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские кошачий глаз до 2354 рублей,SEARCH_PRODUCT
+Найди черные очки SOJOS,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс авиаторы до 2365 рублей,SEARCH_PRODUCT
+Найди коричневые очки Guess,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские круглые до 2376 рублей,SEARCH_PRODUCT
+Найди золотые очки Oakley,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские квадратные до 2387 рублей,SEARCH_PRODUCT
+Найди серебристые очки Vogue,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс прямоугольные до 2398 рублей,SEARCH_PRODUCT
+Найди синие очки Prada,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские кошачий глаз до 2409 рублей,SEARCH_PRODUCT
+Найди черные очки Polaroid,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские авиаторы до 2420 рублей,SEARCH_PRODUCT
+Найди коричневые очки Carrera,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс круглые до 2431 рублей,SEARCH_PRODUCT
+Найди золотые очки Ray-Ban,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские квадратные до 2442 рублей,SEARCH_PRODUCT
+Найди серебристые очки SOJOS,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские прямоугольные до 2453 рублей,SEARCH_PRODUCT
+Найди синие очки Guess,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс кошачий глаз до 2464 рублей,SEARCH_PRODUCT
+Найди черные очки Oakley,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские авиаторы до 2475 рублей,SEARCH_PRODUCT
+Найди коричневые очки Vogue,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские круглые до 2486 рублей,SEARCH_PRODUCT
+Найди золотые очки Prada,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс квадратные до 2497 рублей,SEARCH_PRODUCT
+Найди серебристые очки Polaroid,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские прямоугольные до 2508 рублей,SEARCH_PRODUCT
+Найди синие очки Carrera,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские кошачий глаз до 2519 рублей,SEARCH_PRODUCT
+Найди черные очки Ray-Ban,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс авиаторы до 2530 рублей,SEARCH_PRODUCT
+Найди коричневые очки SOJOS,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские круглые до 2541 рублей,SEARCH_PRODUCT
+Найди золотые очки Guess,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские квадратные до 2552 рублей,SEARCH_PRODUCT
+Найди серебристые очки Oakley,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс прямоугольные до 2563 рублей,SEARCH_PRODUCT
+Найди синие очки Vogue,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские кошачий глаз до 2574 рублей,SEARCH_PRODUCT
+Найди черные очки Prada,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские авиаторы до 2585 рублей,SEARCH_PRODUCT
+Найди коричневые очки Polaroid,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс круглые до 2596 рублей,SEARCH_PRODUCT
+Найди золотые очки Carrera,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские квадратные до 2607 рублей,SEARCH_PRODUCT
+Найди серебристые очки Ray-Ban,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские прямоугольные до 2618 рублей,SEARCH_PRODUCT
+Найди синие очки SOJOS,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс кошачий глаз до 2629 рублей,SEARCH_PRODUCT
+Найди черные очки Guess,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские авиаторы до 2640 рублей,SEARCH_PRODUCT
+Найди коричневые очки Oakley,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские круглые до 2651 рублей,SEARCH_PRODUCT
+Найди золотые очки Vogue,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс квадратные до 2662 рублей,SEARCH_PRODUCT
+Найди серебристые очки Prada,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские прямоугольные до 2673 рублей,SEARCH_PRODUCT
+Найди синие очки Polaroid,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские кошачий глаз до 2684 рублей,SEARCH_PRODUCT
+Найди черные очки Carrera,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс авиаторы до 2695 рублей,SEARCH_PRODUCT
+Найди коричневые очки Ray-Ban,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские круглые до 2706 рублей,SEARCH_PRODUCT
+Найди золотые очки SOJOS,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские квадратные до 2717 рублей,SEARCH_PRODUCT
+Найди серебристые очки Guess,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс прямоугольные до 2728 рублей,SEARCH_PRODUCT
+Найди синие очки Oakley,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские кошачий глаз до 2739 рублей,SEARCH_PRODUCT
+Найди черные очки Vogue,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские авиаторы до 2750 рублей,SEARCH_PRODUCT
+Найди коричневые очки Prada,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс круглые до 2761 рублей,SEARCH_PRODUCT
+Найди золотые очки Polaroid,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские квадратные до 2772 рублей,SEARCH_PRODUCT
+Найди серебристые очки Carrera,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские прямоугольные до 2783 рублей,SEARCH_PRODUCT
+Найди синие очки Ray-Ban,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс кошачий глаз до 2794 рублей,SEARCH_PRODUCT
+Найди черные очки SOJOS,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские авиаторы до 2805 рублей,SEARCH_PRODUCT
+Найди коричневые очки Guess,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские круглые до 2816 рублей,SEARCH_PRODUCT
+Найди золотые очки Oakley,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс квадратные до 2827 рублей,SEARCH_PRODUCT
+Найди серебристые очки Vogue,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские прямоугольные до 2838 рублей,SEARCH_PRODUCT
+Найди синие очки Prada,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские кошачий глаз до 2849 рублей,SEARCH_PRODUCT
+Найди черные очки Polaroid,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс авиаторы до 2860 рублей,SEARCH_PRODUCT
+Найди коричневые очки Carrera,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские круглые до 2871 рублей,SEARCH_PRODUCT
+Найди золотые очки Ray-Ban,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские квадратные до 2882 рублей,SEARCH_PRODUCT
+Найди серебристые очки SOJOS,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс прямоугольные до 2893 рублей,SEARCH_PRODUCT
+Найди синие очки Guess,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские кошачий глаз до 2904 рублей,SEARCH_PRODUCT
+Найди черные очки Oakley,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские авиаторы до 2915 рублей,SEARCH_PRODUCT
+Найди коричневые очки Vogue,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс круглые до 2926 рублей,SEARCH_PRODUCT
+Найди золотые очки Prada,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские квадратные до 2937 рублей,SEARCH_PRODUCT
+Найди серебристые очки Polaroid,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские прямоугольные до 2948 рублей,SEARCH_PRODUCT
+Найди синие очки Carrera,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс кошачий глаз до 2959 рублей,SEARCH_PRODUCT
+Найди черные очки Ray-Ban,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские авиаторы до 2970 рублей,SEARCH_PRODUCT
+Найди коричневые очки SOJOS,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские круглые до 2981 рублей,SEARCH_PRODUCT
+Найди золотые очки Guess,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс квадратные до 2992 рублей,SEARCH_PRODUCT
+Найди серебристые очки Oakley,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские прямоугольные до 3003 рублей,SEARCH_PRODUCT
+Найди синие очки Vogue,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские кошачий глаз до 3014 рублей,SEARCH_PRODUCT
+Найди черные очки Prada,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс авиаторы до 3025 рублей,SEARCH_PRODUCT
+Найди коричневые очки Polaroid,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские круглые до 3036 рублей,SEARCH_PRODUCT
+Найди золотые очки Carrera,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские квадратные до 3047 рублей,SEARCH_PRODUCT
+Найди серебристые очки Ray-Ban,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс прямоугольные до 3058 рублей,SEARCH_PRODUCT
+Найди синие очки SOJOS,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские кошачий глаз до 3069 рублей,SEARCH_PRODUCT
+Найди черные очки Guess,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские авиаторы до 3080 рублей,SEARCH_PRODUCT
+Найди коричневые очки Oakley,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс круглые до 3091 рублей,SEARCH_PRODUCT
+Найди золотые очки Vogue,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские квадратные до 3102 рублей,SEARCH_PRODUCT
+Найди серебристые очки Prada,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские прямоугольные до 3113 рублей,SEARCH_PRODUCT
+Найди синие очки Polaroid,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс кошачий глаз до 3124 рублей,SEARCH_PRODUCT
+Найди черные очки Carrera,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские авиаторы до 3135 рублей,SEARCH_PRODUCT
+Найди коричневые очки Ray-Ban,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские круглые до 3146 рублей,SEARCH_PRODUCT
+Найди золотые очки SOJOS,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс квадратные до 3157 рублей,SEARCH_PRODUCT
+Найди серебристые очки Guess,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу женские прямоугольные до 3168 рублей,SEARCH_PRODUCT
+Найди синие очки Oakley,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу мужские кошачий глаз до 3179 рублей,SEARCH_PRODUCT
+Найди черные очки Vogue,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
+Открой каталог очков,SHOW_CATALOG
+Хочу унисекс авиаторы до 3190 рублей,SEARCH_PRODUCT
+Найди коричневые очки Prada,SEARCH_PRODUCT
+Есть доставка?,ASK_DELIVERY
+Сколько идет доставка?,ASK_DELIVERY
+Как оплатить заказ?,ASK_PAYMENT
+Можно оплатить картой?,ASK_PAYMENT
+Можно вернуть товар?,ASK_RETURN
+Хочу оформить заказ,CREATE_ORDER
+Привет,GREETING
+Покажи каталог,SHOW_CATALOG
